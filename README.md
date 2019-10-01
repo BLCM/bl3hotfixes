@@ -2,7 +2,7 @@ BL3 Hotfix Archive
 ==================
 
 This is an archive of the hotfixes which are being sent to Borderlands 3.
-The first hotfix data was manually collected on September 27, 2019, and
+The first hotfix data was manually collected on September 21, 2019, and
 the next few after that were collected manually as well.  Starting on
 October 1, 2019, this project was created to check the hotfix data every
 hour and write out the hotfixes automatically.
