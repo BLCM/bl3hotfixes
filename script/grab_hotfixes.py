@@ -11,6 +11,7 @@ import datetime
 
 hotfix_url = 'https://discovery.services.gearboxsoftware.com/v2/client/epic/pc/oak/verification'
 output_dir = '/home/pez/git/b2patching/bl3hotfixes'
+cumulative_file = 'hotfixes_current.json'
 
 # Get our cache dir, and create if it doesn't exist
 cache_dir = appdirs.user_cache_dir('bl3hotfixes', 'Apocalyptech')
@@ -72,9 +73,15 @@ if do_write:
     with open(os.path.join(output_dir, hotfix_filename), 'w') as df:
         df.write(hotfixes)
 
+    # Now write to our cumulative file
+    print('Writing new hotfixes to {}'.format(cumulative_file))
+    with open(os.path.join(output_dir, cumulative_file), 'w') as df:
+        df.write(hotfixes)
+
     # Do the git interaction
     print('Pushing to git')
     repo = git.Repo(output_dir)
     repo.git.add('--', hotfix_filename)
+    repo.git.add('--', cumulative_file)
     repo.git.commit('-a', '-m', 'Auto-update with new hotfixes')
     repo.git.push()
