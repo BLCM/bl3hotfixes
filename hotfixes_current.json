@@ -820,10 +820,6 @@
       "value": "(1,1,1,Mansion_P),/Game/Maps/Zone_2/Mansion/Mansion_Mission.Mansion_Mission:PersistentLevel.OakMissionSpawner_4.SpawnerComponent,SpawnerComponent.Object..bAlwaysActive,5,False,True"
     },
     {
-      "key": "SparkLevelPatchEntry325.Major",
-      "value": "(1,1,0,Wetlands_P),/Game/Maps/Zone_2/Wetlands/Wetlands_M_EP08PrisonBreak.Wetlands_M_EP08PrisonBreak:PersistentLevel.OakMissionWaypointBox_9.MissionCondition_List_14,TriggerComponent.Object..EnabledCondition.Object.Operator,3,And,Or"
-    },
-    {
       "key": "SparkLevelPatchEntry326",
       "value": "(1,1,0,Sanctuary3_P),/Game/Maps/Sanctuary3/Sanctuary3_Dynamic.Sanctuary3_Dynamic:PersistentLevel.IO_Door_400x400_SlideRight_Spaceships_Generi_11.Cond_DoorFeedbackState_NewEnumerator0_MissionCondition_List,.Cond_DoorFeedbackState_NewEnumerator0.Object.Conditions.Conditions[0],259,MissionEnableConditionObjective'/Game/Maps/Sanctuary3/Sanctuary3_Dynamic.Sanctuary3_Dynamic:PersistentLevel.IO_Door_400x400_SlideRight_Spaceships_Generi_11.Cond_DoorFeedbackState_NewEnumerator0_MissionCondition_List.Conditions_MissionEnableConditionObjective',None"
     },
@@ -842,114 +838,6 @@
     {
       "key": "SparkLevelPatchEntry330",
       "value": "(1,1,0,Sanctuary3_P),/Game/Maps/Sanctuary3/Sanctuary3_Dynamic.Sanctuary3_Dynamic:PersistentLevel.IO_Door_400x400_SlideRight_Spaceships_Generi_2.Cond_DoorFeedbackState_NewEnumerator0_MissionCondition_List,.Cond_DoorFeedbackState_NewEnumerator0.Conditions.Conditions[1].Conditions.Conditions[0],318,MissionEnableConditionObjective'/Game/Maps/Sanctuary3/Sanctuary3_Dynamic.Sanctuary3_Dynamic:PersistentLevel.IO_Door_400x400_SlideRight_Spaceships_Generi_2.Cond_DoorFeedbackState_NewEnumerator0_MissionCondition_List.Cond_DoorFeedbackState_NewEnumerator0_MissionCondition_List.Conditions_MissionEnableConditionObjective',None"
-    },
-    {
-      "key": "SparkLevelPatchEntry331",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_1.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,166,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Timed,bOverrideRespawnStyle=False,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Timed,bOverrideRespawnStyle=False,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry332",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round1Wave.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry333",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round1Wave_5.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry334",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round1Wave_0.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry335",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round2Wave.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry336",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round2Wave_1.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry337",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round2Wave_2.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry338",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round2Wave_3.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry339",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round3Wave.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry340",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round3Wave_4.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry341",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round3Wave_5.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry342",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round3Wave_6.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry343",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round4Wave.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry344",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round4Wave_7.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry345",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round4Wave_8.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry346",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round4Wave_9.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry347",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round5Wave.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry348",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round5Wave_10.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry349",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round5Wave_11.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry350",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round5Wave_12.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry351",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakMissionSpawner_Round5Wave_13.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,165,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Level,bOverrideRespawnStyle=True,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry352",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakSpawner_1.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,166,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Timed,bOverrideRespawnStyle=False,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Timed,bOverrideRespawnStyle=False,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry353",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakSpawner_3.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,166,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Timed,bOverrideRespawnStyle=False,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Timed,bOverrideRespawnStyle=False,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry354",
-      "value": "(1,1,1,CreatureSlaughter_P),/Game/Maps/Slaughters/CreatureSlaughter/CreatureSlaughter_P.CreatureSlaughter_P:PersistentLevel.OakSpawner_AmmoSpawner.SpawnerComponent,SpawnerComponent.Object..SpawnDetails,166,(Critical=NotCritical,bOverrideCritical=False,RespawnStyle=Timed,bOverrideRespawnStyle=False,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False),(Critical=Critical,bOverrideCritical=True,RespawnStyle=Timed,bOverrideRespawnStyle=False,IrrelevantAction=Suspend,bOverrideIrrelevantAction=False,bCritical=False)"
-    },
-    {
-      "key": "SparkLevelPatchEntry355.Major",
-      "value": "(1,1,1,Crypt_P),/Game/Maps/Zone_4/Crypt/Crypt_M_EP22TheMachine.Crypt_M_EP22TheMachine:PersistentLevel.OakMissionWaypointBox_CryptEntered_0.CollisionComp,RelativeLocation,43,(X=-4390.000000,Y=-110.000336,Z=250.000000),(X=850.000000,Y=-110.000336,Z=250.000000)"
-    },
-    {
-      "key": "SparkLevelPatchEntry356.Major",
-      "value": "(1,1,1,Crypt_P),/Game/Maps/Zone_4/Crypt/Crypt_M_EP22TheMachine.Crypt_M_EP22TheMachine:PersistentLevel.OakMissionWaypointBox_CryptEntered_0.CollisionComp,RelativeScale3D,41,(X=4000.000000,Y=200.000000,Z=800.000000),(X=5000.000000,Y=8000.000000,Z=800.000000)"
-    },
-    {
-      "key": "SparkSaveGameEntry1.Major",
-      "value": "(1,4,0,),/Game/Missions/Plot/Mission_Ep22_TheMachine.Mission_Ep22_TheMachine_C,1,/Game/Missions/Plot/Mission_Ep22_TheMachine.Set_GoToPrometheaActivator1_ObjectiveSet,(14,15),(1,0),(1,1)"
     },
     {
       "key": "SparkLevelPatchEntry236",
@@ -1812,22 +1700,6 @@
       "value": "(1,1,0,WetlandsVault_P),/Game/Enemies/_Spawning/CotV/_Mixes/Zone_2/WetlandsVault/SpawnOptions_CoVMix_WetlandsVault.SpawnOptions_CoVMix_WetlandsVault,Options.Options[9].WeightParam,413,(ValueType=Float,DisabledValueModes=110,ValueFlags=0,ValueMode=Value,Range=(Value=0.150000,Variance=0.000000),AttributeInitializer=None,AttributeData=None,AttributeInitializationData=(BaseValueConstant=0.000000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),BlackboardKey=(KeyName=\"\",bRuntimeKey=False),Condition=None,Actor=None),(ValueType=Float,DisabledValueModes=110,ValueFlags=0,ValueMode=Value,Range=(Value=0.075,Variance=0.000000),AttributeInitializer=None,AttributeData=None,AttributeInitializationData=(BaseValueConstant=0.000000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),BlackboardKey=(KeyName=\"\",bRuntimeKey=False),Condition=None,Actor=None)"
     },
     {
-      "key": "SparkLevelPatchEntry446",
-      "value": "(1,1,1,Sanctuary3_P),/Game/Maps/Sanctuary3/Sanctuary3_Mission.Sanctuary3_Mission:PersistentLevel.IO_Sanctuary_CreditsComputer_2.DefaultSceneRoot,RelativeLocation,43,(X=14408.213867,Y=4546.661621,Z=-99.881012),(X=14408.213867,Y=4546.661621,Z=9000)"
-    },
-    {
-      "key": "SparkLevelPatchEntry447",
-      "value": "(1,1,1,Sanctuary3_P),/Game/Maps/Sanctuary3/Sanctuary3_P.Sanctuary3_P:PersistentLevel.SM_Spaceship_Pipe_Quint__46.StaticMeshComponent0,RelativeLocation,42,(X=14371.142578,Y=4591.267090,Z=32.499512),(X=14371.142578,Y=4591.267090,Z=9000)"
-    },
-    {
-      "key": "SparkLevelPatchEntry448",
-      "value": "(1,1,1,Sanctuary3_P),/Game/Maps/Sanctuary3/Sanctuary3_P.Sanctuary3_P:PersistentLevel.SM_Spaceship_Pipe_Quint__47.StaticMeshComponent0,RelativeLocation,43,(X=14372.219727,Y=4721.329590,Z=-94.450562),(X=14372.219727,Y=4721.329590,Z=9000)"
-    },
-    {
-      "key": "SparkLevelPatchEntry449",
-      "value": "(1,1,1,Sanctuary3_P),/Game/Maps/Sanctuary3/Sanctuary3_P.Sanctuary3_P:PersistentLevel.SM_Spaceship_Pipe_Quint__48.StaticMeshComponent0,RelativeLocation,43,(X=14372.219727,Y=4719.479004,Z=-94.450562),(X=14372.219727,Y=4719.479004,Z=9000)"
-    },
-    {
       "key": "SparkLevelPatchEntry451",
       "value": "(1,1,0,Sanctuary3_P),/Game/Maps/Sanctuary3/Sanctuary3_Mission.Sanctuary3_Mission:PersistentLevel.IO_MissionPlaceable_Static_MayhemKey_2.Usable,UsablePriority,1,0,1"
     },
@@ -2074,6 +1946,414 @@
     {
       "key": "SparkPatchEntry161",
       "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,BaseScanVehicleExperienceFormula.BaseValueScale,8,1.000000,0.100000"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry4",
+      "value": "(1,1,0,BPChar_Enforcer_BountyPrologue),/Game/Enemies/Enforcer/_Unique/BountyPrologue/_Design/Character/BPChar_Enforcer_BountyPrologue.BPChar_Enforcer_BountyPrologue_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPoolLists.ItemPoolLists[0],113,ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_BadassEnemyGunsGear.ItemPoolList_BadassEnemyGunsGear',ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry5",
+      "value": "(1,1,0,BPChar_Punk_Bounty01b),/Game/Enemies/Punk_Female/_Unique/Bounty01/_Design/Character/b/BPChar_Punk_Bounty01b.BPChar_Punk_Bounty01b_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPools,384,((ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Unique/ItemPool_ElectricBanjo_GoreGirls.ItemPool_ElectricBanjo_GoreGirls\"',PoolProbability=(DataTableValue=(DataTable=DataTable'\"/Game/GameData/Loot/ItemPools/Table_LegendarySpecificLootOdds.Table_LegendarySpecificLootOdds\"',RowName=\"GoreGirls\",ValueName=\"LegendaryDropChance_Playthrough2_50_11E6C8E8493E0A73AF9B35891E7CE111\")))),"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry6",
+      "value": "(1,1,0,BPChar_Punk_Bounty01c),/Game/Enemies/Punk_Female/_Unique/Bounty01/_Design/Character/c/BPChar_Punk_Bounty01c.BPChar_Punk_Bounty01c_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPools,384,((ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Unique/ItemPool_ElectricBanjo_GoreGirls.ItemPool_ElectricBanjo_GoreGirls\"',PoolProbability=(DataTableValue=(DataTable=DataTable'\"/Game/GameData/Loot/ItemPools/Table_LegendarySpecificLootOdds.Table_LegendarySpecificLootOdds\"',RowName=\"GoreGirls\",ValueName=\"LegendaryDropChance_Playthrough2_50_11E6C8E8493E0A73AF9B35891E7CE111\")))),"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry7",
+      "value": "(1,1,0,BPChar_Punk_Bounty01d),/Game/Enemies/Punk_Female/_Unique/Bounty01/_Design/Character/d/BPChar_Punk_Bounty01d.BPChar_Punk_Bounty01d_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPools,384,((ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Unique/ItemPool_ElectricBanjo_GoreGirls.ItemPool_ElectricBanjo_GoreGirls\"',PoolProbability=(DataTableValue=(DataTable=DataTable'\"/Game/GameData/Loot/ItemPools/Table_LegendarySpecificLootOdds.Table_LegendarySpecificLootOdds\"',RowName=\"GoreGirls\",ValueName=\"LegendaryDropChance_Playthrough2_50_11E6C8E8493E0A73AF9B35891E7CE111\")))),"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry8",
+      "value": "(1,1,0,BPChar_Tink_Bounty01),/Game/Enemies/Tink/_Unique/Bounty01/_Design/Character/BPChar_Tink_Bounty01.BPChar_Tink_Bounty01_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPoolLists.ItemPoolLists[0],113,ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_BadassEnemyGunsGear.ItemPoolList_BadassEnemyGunsGear',ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry9",
+      "value": "(1,1,0,BPChar_Trooper_Bounty01),/Game/Enemies/Trooper/_Unique/Bounty01/_Design/Character/BPChar_Trooper_Bounty01.BPChar_Trooper_Bounty01_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPoolLists.ItemPoolLists[0],123,ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_StandardEnemyGunsandGear.ItemPoolList_StandardEnemyGunsandGear',ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry10",
+      "value": "(1,1,0,BPChar_TrooperBounty03),/Game/Enemies/Trooper/_Unique/Bounty03/Design/Character/BPChar_TrooperBounty03.BPChar_TrooperBounty03_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPoolLists.ItemPoolLists[0],123,ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_StandardEnemyGunsandGear.ItemPoolList_StandardEnemyGunsandGear',ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_BadassEnemyGunsGear.ItemPoolList_BadassEnemyGunsGear'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry12",
+      "value": "(1,1,0,BPChar_Nekrobug_Hunt01),/Game/Enemies/Nekrobug/_Unique/Hunt01/_Design/Character/BPChar_Nekrobug_Hunt01.BPChar_Nekrobug_Hunt01_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPoolLists.ItemPoolLists[0],113,ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_BadassEnemyGunsGear.ItemPoolList_BadassEnemyGunsGear',ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry13",
+      "value": "(1,1,0,BPChar_Rakk_Hunt01),/Game/Enemies/Rakk/_Unique/Hunt01/_Design/Character/BPChar_Rakk_Hunt01.BPChar_Rakk_Hunt01_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPoolLists.ItemPoolLists[0],113,ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_BadassEnemyGunsGear.ItemPoolList_BadassEnemyGunsGear',ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry14",
+      "value": "(1,1,0,BPChar_Rakk_HuntSkrakk),/Game/Enemies/Rakk/_Unique/HuntSkrakk/_Design/Character/BPChar_Rakk_HuntSkrakk.BPChar_Rakk_HuntSkrakk_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPoolLists.ItemPoolLists[0],113,ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_BadassEnemyGunsGear.ItemPoolList_BadassEnemyGunsGear',ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry15",
+      "value": "(1,1,0,BPChar_Saurian_Hunt01),/Game/Enemies/Saurian/_Unique/Hunt01/_Design/Character/BPChar_Saurian_Hunt01.BPChar_Saurian_Hunt01_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPoolLists.ItemPoolLists[0],113,ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_BadassEnemyGunsGear.ItemPoolList_BadassEnemyGunsGear',ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry17",
+      "value": "(1,1,0,BPChar_Saurian_Rare01),/Game/Enemies/Saurian/_Unique/Rare01/_Design/Character/BPChar_Saurian_Rare01.BPChar_Saurian_Rare01_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPoolLists.ItemPoolLists[0],113,ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_BadassEnemyGunsGear.ItemPoolList_BadassEnemyGunsGear',ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry18",
+      "value": "(1,1,0,BPChar_Skag_Rare01),/Game/Enemies/Skag/_Unique/Rare01/_Design/Character/BPChar_Skag_Rare01.BPChar_Skag_Rare01_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPoolLists.ItemPoolLists[0],113,ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_BadassEnemyGunsGear.ItemPoolList_BadassEnemyGunsGear',ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry19",
+      "value": "(1,1,0,BPChar_AtlasSoldier_Bounty01),/Game/NonPlayerCharacters/_Promethea/AtlasSoldier/_Design/Character/BPChar_AtlasSoldier_Bounty01.BPChar_AtlasSoldier_Bounty01_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPoolLists.ItemPoolLists[0],113,ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_BadassEnemyGunsGear.ItemPoolList_BadassEnemyGunsGear',ItemPoolListData'/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry20",
+      "value": "(1,1,0,BPChar_AtlasSoldier_BountyGang),/Game/NonPlayerCharacters/_Promethea/AtlasSoldier/_Design/Character/BPChar_AtlasSoldier_BountyGang.BPChar_AtlasSoldier_BountyGang_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPoolLists,0,,(ItemPoolListData'\"/Game/GameData/Loot/ItemPools/ItemPoolList_StandardEnemyGunsandGear.ItemPoolList_StandardEnemyGunsandGear\"')"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry23",
+      "value": "(1,1,0,BPChar_Spiderant_Hunt01),/Game/Enemies/Spiderant/_Unique/Hunt01/_Design/Character/BPChar_Spiderant_Hunt01.BPChar_Spiderant_Hunt01_C:AIBalanceState_GEN_VARIABLE,DropOnDeathItemPools.ItemPools,0,,((ItemPool=ItemPoolData'\"/Game/Enemies/Spiderant/_Unique/Hunt01/_Design/Character/ItemPool_Spiderant01_Hunt.ItemPool_Spiderant01_Hunt\"'))"
+    },
+    {
+      "key": "SparkLevelPatchEntry474",
+      "value": "(1,1,0,MarshFields_P),/Game/Maps/Zone_2/MarshFields/MarshFields_Combat.MarshFields_Combat:PersistentLevel.OakSpawner_KillChallenge.DefaultBalanceStateComponent,BalanceStateComponent.Object..Region,94,RegionData'/Game/GameData/Regions/Zone2/Region_Zone2_MarshFields_A.Region_Zone2_MarshFields_A',RegionData'/Game/GameData/Regions/Zone2/Region_Zone2_MarshFields_B.Region_Zone2_MarshFields_B'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry24",
+      "value": "(1,2,0,BPChar_RatchBadRat),/Game/Enemies/Ratch/_Shared/_Design/Balance/Table_Balance_Ratch_Unique.Table_Balance_Ratch_Unique,Ratch_Gary,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry25",
+      "value": "(1,2,0,BPChar_Ratch_Hunt01),/Game/Enemies/Ratch/_Shared/_Design/Balance/Table_Balance_Ratch_Unique.Table_Balance_Ratch_Unique,Ratch_01Hunt,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry26",
+      "value": "(1,2,0,BPChar_RatchHiveAnchor),/Game/Enemies/Ratch/_Shared/_Design/Balance/Table_Balance_Ratch_Unique.Table_Balance_Ratch_Unique,Ratch_HiveAnchor,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry27",
+      "value": "(1,2,0,BPChar_VarkidHunt01),/Game/Enemies/Varkid/_Shared/_Design/Balance/Table_Varkid_Balance_Unique.Table_Varkid_Balance_Unique,Hunt01,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,27,(DataTable=None,RowName=\"\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry28",
+      "value": "(1,2,0,BPChar_NogChipHolder),/Game/Enemies/Nog/_Shared/_Design/Balance/Table_Balance_Nog_Unique.Table_Balance_Nog_Unique,Nog_ChipHolder,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,147,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"UltimateBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry29",
+      "value": "(1,2,0,BPChar_Nog01_Bounty),/Game/Enemies/Nog/_Shared/_Design/Balance/Table_Balance_Nog_Unique.Table_Balance_Nog_Unique,Nog01_Bounty,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,27,(DataTable=None,RowName=\"\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry31",
+      "value": "(1,2,0,BPChar_SpiderantCakeRoyalty),/Game/Enemies/Spiderant/_Shared/_Design/Balance/Table_Balance_Spiderant_Unique.Table_Balance_Spiderant_Unique,Spiderant_CakeRoyalty,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry32",
+      "value": "(1,2,0,BPChar_SpiderantTarantella),/Game/Enemies/Spiderant/_Shared/_Design/Balance/Table_Balance_Spiderant_Unique.Table_Balance_Spiderant_Unique,Tarantella,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,147,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"UltimateBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry33",
+      "value": "(1,2,0,BPChar_PsychoRare03),/Game/Enemies/Psycho_Male/_Shared/_Design/Balance/Table_Psycho_Balance_Unique.Table_Psycho_Balance_Unique,Rare03,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,139,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry34",
+      "value": "(1,2,0,BPChar_PsychoRare02),/Game/Enemies/Psycho_Male/_Shared/_Design/Balance/Table_Psycho_Balance_Unique.Table_Psycho_Balance_Unique,Rare02,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,139,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry35",
+      "value": "(1,2,0,BPChar_Rakkman),/Game/Enemies/Psycho_Male/_Shared/_Design/Balance/Table_Psycho_Balance_Unique.Table_Psycho_Balance_Unique,Rakkman,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,27,(DataTable=None,RowName=\"\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry36",
+      "value": "(1,2,0,BPChar_OnePunch),/Game/Enemies/Psycho_Male/_Shared/_Design/Balance/Table_Psycho_Balance_Unique.Table_Psycho_Balance_Unique,OnePunch,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,27,(DataTable=None,RowName=\"\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry37",
+      "value": "(1,2,0,BPChar_Heavy_Bounty01),/Game/Enemies/Heavy/_Shared/_Design/Balance/Table_Balance_Heavy_Unique.Table_Balance_Heavy_Unique,Heavy_Bounty01,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,139,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry38",
+      "value": "(1,2,0,BPChar_HeavyDinerBoss),/Game/Enemies/Heavy/_Shared/_Design/Balance/Table_Balance_Heavy_Unique.Table_Balance_Heavy_Unique,DinerBoss,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,27,(DataTable=None,RowName=\"\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry39",
+      "value": "(1,2,0,BPChar_HeavyFootstepsOfGiants),/Game/Enemies/Heavy/_Shared/_Design/Balance/Table_Balance_Heavy_Unique.Table_Balance_Heavy_Unique,FootstepsOfGiants,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,27,(DataTable=None,RowName=\"\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry40",
+      "value": "(1,2,0,BPChar_Saurian_Rare01),/Game/Enemies/Saurian/_Shared/_Design/Balance/Table_Balance_Saurian_Unique.Table_Balance_Saurian_Unique,Saurian_Rare01,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,139,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry41",
+      "value": "(1,2,0,BPChar_SkagAntEater),/Game/Enemies/Skag/_Shared/_Design/Balance/Table_Skag_Balance_Unique.Table_Skag_Balance_Unique,AntEater,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,147,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"UltimateBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry42",
+      "value": "(1,2,0,BPChar_SkagAntEater),/Game/Enemies/Skag/_Shared/_Design/Balance/Table_Skag_Balance_Unique.Table_Skag_Balance_Unique,AntEater,ExperienceType_8_73D53DF14EC1787599308F9A13A91D97,14,NewEnumerator7,NewEnumerator6"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry43",
+      "value": "(1,2,0,BPChar_Skag_Rare01),/Game/Enemies/Skag/_Shared/_Design/Balance/Table_Skag_Balance_Unique.Table_Skag_Balance_Unique,DemoSkag,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry44",
+      "value": "(1,2,0,BPChar_Oversphere_KatagawaSphere),/Game/Enemies/Oversphere/_Shared/_Design/Balance/Table_Balance_Oversphere_Unique.Table_Balance_Oversphere_Unique,Oversphere_Katagawa,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,147,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"UltimateBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry45",
+      "value": "(1,2,0,BPChar_Nekrobug_BetterTimes),/Game/Enemies/Nekrobug/_Shared/_Design/Balance/Table_Balance_Nekrobug_Unique.Table_Balance_Nekrobug_Unique,Nekrobug_BetterTimes,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry46",
+      "value": "(1,2,0,BPChar_GuardianBeachVault),/Game/Enemies/Guardian/_Shared/_Design/Balance/Table_Balance_Guardian_Unique.Table_Balance_Guardian_Unique,Guardian_BeachVault_TheBerserker,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry47",
+      "value": "(1,2,0,BPChar_MechEvilAI),/Game/Enemies/Mech/_Shared/_Design/Balance/Table_Balance_Mech_Unique.Table_Balance_Mech_Unique,Mech_EvilAI,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,139,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry48",
+      "value": "(1,2,0,BPChar_EnforcerKillaVolt),/Game/Enemies/Enforcer/_Shared/_Design/Balance/Table_Enforcer_Balance_Unique.Table_Enforcer_Balance_Unique,Enforcer_KillaVolt,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,139,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry49",
+      "value": "(1,2,0,BPChar_EnforcerSacrificeBoss),/Game/Enemies/Enforcer/_Shared/_Design/Balance/Table_Enforcer_Balance_Unique.Table_Enforcer_Balance_Unique,Enforcer_Mouthpiece,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,139,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry50",
+      "value": "(1,2,0,BPChar_Enforcer_BountyPrologue),/Game/Enemies/Enforcer/_Shared/_Design/Balance/Table_Enforcer_Balance_Unique.Table_Enforcer_Balance_Unique,Enforcer_BountyPrologue,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry51",
+      "value": "(1,2,0,BPChar_GoonBounty01),/Game/Enemies/Goon/_Shared/_Design/Balance/Table_Balance_Goon_Unique.Table_Balance_Goon_Unique,Goon_RoidRage,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,147,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"UltimateBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry52",
+      "value": "(1,2,0,BPChar_Goon_Rare01),/Game/Enemies/Goon/_Shared/_Design/Balance/Table_Balance_Goon_Unique.Table_Balance_Goon_Unique,Goon_Rare01,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry53",
+      "value": "(1,2,0,BPChar_Goliath_Bounty01),/Game/Enemies/Goliath/_Shared/_Design/Balance/Table_Balance_Goliath_Unique.Table_Balance_Goliath_Unique,Bounty01,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry54",
+      "value": "(1,2,0,BPChar_Goliath_Rare01),/Game/Enemies/Goliath/_Shared/_Design/Balance/Table_Balance_Goliath_Unique.Table_Balance_Goliath_Unique,Rare01,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry55",
+      "value": "(1,2,0,BPChar_Goliath_Rare02),/Game/Enemies/Goliath/_Shared/_Design/Balance/Table_Balance_Goliath_Unique.Table_Balance_Goliath_Unique,Rare02,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry56",
+      "value": "(1,2,0,BPChar_Goliath_Rare03),/Game/Enemies/Goliath/_Shared/_Design/Balance/Table_Balance_Goliath_Unique.Table_Balance_Goliath_Unique,Rare03,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Anointed\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry57",
+      "value": "(1,2,0,BPChar_TinkUndertaker),/Game/Enemies/Tink/_Shared/_Design/Balance/Table_Balance_Tink_Unique.Table_Balance_Tink_Unique,Tink_BountyPrologue,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,144,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"Badass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry21",
+      "value": "(1,2,0,BPChar_AureliaBoss),/Game/NonPlayerCharacters/Aurelia/_TheBoss/_Design/Balance/Table_Balance_AureliaBoss.Table_Balance_AureliaBoss,AureliaBoss,LootRarityModifier_26_95E080A844632E94012641B3BA7B57DC,147,(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"UltimateBadass\"),(DataTable=DataTable'\"/Game/GameData/Loot/RarityWeighting/DataTable_Lootable_BalanceData.DataTable_Lootable_BalanceData\"',RowName=\"SuperBadass\")"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry22",
+      "value": "(1,2,0,BPChar_AureliaBoss),/Game/NonPlayerCharacters/Aurelia/_TheBoss/_Design/Balance/Table_Balance_AureliaBoss.Table_Balance_AureliaBoss,AureliaBoss,ExperienceType_8_73D53DF14EC1787599308F9A13A91D97,14,NewEnumerator8,NewEnumerator7"
+    },
+    {
+      "key": "SparkPatchEntry195",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_Base_Data.DataTable_Weapon_Base_Data,SniperRifle,CritDamageScale_61_5876F7BA4086CE2615C39F84E7409B3C,8,1.000000,1.200000"
+    },
+    {
+      "key": "SparkPatchEntry196",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_Base_Data.DataTable_Weapon_Base_Data,SniperRifle,FirerateScale_29_F95FBBA045F4F1899B3F7AB7A2CF0F22,8,1.000000,1.1500000"
+    },
+    {
+      "key": "SparkPatchEntry197",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_Base_Data.DataTable_Weapon_Base_Data,SniperRifle,ZoomTimeScale_51_AFCCE491453F50E193F0B6935706EEF2,8,0.950000,0.800000"
+    },
+    {
+      "key": "SparkPatchEntry198",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_Base_Data.DataTable_Weapon_Base_Data,SniperRifle,EquipTime_47_391D5B8C4D0759E7FA619A8947BE0458,8,1.300000,1.100000"
+    },
+    {
+      "key": "SparkPatchEntry165",
+      "value": "(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/GuardianRank/GuardianPerk_Enforcer_75.GuardianPerk_Enforcer_75,PerkAbilityClass,154,BlueprintGeneratedClass'/Game/PlayerCharacters/_Shared/_Design/GuardianRank/Abilities/Ability_GuardianRank_HollowPoint.Ability_GuardianRank_HollowPoint_C',none"
+    },
+    {
+      "key": "SparkPatchEntry202",
+      "value": "(1,1,0,),/Game/GameData/Loot/ItemPools/VendingMachines/DA_ItemPool_VendingMachine_Health_OfTheDay.DA_ItemPool_VendingMachine_Health_OfTheDay,BalancedItems,1670,((ItemPoolData=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Shields/ItemPool_Shields_02_Uncommon.ItemPool_Shields_02_Uncommon\"',Weight=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_02_Uncommon.Att_RarityWeight_02_Uncommon\"')),(ItemPoolData=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Shields/ItemPool_Shields_03_Rare.ItemPool_Shields_03_Rare\"',Weight=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_03_Rare.Att_RarityWeight_03_Rare\"')),(ItemPoolData=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Shields/ItemPool_Shields_04_VeryRare.ItemPool_Shields_04_VeryRare\"',Weight=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_04_VeryRare.Att_RarityWeight_04_VeryRare\"')),(ItemPoolData=ItemPoolData'\"/Game/Gear/ClassMods/_Design/ItemPools/ItemPool_ClassMods_02_Uncommon.ItemPool_ClassMods_02_Uncommon\"',Weight=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_02_Uncommon.Att_RarityWeight_02_Uncommon\"',BaseValueScale=0.200000)),(ItemPoolData=ItemPoolData'\"/Game/Gear/ClassMods/_Design/ItemPools/ItemPool_ClassMods_03_Rare.ItemPool_ClassMods_03_Rare\"',Weight=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_03_Rare.Att_RarityWeight_03_Rare\"',BaseValueScale=0.200000)),(ItemPoolData=ItemPoolData'\"/Game/Gear/ClassMods/_Design/ItemPools/ItemPool_ClassMods_04_VeryRare.ItemPool_ClassMods_04_VeryRare\"',Weight=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_04_VeryRare.Att_RarityWeight_04_VeryRare\"',BaseValueScale=0.200000))),((ItemPoolData=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Shields/ItemPool_Shields_02_Uncommon.ItemPool_Shields_02_Uncommon\"',Weight=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_02_Uncommon.Att_RarityWeight_02_Uncommon\"',BaseValueScale=0.001000)),(ItemPoolData=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Shields/ItemPool_Shields_03_Rare.ItemPool_Shields_03_Rare\"',Weight=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_03_Rare.Att_RarityWeight_03_Rare\"')),(ItemPoolData=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Shields/ItemPool_Shields_04_VeryRare.ItemPool_Shields_04_VeryRare\"',Weight=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_04_VeryRare.Att_RarityWeight_04_VeryRare\"')),(ItemPoolData=ItemPoolData'\"/Game/Gear/ClassMods/_Design/ItemPools/ItemPool_ClassMods_02_Uncommon.ItemPool_ClassMods_02_Uncommon\"',Weight=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_02_Uncommon.Att_RarityWeight_02_Uncommon\"',BaseValueScale=0.001000)),(ItemPoolData=ItemPoolData'\"/Game/Gear/ClassMods/_Design/ItemPools/ItemPool_ClassMods_03_Rare.ItemPool_ClassMods_03_Rare\"',Weight=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_03_Rare.Att_RarityWeight_03_Rare\"',BaseValueScale=0.200000)),(ItemPoolData=ItemPoolData'\"/Game/Gear/ClassMods/_Design/ItemPools/ItemPool_ClassMods_04_VeryRare.ItemPool_ClassMods_04_VeryRare\"',Weight=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_04_VeryRare.Att_RarityWeight_04_VeryRare\"',BaseValueScale=0.200000)))"
+    },
+    {
+      "key": "SparkPatchEntry204",
+      "value": "(1,1,0,),/Game/GameData/Loot/ItemPools/VendingMachines/DA_ItemPool_VendingMachine_Ammo_OfTheDay.DA_ItemPool_VendingMachine_Ammo_OfTheDay,BalancedItems.BalancedItems[0].Weight.BaseValueScale,8,1.000000,0.001000"
+    },
+    {
+      "key": "SparkPatchEntry205",
+      "value": "(1,1,0,),/Game/GameData/Loot/ItemPools/VendingMachines/DA_ItemPool_VendingMachine_Weapons_OfTheDay.DA_ItemPool_VendingMachine_Weapons_OfTheDay,BalancedItems.BalancedItems[0].Weight.BaseValueScale,8,1.000000,0.001000"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry94",
+      "value": "(1,1,0,BPChar_Rampager),/Game/Enemies/PrometheaBoss/_Shared/_Design/LootPools/ItemPool_Rampager_Gun.ItemPool_Rampager_Gun,BalancedItems.BalancedItems[1].ItemPoolData,4,None,ItemPoolData'/Game/GameData/Loot/ItemPools/Currency/ItemPool_Money_Normal.ItemPool_Money_Normal'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry95",
+      "value": "(1,1,0,BPChar_Rampager),/Game/Enemies/PrometheaBoss/_Shared/_Design/LootPools/ItemPool_Rampager_Gun.ItemPool_Rampager_Gun,BalancedItems.BalancedItems[0].Weight.BaseValueScale,8,0.050000,0.200000"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry96",
+      "value": "(1,1,0,BPChar_TroyBoss),/Game/NonPlayerCharacters/Troy/_TheBoss/_Design/Character/ItemPool_Troy_Gun.ItemPool_Troy_Gun,BalancedItems.BalancedItems[1].ItemPoolData,4,None,ItemPoolData'/Game/GameData/Loot/ItemPools/Currency/ItemPool_Money.ItemPool_Money'"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry97",
+      "value": "(1,1,0,BPChar_TroyBoss),/Game/NonPlayerCharacters/Troy/_TheBoss/_Design/Character/ItemPool_Troy_Gun.ItemPool_Troy_Gun,BalancedItems.BalancedItems[0].Weight.BaseValueScale,8,0.050000,0.20000"
+    },
+    {
+      "key": "SparkPatchEntry199",
+      "value": "(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Siren/DataTable_Siren_ConstantValues.DataTable_Siren_ConstantValues,GuardianAngel_HealthRestore,Value,158,(BaseValueConstant=1.000000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),(BaseValueConstant=1.000000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=0.100000)"
+    },
+    {
+      "key": "SparkPatchEntry200",
+      "value": "(1,1,0,),/Game/PlayerCharacters/SirenBrawler/_Shared/_Design/Passives/BrawlTree/GuardianAngel/PassiveSkill_Siren_GuardianAngel.Default__PassiveSkill_Siren_GuardianAngel_C:StatDataItems_UIStatData_OakPassiveAbilityAttributeInitializer,StatDataItems.StatDataItems[0].Object..Initializer,308,(BaseValueConstant=0.000000,DataTableValue=(DataTable=DataTable'\"/Game/PlayerCharacters/_Shared/_Design/Balance/Siren/DataTable_Siren_ConstantValues.DataTable_Siren_ConstantValues\"',RowName=\"GuardianAngel_HealthRestore\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),(BaseValueConstant=0.000000,DataTableValue=(DataTable=DataTable'\"/Game/PlayerCharacters/_Shared/_Design/Balance/Siren/DataTable_Siren_ConstantValues.DataTable_Siren_ConstantValues\"',RowName=\"GuardianAngel_HealthRestore\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=5.000000)"
+    },
+    {
+      "key": "SparkPatchEntry201",
+      "value": "(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Siren/DataTable_Siren_PhasetranceCoefficients.DataTable_Siren_PhasetranceCoefficients,Effect_PunchDrunk,DamageCoefficient_2_70FF0AD64324CB4406E965B6AFF3BED8,9,-0.300000,-0.100000"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry63",
+      "value": "(1,2,0,BPChar_EdenBoss),/Game/Enemies/EdenBoss/_Shared/_Design/Balance/Table_EdenBoss_Damage.Table_EdenBoss_Damage,EyeBeam,Multiplier_46_80DB035D40990764A852C490FCE2E692,413,(ValueType=Float,DisabledValueModes=104,ValueFlags=1,ValueMode=Value,Range=(Value=0.078000,Variance=0.000000),AttributeInitializer=None,AttributeData=None,AttributeInitializationData=(BaseValueConstant=0.000000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),BlackboardKey=(KeyName=\"\",bRuntimeKey=False),Condition=None,Actor=None),(ValueType=Float,DisabledValueModes=104,ValueFlags=1,ValueMode=Value,Range=(Value=0.200000,Variance=0.000000,EditMode=MinMax),AttributeInitializer=None,AttributeData=None,AttributeInitializationData=(BaseValueConstant=0.000000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),BlackboardKey=(KeyName=\"\",bRuntimeKey=False),Condition=None,Actor=None)"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry64",
+      "value": "(1,2,0,BPChar_EdenBoss),/Game/Enemies/EdenBoss/_Shared/_Design/Balance/Table_EdenBoss_Damage.Table_EdenBoss_Damage,Beam,Multiplier_46_80DB035D40990764A852C490FCE2E692,413,(ValueType=Float,DisabledValueModes=104,ValueFlags=1,ValueMode=Value,Range=(Value=0.690000,Variance=0.000000),AttributeInitializer=None,AttributeData=None,AttributeInitializationData=(BaseValueConstant=0.000000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),BlackboardKey=(KeyName=\"\",bRuntimeKey=False),Condition=None,Actor=None),(ValueType=Float,DisabledValueModes=104,ValueFlags=1,ValueMode=Value,Range=(Value=0.900000,Variance=0.000000,EditMode=MinMax),AttributeInitializer=None,AttributeData=None,AttributeInitializationData=(BaseValueConstant=0.000000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),BlackboardKey=(KeyName=\"\",bRuntimeKey=False),Condition=None,Actor=None)"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry65",
+      "value": "(1,1,0,BPChar_EdenBoss),/Game/Enemies/EdenBoss/_Shared/_Design/HitRegions/HitRegion_EdenBoss_Bombs.HitRegion_EdenBoss_Bombs,DamageScale.BaseValueConstant,8,2.000000,2.500000"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry66",
+      "value": "(1,2,0,BPChar_EdenBoss),/Game/Enemies/EdenBoss/_Shared/_Design/Balance/Table_Balance_EdenBoss_PT1.Table_Balance_EdenBoss_PT1,EdenBoss,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,10,200.000000,160.000000"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry67",
+      "value": "(1,1,0,BPChar_EdenBoss),/Game/Enemies/EdenBoss/_Shared/_Design/Character/BPChar_EdenBoss.Default__BPChar_EdenBoss_C:DefaultDamageComponent,OakDamageComponent.Object..StatusEffectChanceModifierScalar,20,(BaseValue=1.000000),(BaseValue=0.300000)"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry68",
+      "value": "(1,1,0,BPChar_EdenBoss),/Game/Enemies/EdenBoss/_Shared/_Design/Character/BPChar_EdenBoss.Default__BPChar_EdenBoss_C:DefaultDamageComponent,OakDamageComponent.Object..StatusEffectDamageModifierScalar,20,(BaseValue=0.500000),(BaseValue=0.200000)"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry69",
+      "value": "(1,1,0,BPChar_EdenBoss),/Game/Enemies/EdenBoss/_Shared/_Design/Character/BPChar_EdenBoss.Default__BPChar_EdenBoss_C:DefaultDamageComponent,OakDamageComponent.Object..StatusEffectDurationModifierScalar,20,(BaseValue=0.500000),(BaseValue=0.200000)"
+    },
+    {
+      "key": "SparkPatchEntry190",
+      "value": "(1,1,0,),/Game/Gear/Weapons/Pistols/Jakobs/_Shared/_Design/_Unique/GodMother/Parts/Part_PS_JAK_Barrel_GodMother.Part_PS_JAK_Barrel_GodMother:WeaponUseModeAspectData_0.WeaponUseComponent_BPWeaponFireProjectileComponent_JAK,AspectList.AspectList[0].Object..WeaponUseComponent.Object..FireRate,21,(BaseValue=10.000000),(BaseValue=3.0)"
+    },
+    {
+      "key": "SparkPatchEntry185",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_DamageScale.DataTable_Weapon_DamageScale,Pistol,Torgue_75_E4646A97474FA2023598DE982B960083,8,2.000000,1.900000"
+    },
+    {
+      "key": "SparkPatchEntry186",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_DamageScale.DataTable_Weapon_DamageScale,Pistol,Jakobs_60_F95FBBA045F4F1899B3F7AB7A2CF0F22,8,1.750000,1.600000"
+    },
+    {
+      "key": "SparkPatchEntry187",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_DamageScale.DataTable_Weapon_DamageScale,Pistol,CoV_65_A2A97C764F97EC46B630BB9F944FE44E,8,0.750000,0.950000"
+    },
+    {
+      "key": "SparkPatchEntry188",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_DamageScale.DataTable_Weapon_DamageScale,Pistol,DAHL_59_150C89A04BB4FCF0061CAC86E39E1A39,8,1.000000,1.1500000"
+    },
+    {
+      "key": "SparkPatchEntry189",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_DamageScale.DataTable_Weapon_DamageScale,Pistol,Tediore_64_177AD05C46493B9713642FA9EEDB6DDC,8,1.000000,1.150000"
+    },
+    {
+      "key": "SparkPatchEntry183",
+      "value": "(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Beastmaster/DataTable_Beastmaster_SkillBalance.DataTable_Beastmaster_SkillBalance,Ultimate_Spiderant_Mod3,Scalar_5_230D633C4A306BF04AB690B7CD89D6AA,8,0.500000,.25"
+    },
+    {
+      "key": "SparkPatchEntry184",
+      "value": "(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Beastmaster/DataTable_Beastmaster_SkillBalance.DataTable_Beastmaster_SkillBalance,Ultimate_Spiderant_Mod3,Cooldown_8_237733FC43C8C6F2B3A6558D8A0FB0C1,8,8.000000,5.0"
+    },
+    {
+      "key": "SparkPatchEntry181",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_Manufacturer_Base_Data.DataTable_Weapon_Manufacturer_Base_Data,Maliwan,DamageScale_36_150C89A04BB4FCF0061CAC86E39E1A39,8,0.650000,0.900000"
+    },
+    {
+      "key": "SparkPatchEntry182",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_Manufacturer_Base_Data.DataTable_Weapon_Manufacturer_Base_Data,Maliwan,FirerateScale_29_F95FBBA045F4F1899B3F7AB7A2CF0F22,8,1.000000,1.200000"
+    },
+    {
+      "key": "SparkPatchEntry180",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_Manufacturer_Base_Data.DataTable_Weapon_Manufacturer_Base_Data,Atlas,DamageScale_36_150C89A04BB4FCF0061CAC86E39E1A39,8,1.000000,1.200000"
+    },
+    {
+      "key": "SparkPatchEntry179",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_DamageScale.DataTable_Weapon_DamageScale,Heavy,Vladof_63_DBDCED3C4D3A2AAE4157EEA39EAB81DB,8,1.000000,1.2500000"
+    },
+    {
+      "key": "SparkPatchEntry170",
+      "value": "(1,1,0,),/Game/PlayerCharacters/Operative/DigiClone/_Design/Character/BPChar_DigiClone_Normal.Default__BPChar_DigiClone_Normal_C:DefaultDamageCauserComponent,OakDamageCauserComponent.Object..DamageDealtMultiplier,20,(BaseValue=0.320000),(BaseValue=0.700000)"
+    },
+    {
+      "key": "SparkPatchEntry171",
+      "value": "(1,1,0,),/Game/PlayerCharacters/Operative/DigiClone/_Design/Character/BPChar_DigiClone_Badass.Default__BPChar_DigiClone_Badass_C:DefaultDamageCauserComponent,OakDamageCauserComponent.Object..DamageDealtMultiplier,20,(BaseValue=0.320000),(BaseValue=0.700000)"
+    },
+    {
+      "key": "SparkPatchEntry172",
+      "value": "(1,1,0,),/Game/PlayerCharacters/Operative/DigiClone/_Design/Character/BPChar_DigiClone_SuperBadass.Default__BPChar_DigiClone_SuperBadass_C:DefaultDamageCauserComponent,OakDamageCauserComponent.Object..DamageDealtMultiplier,20,(BaseValue=0.320000),(BaseValue=0.700000)"
+    },
+    {
+      "key": "SparkPatchEntry173",
+      "value": "(1,1,0,),/Game/PlayerCharacters/Operative/DigiClone/_Design/Character/BPChar_DigiClone_UltimateSuperBadass.Default__BPChar_DigiClone_UltimateSuperBadass_C:DefaultDamageCauserComponent,OakDamageCauserComponent.Object..DamageDealtMultiplier,20,(BaseValue=0.320000),(BaseValue=0.700000)"
+    },
+    {
+      "key": "SparkPatchEntry174",
+      "value": "(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Operative/DataTable_Operative_ConstantValues.DataTable_Operative_ConstantValues,Drone_CryoBullets_DamageReduction,Value,159,(BaseValueConstant=-0.200000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),(BaseValueConstant=0.000000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000)"
+    },
+    {
+      "key": "SparkPatchEntry175",
+      "value": "(1,1,0,),/Game/PlayerCharacters/Operative/_Shared/_Design/ActionSkills/Gadget_Drone/Mods/AugmentData_Operative_Drone_CryoBullets.AugmentData_Operative_Drone_CryoBullets,StatDataItems,485,(UIStatData_Text'\"/Game/PlayerCharacters/Operative/_Shared/_Design/ActionSkills/Gadget_Drone/Mods/AugmentData_Operative_Drone_CryoBullets.AugmentData_Operative_Drone_CryoBullets:StatDataItems_UIStatData_Text\"',UIStatData_OakPassiveAbilityAttributeInitializer'\"/Game/PlayerCharacters/Operative/_Shared/_Design/ActionSkills/Gadget_Drone/Mods/AugmentData_Operative_Drone_CryoBullets.AugmentData_Operative_Drone_CryoBullets:StatDataItems_UIStatData_OakPassiveAbilityAttributeInitializer\"'),(UIStatData_Text'\"/Game/PlayerCharacters/Operative/_Shared/_Design/ActionSkills/Gadget_Drone/Mods/AugmentData_Operative_Drone_CryoBullets.AugmentData_Operative_Drone_CryoBullets:StatDataItems_UIStatData_Text\"')"
+    },
+    {
+      "key": "SparkPatchEntry176",
+      "value": "(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Operative/DataTable_Operative_ConstantValues.DataTable_Operative_ConstantValues,Drone_RocketDamageScalar,Value,158,(BaseValueConstant=0.300000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),(BaseValueConstant=0.450000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000)"
+    },
+    {
+      "key": "SparkPatchEntry177",
+      "value": "(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Operative/DataTable_Operative_SimpleFormulas.DataTable_Operative_SimpleFormulas,CalledShot_ProjectileDamage,Level,158,(BaseValueConstant=0.450000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),(BaseValueConstant=0.800000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000)"
+    },
+    {
+      "key": "SparkPatchEntry178",
+      "value": "(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Operative/DataTable_Operative_ConstantValues.DataTable_Operative_ConstantValues,Drone_MachineGunDamageScalar,Value,158,(BaseValueConstant=0.060000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),(BaseValueConstant=0.090000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000)"
+    },
+    {
+      "key": "SparkPatchEntry168",
+      "value": "(1,1,0,),/Game/Gear/Weapons/SniperRifles/Maliwan/Shared/_Design/_Unique/_Legendary/Storm/Parts/Part_MAL_SR_Barrel_Storm.Part_MAL_SR_Barrel_Storm:AspectList_WeaponUseModeSecondaryAspectData.Component_BPWeaponChargeComponent_MAL,AspectList.AspectList[1].Object..Component.Object..ChargeTime,20,(BaseValue=2.000000),(BaseValue=1.000000)"
+    },
+    {
+      "key": "SparkPatchEntry169",
+      "value": "(1,1,0,),/Game/Gear/Weapons/SniperRifles/Maliwan/Shared/_Design/_Unique/_Legendary/Storm/Parts/Part_MAL_SR_Barrel_FireStorm.Part_MAL_SR_Barrel_FireStorm:AspectList_WeaponUseModeSecondaryAspectData.Component_BPWeaponChargeComponent_MAL,AspectList.AspectList[1].Object..Component.Object..ChargeTime,20,(BaseValue=1.750000),(BaseValue=1.000000)"
+    },
+    {
+      "key": "SparkPatchEntry167",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_DamageScale.DataTable_Weapon_DamageScale,AssaultRifle,Jakobs_60_F95FBBA045F4F1899B3F7AB7A2CF0F22,8,1.600000,1.800000"
+    },
+    {
+      "key": "SparkPatchEntry166",
+      "value": "(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Weapon_Initialization/DataTable_Weapon_DamageScale.DataTable_Weapon_DamageScale,SMG,DAHL_59_150C89A04BB4FCF0061CAC86E39E1A39,8,0.900000,1.00000"
+    },
+    {
+      "key": "SparkPatchEntry206",
+      "value": "(1,1,0,),/Game/Gear/Weapons/Shotguns/Maliwan/_Shared/Effects/Charge/PS_MAL_SG_Charge_B02B_Cryo.PS_MAL_SG_Charge_B02B_Cryo:ParticleModuleRequired_16,SubImages_Horizontal,1,8,4"
+    },
+    {
+      "key": "SparkPatchEntry207",
+      "value": "(1,1,0,),/Game/Gear/Weapons/Shotguns/Maliwan/_Shared/Effects/Charge/PS_MAL_SG_Charge_B02B_Cryo.PS_MAL_SG_Charge_B02B_Cryo:ParticleModuleRequired_16,SubImages_Vertical,1,8,4"
+    },
+    {
+      "key": "SparkPatchEntry210",
+      "value": "(1,1,0,),/Game/Gear/Shields/_Design/_Uniques/Ward/Balance/PartSet_Shield_Ward.PartSet_Shield_Ward,ActorPartLists.ActorPartLists[3].MultiplePartSelectionRange,13,(Min=3,Max=3),(Min=1,Max=3)"
     }
   ]
 }
