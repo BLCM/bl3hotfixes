@@ -83,5 +83,5 @@ if do_write:
     repo = git.Repo(output_dir)
     repo.git.add('--', hotfix_filename)
     repo.git.add('--', cumulative_file)
-    repo.git.commit('-a', '-m', 'Auto-update with new hotfixes')
+    repo.git.commit('-a', '-m', now.strftime('Auto-update with new hotfixes - %Y-%m-%d %H:%M:%S'))
     repo.git.push()
