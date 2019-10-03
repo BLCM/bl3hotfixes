@@ -32,7 +32,8 @@ Details
   [Local Post Archive](gbx_info_archive/2019-09-27-hotfixes.md))
 * **2019-10-01**: Week 1 of the Borderlands 10-Year Anniversary Celebration
   begins, with "Boss Week," which increases chances for various bosses to
-  drop specific legendary gear.
+  drop specific legendary gear.  Manually collected one last time -- any
+  hotfixes after this point should be grabbed automatically by this process.
   ([GBX Post](https://borderlands.com/en-US/news/2019-10-01-borderlands-anniversary-celebration/),
   [Local Post Archive](gbx_info_archive/2019-10-01-anniversary_1.md))
 * **2019-10-03**: Third announced hotfixes, and second patch.
