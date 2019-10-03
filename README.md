@@ -26,16 +26,16 @@ Details
   [Local Post Archive](gbx_info_archive/2019-09-19-hotfixes.md))
 * **2019-09-26**: First BL3 patch (not a hotfix, though).
   ([GBX Post](https://borderlands.com/en-US/news/2019-09-26-borderlands-3-patch-sept-26/),
-  [Local Post Archive](2019-09-26-patch.md))
+  [Local Post Archive](gbx_info_archive/2019-09-26-patch.md))
 * **2019-09-27**: Second announced hotfixes, manually collected on the 27th.
   ([GBX Post](https://borderlands.com/en-US/news/2019-09-27-borderlands-3-hot-fixes-sept-27/),
-  [Local Post Archive](2019-09-27-hotfixes.md))
+  [Local Post Archive](gbx_info_archive/2019-09-27-hotfixes.md))
 * **2019-10-01**: Week 1 of the Borderlands 10-Year Anniversary Celebration
   begins, with "Boss Week," which increases chances for various bosses to
   drop specific legendary gear.
   ([GBX Post](https://borderlands.com/en-US/news/2019-10-01-borderlands-anniversary-celebration/),
-  [Local Post Archive](2019-10-01-anniversary_1.md))
+  [Local Post Archive](gbx_info_archive/2019-10-01-anniversary_1.md))
 * **2019-10-03**: Third announced hotfixes, and second patch.
   ([GBX Post](https://borderlands.com/en-US/news/2019-10-03-borderlands-3-patch-hotfixes-oct-3/),
-  [Local Post Archive](2019-10-03-patch-and-hotfixes.md))
+  [Local Post Archive](gbx_info_archive/2019-10-03-patch-and-hotfixes.md))
 
