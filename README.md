@@ -21,8 +21,9 @@ Details
 * **2019-09-13**: Borderlands 3 Initial Release
 * **2019-09-19**: First announced hotfixes, manually collected on the
   21st.  It's possible there were hotfixes active before this point, but
-  these are the first we know of.  Details from GBX:
-  https://borderlands.com/en-US/news/2019-09-19-borderlands-3-hot-fixes-sept-19/
+  these are the first we know of.
+  [GBX Post](https://borderlands.com/en-US/news/2019-09-19-borderlands-3-hot-fixes-sept-19/),
+  [Local Post Archive](gbx_info_archive/2019-09-19-hotfixes.md)
 * **2019-09-26**: First BL3 patch (not a hotfix, though).  Details from GBX:
   https://borderlands.com/en-US/news/2019-09-26-borderlands-3-patch-sept-26/
 * **2019-09-27**: Second announced hotfixes, manually collected on the 27th.
