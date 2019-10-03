@@ -81,6 +81,7 @@ if do_write:
     # Do the git interaction
     print('Pushing to git')
     repo = git.Repo(output_dir)
+    repo.git.pull()
     repo.git.add('--', hotfix_filename)
     repo.git.add('--', cumulative_file)
     repo.git.commit('-a', '-m', now.strftime('Auto-update with new hotfixes - %Y-%m-%d %H:%M:%S'))
