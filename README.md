@@ -36,7 +36,8 @@ Details
   hotfixes after this point should be grabbed automatically by this process.
   ([GBX Post](https://borderlands.com/en-US/news/2019-10-01-borderlands-anniversary-celebration/),
   [Local Post Archive](gbx_info_archive/2019-10-01-anniversary_1.md))
-* **2019-10-03**: Third announced hotfixes, and second patch.
+* **2019-10-03**: Third announced hotfixes, and second patch (to version
+  `1.0.2 CL 2022342`).
   ([GBX Post](https://borderlands.com/en-US/news/2019-10-03-borderlands-3-patch-hotfixes-oct-3/),
   [Local Post Archive](gbx_info_archive/2019-10-03-patch-and-hotfixes.md))
 
