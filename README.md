@@ -31,6 +31,6 @@ Details
   begins, with "Boss Week," which increases chances for various bosses to
   drop specific legendary gear.  Details from GBX:
   https://borderlands.com/en-US/news/2019-10-01-borderlands-anniversary-celebration/
-* **2019-10-03**: Third announced hotfixes.  Details from GBX:
+* **2019-10-03**: Third announced hotfixes, and second patch.  Details from GBX:
   https://borderlands.com/en-US/news/2019-10-03-borderlands-3-patch-hotfixes-oct-3/
 
