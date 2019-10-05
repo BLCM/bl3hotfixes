@@ -44,4 +44,6 @@ Details
   `OAK-PATCHDIESEL-21-CL-2022342`, reported version `1.0.2 CL 2022342`).
   ([GBX Post](https://borderlands.com/en-US/news/2019-10-03-borderlands-3-patch-hotfixes-oct-3/),
   [Local Post Archive](gbx_info_archive/2019-10-03-patch-and-hotfixes.md))
+* **2019-10-05**: Unannounced hotfixes which tweak some level geometry in
+  a couple of boss areas, seemingly.
 
