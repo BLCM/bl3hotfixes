@@ -46,5 +46,9 @@ Details
   [Local Post Archive](gbx_info_archive/2019-10-03-patch-and-hotfixes.md))
 * **2019-10-05**: Unannounced hotfixes which tweak some level geometry in
   a couple of boss areas, seemingly.
-* **2019-10-08**: Week 1 event removed (delay in rolling out Week 2, apparently).
+* **2019-10-08**: Week 2 of the Borderlands 10-Year Anniversary Celebration,
+  with "Rare Spawn Hunt", after a period of time where Week 1 was disabled but
+  Week 2 wasn't active yet.
+  ([GBX Post](https://borderlands.com/en-US/news/2019-10-07-borderlands-3-rare-spawn-hunt/),
+  [Local Post Archive](gbx_info_archive/2019-10-07-anniversary_2.md))
 
