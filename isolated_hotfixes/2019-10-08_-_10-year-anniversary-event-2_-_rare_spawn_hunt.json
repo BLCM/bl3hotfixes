@@ -1,3 +1,4 @@
+  [
     {
       "key": "SparkLevelPatchEntry492.Major",
       "value": "(1,2,0,Prologue_P),/Game/GameData/Balance/RareSpawns/Table_Async_RareSpawnRarities.Table_Async_RareSpawnRarities,Rare,Value,159,(BaseValueConstant=30.000000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000),(BaseValueConstant=100.000000,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1.000000)"
@@ -454,3 +455,4 @@
       "key": "SparkCharacterLoadedEntry236",
       "value": "(1,1,0,BPChar_Nekrobug_Hunt01),/Game/Enemies/Nekrobug/_Unique/Hunt01/_Design/Character/BPChar_Nekrobug_Hunt01.BPChar_Nekrobug_Hunt01_C:AIBalanceState_GEN_VARIABLE,PlayThroughs.PlayThroughs[0].BalanceTableRow,143,(DataTable=DataTable'\"/Game/Enemies/Nekrobug/_Shared/_Design/Balance/Table_Balance_Nekrobug.Table_Balance_Nekrobug\"',RowName=\"Nekrobug_Badass\"),(DataTable=DataTable'\"/Game/Enemies/Nekrobug/_Shared/_Design/Balance/Table_Balance_Nekrobug_Unique.Table_Balance_Nekrobug_Unique\"',RowName=\"Nekrobug__Nekrobug01_Hunt\")"
     }
+  ]
