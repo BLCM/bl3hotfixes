@@ -4,8 +4,10 @@ If you've explored the untamed wilds and urban hideouts of Borderlands 3, you've
 
 Starting tomorrow, October 8 at 9:00 AM PDT, the Rare Spawn Hunt will begin courtesy of a quick micropatch. To ensure that the micropatch is successfully applied, verify that you're online then hang around the main menu for about a little bit. During the Rare Spawn Hunt, some Rare Spawns are guaranteed to show up in their designated locations and have an increased chance to drop unique Legendary loot. It's your chance to seek and destroy enemies you might've never known existed, or snag the unique Legendary weapons and gear you've been chasing after. Here's a list of all the Rare Spawns that are part of this week's event, along with their drops:
 
+**[UPDATE:]** We're changing how El Dragon Jr and Mother of Grogans function for Rare Spawn Hunt—they will only drop their Legendary Artifacts while playing in Mayhem Mode or True Vault Hunter Mode, so that they won't drop gear you can't equip yet! 
+
 - Rakkman – Night Flyer, Legendary Pistol
-- El Dragon Jr – Unleash the Dragon, Legendary Artifact
+- El Dragon Jr – Unleash the Dragon, Legendary Artifact **[Mayhem Mode/True Vault Hunter Mode only]**
 - Road Dog – Redline, Legendary Shotgun
 - IndoTyrant – Random Customization
 - Force Troopers – Random Legendary class mods
@@ -15,7 +17,7 @@ Starting tomorrow, October 8 at 9:00 AM PDT, the Rare Spawn Hunt will begin cour
 - Maxitrillion – The Horizon, Legendary Shotgun
 - Borman Nates – Psycho Stabber, Legendary Pistol
 - Princess Tarantella II – Hive, Legendary Rocket Launcher
-- Mother of Grogans – Random Legendary Artifacts
+- Mother of Grogans – Random Legendary Artifacts **[Mayhem Mode/True Vault Hunter Mode only]**
 - Red Jabber – Random Legendary Grenade Mod
 - Urist McEnforcer – Masterwork Crossbow, Legendary Sniper Rifle
 
