@@ -46,4 +46,5 @@ Details
   [Local Post Archive](gbx_info_archive/2019-10-03-patch-and-hotfixes.md))
 * **2019-10-05**: Unannounced hotfixes which tweak some level geometry in
   a couple of boss areas, seemingly.
+* **2019-10-08**: Week 1 event removed (delay in rolling out Week 2, apparently).
 
