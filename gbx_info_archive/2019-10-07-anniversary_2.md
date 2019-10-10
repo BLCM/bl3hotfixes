@@ -1,3 +1,8 @@
+Borderlands Anniversary Celebration Week 2: Rare Spawn Hunt! 
+============================================================
+
+Posted: Oct 7 2019
+
 We're continuing to celebrate Borderlands' 10-year anniversary with another week of in-game bonuses for Borderlands 3! This week is the Rare Spawn Hunt.
 
 If you've explored the untamed wilds and urban hideouts of Borderlands 3, you've likely found (and killed) a Rare Spawn. These named enemies are lurking around the many corners of the galaxy, and will sometimes show up on bounty boards wanted dead or… actually, just dead. But for the second week of our month-long Borderlands Anniversary Celebration, those Rare Spawns are about to be a lot less rare.

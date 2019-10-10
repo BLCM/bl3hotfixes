@@ -1,3 +1,8 @@
+Borderlands 3 Patch and Hotfixes: October 3, 2019
+=================================================
+
+Posted: Oct 3 2019
+
 Today we’ll release both a patch and a hotfix for Borderlands 3 on all platforms by or before 3:00 PM PDT, with the patch addressing a number of reported concerns and the hotfix focusing on player character balance changes and tuning of some enemies and bosses.
 
 First up are the patch notes:

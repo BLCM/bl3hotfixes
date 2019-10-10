@@ -1,3 +1,8 @@
+Celebrate Borderlands' 10-Year Anniversary with a Month of Rewards
+==================================================================
+
+Posted: Oct 1 2019
+
 You've come a long way, Vault Hunter. This month, it will have been 10 years since the original Borderlands made its debut on October 20, 2009; we've been shooting and looting across Pandora and the galaxy beyond ever since. Whether you're a longtime fan or a series newcomer, we're so glad you're here with us for Borderlands 3, and we're showing our appreciation with a five-week Borderlands Anniversary Celebration. For the entire month of October (and a little bit of November), Borderlands 3 Vault Hunters of all levels can score in-game loot and bonuses just by playing.
 
 Starting today, the next five weeks will all have their very own theme in Borderlands 3, encouraging different in-game activities to maximize your rewards. As of now, Boss Week is live, which will be active until October 8, 2019 at 8:59 AM PDT when the following week's theme begins. During Boss Week, some bosses will have an increased chance to drop a unique Legendary item. Here's a full breakdown of Legendary loot drops by boss:
