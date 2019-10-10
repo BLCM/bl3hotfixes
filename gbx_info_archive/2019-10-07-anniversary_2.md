@@ -1,6 +1,8 @@
 Borderlands Anniversary Celebration Week 2: Rare Spawn Hunt! 
 ============================================================
 
+Original URL: https://borderlands.com/en-US/news/2019-10-07-borderlands-3-rare-spawn-hunt/
+
 Posted: Oct 7 2019
 
 We're continuing to celebrate Borderlands' 10-year anniversary with another week of in-game bonuses for Borderlands 3! This week is the Rare Spawn Hunt.

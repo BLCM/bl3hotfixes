@@ -1,6 +1,8 @@
 Celebrate Borderlands' 10-Year Anniversary with a Month of Rewards
 ==================================================================
 
+Original URL: https://borderlands.com/en-US/news/2019-10-01-borderlands-anniversary-celebration/
+
 Posted: Oct 1 2019
 
 You've come a long way, Vault Hunter. This month, it will have been 10 years since the original Borderlands made its debut on October 20, 2009; we've been shooting and looting across Pandora and the galaxy beyond ever since. Whether you're a longtime fan or a series newcomer, we're so glad you're here with us for Borderlands 3, and we're showing our appreciation with a five-week Borderlands Anniversary Celebration. For the entire month of October (and a little bit of November), Borderlands 3 Vault Hunters of all levels can score in-game loot and bonuses just by playing.
