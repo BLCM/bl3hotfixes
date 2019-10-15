@@ -54,4 +54,9 @@ Details
 * **2019-10-10**: Fourth announced hotfixes
   ([GBX Post](https://borderlands.com/en-US/news/2019-10-10-borderlands-3-hotfixes-oct-10/),
   [Local Post Archive](gbx_info_archive/2019-10-10-hotfixes.md))
+* **2019-10-15**: Week 3 of the Borderlands 10-Year Anniversary Celebration,
+  with "Show Me the Eridium."  A couple of the statements have errors, perhaps
+  those will get fixed up eventually.
+  ([GBX Post](https://borderlands.com/en-US/news/2019-10-14-borderlands-3-show-me-the-eridium/),
+  [Local Post Archive](gbx_info_archive/2019-10-14-anniversary_3.md))
 

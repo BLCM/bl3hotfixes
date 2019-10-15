@@ -1,0 +1,438 @@
+  [
+    {
+      "key": "SparkPatchEntry287",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,WeaponTrinket,Common_2_01EACCE6461DA50C78B6068E8E1DB06E,2,50,37"
+    },
+    {
+      "key": "SparkPatchEntry288",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,WeaponTrinket,Uncommon_6_4FA7EB5D47E5DFC7534F7EB00CE20B93,2,65,48"
+    },
+    {
+      "key": "SparkPatchEntry289",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,WeaponTrinket,Rare_7_788B345F42F2ADF256A30DA0E9393428,2,85,63"
+    },
+    {
+      "key": "SparkPatchEntry290",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,WeaponTrinket,VeryRare_12_6B38338344254EA079EDBEBAB1E101D8,3,110,82"
+    },
+    {
+      "key": "SparkPatchEntry291",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,WeaponTrinket,Legendary_13_A5DA691D4B91DAD99EF799B758314307,3,150,112"
+    },
+    {
+      "key": "SparkPatchEntry292",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,WeaponSkin,Uncommon_6_4FA7EB5D47E5DFC7534F7EB00CE20B93,3,130,97"
+    },
+    {
+      "key": "SparkPatchEntry293",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,WeaponSkin,Rare_7_788B345F42F2ADF256A30DA0E9393428,3,170,127"
+    },
+    {
+      "key": "SparkPatchEntry294",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,WeaponSkin,VeryRare_12_6B38338344254EA079EDBEBAB1E101D8,3,220,165"
+    },
+    {
+      "key": "SparkPatchEntry295",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,WeaponSkin,Legendary_13_A5DA691D4B91DAD99EF799B758314307,3,300,225"
+    },
+    {
+      "key": "SparkPatchEntry296",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerSkin,Uncommon_6_4FA7EB5D47E5DFC7534F7EB00CE20B93,3,120,90"
+    },
+    {
+      "key": "SparkPatchEntry297",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerSkin,Rare_7_788B345F42F2ADF256A30DA0E9393428,3,155,116"
+    },
+    {
+      "key": "SparkPatchEntry298",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerSkin,VeryRare_12_6B38338344254EA079EDBEBAB1E101D8,3,200,150"
+    },
+    {
+      "key": "SparkPatchEntry299",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerSkin,Legendary_13_A5DA691D4B91DAD99EF799B758314307,3,270,202"
+    },
+    {
+      "key": "SparkPatchEntry300",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerHead,Uncommon_6_4FA7EB5D47E5DFC7534F7EB00CE20B93,3,100,75"
+    },
+    {
+      "key": "SparkPatchEntry301",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerHead,Rare_7_788B345F42F2ADF256A30DA0E9393428,3,140,105"
+    },
+    {
+      "key": "SparkPatchEntry302",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerHead,VeryRare_12_6B38338344254EA079EDBEBAB1E101D8,3,180,135"
+    },
+    {
+      "key": "SparkPatchEntry303",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerHead,Legendary_13_A5DA691D4B91DAD99EF799B758314307,3,240,180"
+    },
+    {
+      "key": "SparkPatchEntry304",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerEmote,Uncommon_6_4FA7EB5D47E5DFC7534F7EB00CE20B93,2,95,71"
+    },
+    {
+      "key": "SparkPatchEntry305",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerEmote,Rare_7_788B345F42F2ADF256A30DA0E9393428,3,120,90"
+    },
+    {
+      "key": "SparkPatchEntry306",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerEmote,VeryRare_12_6B38338344254EA079EDBEBAB1E101D8,3,155,116"
+    },
+    {
+      "key": "SparkPatchEntry307",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerEmote,Legendary_13_A5DA691D4B91DAD99EF799B758314307,3,210,157"
+    },
+    {
+      "key": "SparkPatchEntry308",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,EchoSkin,Uncommon_6_4FA7EB5D47E5DFC7534F7EB00CE20B93,2,55,41"
+    },
+    {
+      "key": "SparkPatchEntry309",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,EchoSkin,Rare_7_788B345F42F2ADF256A30DA0E9393428,2,70,52"
+    },
+    {
+      "key": "SparkPatchEntry310",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,EchoSkin,VeryRare_12_6B38338344254EA079EDBEBAB1E101D8,2,90,67"
+    },
+    {
+      "key": "SparkPatchEntry311",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,EchoSkin,Legendary_13_A5DA691D4B91DAD99EF799B758314307,3,120,90"
+    },
+    {
+      "key": "SparkPatchEntry312",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,RoomDecoration,Uncommon_6_4FA7EB5D47E5DFC7534F7EB00CE20B93,2,25,18"
+    },
+    {
+      "key": "SparkPatchEntry313",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,RoomDecoration,Rare_7_788B345F42F2ADF256A30DA0E9393428,2,35,26"
+    },
+    {
+      "key": "SparkPatchEntry314",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,RoomDecoration,VeryRare_12_6B38338344254EA079EDBEBAB1E101D8,2,45,33"
+    },
+    {
+      "key": "SparkPatchEntry315",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,RoomDecoration,Legendary_13_A5DA691D4B91DAD99EF799B758314307,2,60,45"
+    },
+    {
+      "key": "SparkLevelPatchEntry581",
+      "value": "(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_PlaySlotsEridium.UIData_PlaySlotsEridium,Cost.BaseValueScale,8,1.000000,0.5000"
+    },
+    {
+      "key": "SparkPatchEntry324",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,WeaponSkin,Common_2_01EACCE6461DA50C78B6068E8E1DB06E,3,100,75"
+    },
+    {
+      "key": "SparkPatchEntry325",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerSkin,Common_2_01EACCE6461DA50C78B6068E8E1DB06E,2,90,67"
+    },
+    {
+      "key": "SparkPatchEntry326",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerHead,Common_2_01EACCE6461DA50C78B6068E8E1DB06E,2,80,60"
+    },
+    {
+      "key": "SparkPatchEntry327",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,PlayerEmote,Common_2_01EACCE6461DA50C78B6068E8E1DB06E,2,70,52"
+    },
+    {
+      "key": "SparkPatchEntry328",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,EchoSkin,Common_2_01EACCE6461DA50C78B6068E8E1DB06E,2,40,30"
+    },
+    {
+      "key": "SparkPatchEntry329",
+      "value": "(1,2,0,),/Game/GameData/Economy/Customizations/Table_CrazyEarlCustomizationCost.Table_CrazyEarlCustomizationCost,RoomDecoration,Common_2_01EACCE6461DA50C78B6068E8E1DB06E,2,20,15"
+    },
+    {
+      "key": "SparkPatchEntry330",
+      "value": "(1,1,0,),/Game/GameData/Loot/ItemPools/Eridium/ItemPool_EridiumCrystal.ItemPool_EridiumCrystal,Quantity.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkPatchEntry331",
+      "value": "(1,1,0,),/Game/GameData/Loot/ItemPools/Eridium/ItemPool_EridiumCrystal_Large.ItemPool_EridiumCrystal_Large,Quantity.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry261",
+      "value": "(1,1,0,BPChar_PunkBasic),/Game/GameData/Loot/ItemPools/ItemPoolList_StandardEnemyGunsandGear.ItemPoolList_StandardEnemyGunsandGear,ItemPools,0,,((ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Health/ItemPool_Health.ItemPool_Health\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Health_DropOdds.Att_Health_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Ammo/ItemPool_Ammo_Need.ItemPool_Ammo_Need\"',PoolProbability=(BaseValueConstant=0.200000)),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Ammo/ItemPool_Ammo_Emergency.ItemPool_Ammo_Emergency\"',PoolProbability=(BaseValueConstant=0.200000,BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GunsAndGear_AmmoEmergency.Att_GunsAndGear_AmmoEmergency\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Currency/ItemPool_Money.ItemPool_Money\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Money_DropOdds.Att_Money_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Guns/ItemPool_Guns_All.ItemPool_Guns_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GunsAndGear_DropOddsWithMayhem_Total.Att_GunsAndGear_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/Gear/ClassMods/_Design/ItemPools/ItemPool_ClassMods.ItemPool_ClassMods\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_ClassMods_DropOddsWithMayhem_Total.Att_ClassMods_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Shields/ItemPool_Shields_All.ItemPool_Shields_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Shields_DropOddsWithMayhem_Total.Att_Shields_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/Gear/Artifacts/_Design/ItemPools/ItemPool_Artifacts.ItemPool_Artifacts\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Artifact_DropOddsWithMayhem_Total.Att_Artifact_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/GrenadeMods/ItemPool_GrenadeMods_All.ItemPool_GrenadeMods_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GrenadeMod_DropOddsWithMayhem_Total.Att_GrenadeMod_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/ItemPool_SkinsAndMisc.ItemPool_SkinsAndMisc\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_PlayerHeads_DropOdds.Att_PlayerHeads_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Eridium/ItemPool_Eridium_Single.ItemPool_Eridium_Single\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_EridiumStick_DropOddsWithMayhem_Total.Att_EridiumStick_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Eridium/ItemPool_Eridium.ItemPool_Eridium\"',PoolProbability=(BaseValueConstant=0.10000)))"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry262",
+      "value": "(1,1,0,BPChar_NogBasic),/Game/GameData/Loot/ItemPools/ItemPoolList_StandardEnemyGunsandGear.ItemPoolList_StandardEnemyGunsandGear,ItemPools,0,,((ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Health/ItemPool_Health.ItemPool_Health\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Health_DropOdds.Att_Health_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Ammo/ItemPool_Ammo_Need.ItemPool_Ammo_Need\"',PoolProbability=(BaseValueConstant=0.200000)),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Ammo/ItemPool_Ammo_Emergency.ItemPool_Ammo_Emergency\"',PoolProbability=(BaseValueConstant=0.200000,BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GunsAndGear_AmmoEmergency.Att_GunsAndGear_AmmoEmergency\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Currency/ItemPool_Money.ItemPool_Money\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Money_DropOdds.Att_Money_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Guns/ItemPool_Guns_All.ItemPool_Guns_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GunsAndGear_DropOddsWithMayhem_Total.Att_GunsAndGear_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/Gear/ClassMods/_Design/ItemPools/ItemPool_ClassMods.ItemPool_ClassMods\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_ClassMods_DropOddsWithMayhem_Total.Att_ClassMods_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Shields/ItemPool_Shields_All.ItemPool_Shields_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Shields_DropOddsWithMayhem_Total.Att_Shields_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/Gear/Artifacts/_Design/ItemPools/ItemPool_Artifacts.ItemPool_Artifacts\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Artifact_DropOddsWithMayhem_Total.Att_Artifact_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/GrenadeMods/ItemPool_GrenadeMods_All.ItemPool_GrenadeMods_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GrenadeMod_DropOddsWithMayhem_Total.Att_GrenadeMod_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/ItemPool_SkinsAndMisc.ItemPool_SkinsAndMisc\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_PlayerHeads_DropOdds.Att_PlayerHeads_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Eridium/ItemPool_Eridium_Single.ItemPool_Eridium_Single\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_EridiumStick_DropOddsWithMayhem_Total.Att_EridiumStick_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Eridium/ItemPool_Eridium.ItemPool_Eridium\"',PoolProbability=(BaseValueConstant=0.10000)))"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry263",
+      "value": "(1,1,0,BPChar_RakkBasic),/Game/GameData/Loot/ItemPools/ItemPoolList_StandardEnemyGunsandGear.ItemPoolList_StandardEnemyGunsandGear,ItemPools,0,,((ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Health/ItemPool_Health.ItemPool_Health\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Health_DropOdds.Att_Health_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Ammo/ItemPool_Ammo_Need.ItemPool_Ammo_Need\"',PoolProbability=(BaseValueConstant=0.200000)),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Ammo/ItemPool_Ammo_Emergency.ItemPool_Ammo_Emergency\"',PoolProbability=(BaseValueConstant=0.200000,BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GunsAndGear_AmmoEmergency.Att_GunsAndGear_AmmoEmergency\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Currency/ItemPool_Money.ItemPool_Money\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Money_DropOdds.Att_Money_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Guns/ItemPool_Guns_All.ItemPool_Guns_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GunsAndGear_DropOddsWithMayhem_Total.Att_GunsAndGear_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/Gear/ClassMods/_Design/ItemPools/ItemPool_ClassMods.ItemPool_ClassMods\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_ClassMods_DropOddsWithMayhem_Total.Att_ClassMods_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Shields/ItemPool_Shields_All.ItemPool_Shields_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Shields_DropOddsWithMayhem_Total.Att_Shields_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/Gear/Artifacts/_Design/ItemPools/ItemPool_Artifacts.ItemPool_Artifacts\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Artifact_DropOddsWithMayhem_Total.Att_Artifact_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/GrenadeMods/ItemPool_GrenadeMods_All.ItemPool_GrenadeMods_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GrenadeMod_DropOddsWithMayhem_Total.Att_GrenadeMod_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/ItemPool_SkinsAndMisc.ItemPool_SkinsAndMisc\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_PlayerHeads_DropOdds.Att_PlayerHeads_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Eridium/ItemPool_Eridium_Single.ItemPool_Eridium_Single\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_EridiumStick_DropOddsWithMayhem_Total.Att_EridiumStick_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Eridium/ItemPool_Eridium.ItemPool_Eridium\"',PoolProbability=(BaseValueConstant=0.10000)))"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry264",
+      "value": "(1,1,0,BPChar_GuardianWraith),/Game/GameData/Loot/ItemPools/ItemPoolList_StandardEnemyGunsandGear.ItemPoolList_StandardEnemyGunsandGear,ItemPools,0,,((ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Health/ItemPool_Health.ItemPool_Health\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Health_DropOdds.Att_Health_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Ammo/ItemPool_Ammo_Need.ItemPool_Ammo_Need\"',PoolProbability=(BaseValueConstant=0.200000)),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Ammo/ItemPool_Ammo_Emergency.ItemPool_Ammo_Emergency\"',PoolProbability=(BaseValueConstant=0.200000,BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GunsAndGear_AmmoEmergency.Att_GunsAndGear_AmmoEmergency\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Currency/ItemPool_Money.ItemPool_Money\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Money_DropOdds.Att_Money_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Guns/ItemPool_Guns_All.ItemPool_Guns_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GunsAndGear_DropOddsWithMayhem_Total.Att_GunsAndGear_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/Gear/ClassMods/_Design/ItemPools/ItemPool_ClassMods.ItemPool_ClassMods\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_ClassMods_DropOddsWithMayhem_Total.Att_ClassMods_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Shields/ItemPool_Shields_All.ItemPool_Shields_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Shields_DropOddsWithMayhem_Total.Att_Shields_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/Gear/Artifacts/_Design/ItemPools/ItemPool_Artifacts.ItemPool_Artifacts\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Artifact_DropOddsWithMayhem_Total.Att_Artifact_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/GrenadeMods/ItemPool_GrenadeMods_All.ItemPool_GrenadeMods_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GrenadeMod_DropOddsWithMayhem_Total.Att_GrenadeMod_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/ItemPool_SkinsAndMisc.ItemPool_SkinsAndMisc\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_PlayerHeads_DropOdds.Att_PlayerHeads_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Eridium/ItemPool_Eridium_Single.ItemPool_Eridium_Single\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_EridiumStick_DropOddsWithMayhem_Total.Att_EridiumStick_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Eridium/ItemPool_Eridium.ItemPool_Eridium\"',PoolProbability=(BaseValueConstant=0.10000)))"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry265",
+      "value": "(1,1,0,BPChar_ApeBasic),/Game/GameData/Loot/ItemPools/ItemPoolList_StandardEnemyGunsandGear.ItemPoolList_StandardEnemyGunsandGear,ItemPools,0,,((ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Health/ItemPool_Health.ItemPool_Health\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Health_DropOdds.Att_Health_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Ammo/ItemPool_Ammo_Need.ItemPool_Ammo_Need\"',PoolProbability=(BaseValueConstant=0.200000)),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Ammo/ItemPool_Ammo_Emergency.ItemPool_Ammo_Emergency\"',PoolProbability=(BaseValueConstant=0.200000,BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GunsAndGear_AmmoEmergency.Att_GunsAndGear_AmmoEmergency\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Currency/ItemPool_Money.ItemPool_Money\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Money_DropOdds.Att_Money_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Guns/ItemPool_Guns_All.ItemPool_Guns_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GunsAndGear_DropOddsWithMayhem_Total.Att_GunsAndGear_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/Gear/ClassMods/_Design/ItemPools/ItemPool_ClassMods.ItemPool_ClassMods\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_ClassMods_DropOddsWithMayhem_Total.Att_ClassMods_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Shields/ItemPool_Shields_All.ItemPool_Shields_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Shields_DropOddsWithMayhem_Total.Att_Shields_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/Gear/Artifacts/_Design/ItemPools/ItemPool_Artifacts.ItemPool_Artifacts\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_Artifact_DropOddsWithMayhem_Total.Att_Artifact_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/GrenadeMods/ItemPool_GrenadeMods_All.ItemPool_GrenadeMods_All\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_GrenadeMod_DropOddsWithMayhem_Total.Att_GrenadeMod_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/ItemPool_SkinsAndMisc.ItemPool_SkinsAndMisc\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_PlayerHeads_DropOdds.Att_PlayerHeads_DropOdds\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Eridium/ItemPool_Eridium_Single.ItemPool_Eridium_Single\"',PoolProbability=(BaseValueAttribute=GbxAttributeData'\"/Game/GameData/Loot/ItemPools/Attributes/Att_EridiumStick_DropOddsWithMayhem_Total.Att_EridiumStick_DropOddsWithMayhem_Total\"')),(ItemPool=ItemPoolData'\"/Game/GameData/Loot/ItemPools/Eridium/ItemPool_Eridium.ItemPool_Eridium\"',PoolProbability=(BaseValueConstant=0.10000)))"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry266",
+      "value": "(1,1,0,BPChar_Terror),/Game/GameData/Loot/ItemPools/ItemPoolList_Boss_Terror.ItemPoolList_Boss_Terror,ItemPools.ItemPools[2].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry267",
+      "value": "(1,1,0,BPChar_Varkid_RaidBoss),/Game/GameData/Loot/ItemPools/ItemPoolList_Boss.ItemPoolList_Boss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry267.Week3Fixed1",
+      "value": "(1,1,0,BPChar_EnforcerKillaVolt),/Game/GameData/Loot/ItemPools/ItemPoolList_Boss.ItemPoolList_Boss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry268",
+      "value": "(1,1,0,BPChar_Goliath_CageArena),/Game/GameData/Loot/ItemPools/ItemPoolList_Boss.ItemPoolList_Boss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry269",
+      "value": "(1,1,0,BPChar_Heavy_Traunt),/Game/GameData/Loot/ItemPools/ItemPoolList_Boss.ItemPoolList_Boss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry270",
+      "value": "(1,1,0,BPChar_HeavyDarkTraunt),/Game/GameData/Loot/ItemPools/ItemPoolList_Boss.ItemPoolList_Boss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry271",
+      "value": "(1,1,0,BPChar_KJR),/Game/GameData/Loot/ItemPools/ItemPoolList_Boss.ItemPoolList_Boss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry271.Week3Fixed2",
+      "value": "(1,1,0,BPChar_MechEvilAI),/Game/GameData/Loot/ItemPools/ItemPoolList_Boss.ItemPoolList_Boss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry271.Week3Fixed3",
+      "value": "(1,1,0,BPChar_NogChipHolder),/Game/GameData/Loot/ItemPools/ItemPoolList_Boss.ItemPoolList_Boss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry271.Week3Fixed4",
+      "value": "(1,1,0,BPChar_Oversphere_KatagawaSphere),/Game/GameData/Loot/ItemPools/ItemPoolList_Boss.ItemPoolList_Boss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry271.Week3Fixed5",
+      "value": "(1,1,0,BPChar_PunkSpaceCowboy),/Game/GameData/Loot/ItemPools/ItemPoolList_Boss.ItemPoolList_Boss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry272",
+      "value": "(1,1,0,BPChar_AureliaBoss),/Game/GameData/Loot/ItemPools/ItemPoolList_Boss.ItemPoolList_Boss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry273",
+      "value": "(1,1,0,BPChar_ApeKingBobo),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry274",
+      "value": "(1,1,0,BPChar_Enforcer_Bounty01),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry275",
+      "value": "(1,1,0,BPChar_Enforcer_Bounty02),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry276",
+      "value": "(1,1,0,BPChar_EnforcerSacrificeBoss),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry277",
+      "value": "(1,1,0,BPChar_GoonMonsterTrucker),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry278",
+      "value": "(1,1,0,BPChar_Goon_Rare01),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry279",
+      "value": "(1,1,0,BPChar_GoonBounty01),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry280",
+      "value": "(1,1,0,BPChar_GuardianCube_Spectre),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry281",
+      "value": "(1,1,0,BPChar_GuardianCube_SpectreFinal),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry282",
+      "value": "(1,1,0,BPChar_HeavyLoot),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry283",
+      "value": "(1,1,0,BPChar_Heavy_Bounty01),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry284",
+      "value": "(1,1,0,BPChar_HeavyDinerBoss),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry285",
+      "value": "(1,1,0,BPChar_HeavyFootstepsOfGiants),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry286",
+      "value": "(1,1,0,BPChar_HeavyJavaCore),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry287",
+      "value": "(1,1,0,BPChar_NogBeans),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry288",
+      "value": "(1,1,0,BPChar_Nog01_Bounty),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry289",
+      "value": "(1,1,0,BPChar_PsychoLoot),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry290",
+      "value": "(1,1,0,BPChar_Rakkman),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry291",
+      "value": "(1,1,0,BPChar_PsychoRare02),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry292",
+      "value": "(1,1,0,BPChar_PsychoRare03),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry293",
+      "value": "(1,1,0,BPChar_PunkBounty02),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry294",
+      "value": "(1,1,0,BPChar_Ratch_Hunt01),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry295",
+      "value": "(1,1,0,BPChar_SaurianShiny),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry296",
+      "value": "(1,1,0,BPChar_ServiceBot_LOOT),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry297",
+      "value": "(1,1,0,BPChar_ServiceBot_Rare01),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry298",
+      "value": "(1,1,0,BPChar_SkagChubby),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry299",
+      "value": "(1,1,0,BPChar_SkagAntEater),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry300",
+      "value": "(1,1,0,BPChar_SpiderantCoffer),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry301",
+      "value": "(1,1,0,BPChar_SpiderantCakeRoyalty),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry302",
+      "value": "(1,1,0,BPChar_Spiderant_Hunt01),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry303",
+      "value": "(1,1,0,BPChar_SpiderantTarantella),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry304",
+      "value": "(1,1,0,BPChar_TinkDemon),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry305",
+      "value": "(1,1,0,BPChar_TinkMotorcadeBigD),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry306",
+      "value": "(1,1,0,BPChar_TinkRedJabber),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry307",
+      "value": "(1,1,0,BPChar_VarkidHunt01),/Game/GameData/Loot/ItemPools/ItemPoolList_MiniBoss.ItemPoolList_MiniBoss,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry308",
+      "value": "(1,1,0,BPChar_EdenBoss),/Game/GameData/Loot/ItemPools/ItemPoolList_VaultBossEnemy.ItemPoolList_VaultBossEnemy,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry309",
+      "value": "(1,1,0,BPChar_FinalBoss),/Game/GameData/Loot/ItemPools/ItemPoolList_VaultBossEnemy.ItemPoolList_VaultBossEnemy,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry310",
+      "value": "(1,1,0,BPChar_Rampager),/Game/GameData/Loot/ItemPools/ItemPoolList_VaultBossEnemy.ItemPoolList_VaultBossEnemy,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry311",
+      "value": "(1,1,0,BPChar_TroyBoss),/Game/GameData/Loot/ItemPools/ItemPoolList_VaultBossEnemy.ItemPoolList_VaultBossEnemy,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry312",
+      "value": "(1,1,0,BPChar_EnforcerAnointed),/Game/GameData/Loot/ItemPools/ItemPoolList_AnointedEnemyGunsGear.ItemPoolList_AnointedEnemyGunsGear,ItemPools.ItemPools[4].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry313",
+      "value": "(1,1,0,BPChar_Goliath_Anointed),/Game/GameData/Loot/ItemPools/ItemPoolList_AnointedEnemyGunsGear.ItemPoolList_AnointedEnemyGunsGear,ItemPools.ItemPools[4].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry314",
+      "value": "(1,1,0,BPChar_Goliath_Elemental),/Game/GameData/Loot/ItemPools/ItemPoolList_AnointedEnemyGunsGear.ItemPoolList_AnointedEnemyGunsGear,ItemPools.ItemPools[4].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry315",
+      "value": "(1,1,0,BPChar_GoonAnointed),/Game/GameData/Loot/ItemPools/ItemPoolList_AnointedEnemyGunsGear.ItemPoolList_AnointedEnemyGunsGear,ItemPools.ItemPools[4].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry316",
+      "value": "(1,1,0,BPChar_PsychoAnointed),/Game/GameData/Loot/ItemPools/ItemPoolList_AnointedEnemyGunsGear.ItemPoolList_AnointedEnemyGunsGear,ItemPools.ItemPools[4].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry317",
+      "value": "(1,1,0,BPChar_Punk_Anointed),/Game/GameData/Loot/ItemPools/ItemPoolList_AnointedEnemyGunsGear.ItemPoolList_AnointedEnemyGunsGear,ItemPools.ItemPools[4].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry318",
+      "value": "(1,1,0,BPChar_TinkAnointed),/Game/GameData/Loot/ItemPools/ItemPoolList_AnointedEnemyGunsGear.ItemPoolList_AnointedEnemyGunsGear,ItemPools.ItemPools[4].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry319",
+      "value": "(1,1,0,BPChar_VarkidSuperBadass),/Game/GameData/Loot/ItemPools/ItemPoolList_AnointedEnemyGunsGear.ItemPoolList_AnointedEnemyGunsGear,ItemPools.ItemPools[4].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry320",
+      "value": "(1,1,0,BPChar_VarkidHunt02_LarvaA),/Game/GameData/Loot/ItemPools/ItemPoolList_AnointedEnemyGunsGear.ItemPoolList_AnointedEnemyGunsGear,ItemPools.ItemPools[4].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry321",
+      "value": "(1,1,0,BPChar_VarkidHunt02_LarvaB),/Game/GameData/Loot/ItemPools/ItemPoolList_AnointedEnemyGunsGear.ItemPoolList_AnointedEnemyGunsGear,ItemPools.ItemPools[4].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry322",
+      "value": "(1,1,0,BPChar_VarkidHunt02_LarvaC),/Game/GameData/Loot/ItemPools/ItemPoolList_AnointedEnemyGunsGear.ItemPoolList_AnointedEnemyGunsGear,ItemPools.ItemPools[4].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkCharacterLoadedEntry323",
+      "value": "(1,1,0,BPChar_VarkidHunt02_LarvaD),/Game/GameData/Loot/ItemPools/ItemPoolList_AnointedEnemyGunsGear.ItemPoolList_AnointedEnemyGunsGear,ItemPools.ItemPools[4].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkLevelPatchEntry601",
+      "value": "(1,1,0,COVSlaughter_P),/Game/GameData/Loot/ItemPools/ItemPoolList_SlaughterMoney.ItemPoolList_SlaughterMoney,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkLevelPatchEntry602",
+      "value": "(1,1,0,CreatureSlaughter_P),/Game/GameData/Loot/ItemPools/ItemPoolList_SlaughterMoney.ItemPoolList_SlaughterMoney,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    },
+    {
+      "key": "SparkLevelPatchEntry603",
+      "value": "(1,1,0,TechSlaughter_P),/Game/GameData/Loot/ItemPools/ItemPoolList_SlaughterMoney.ItemPoolList_SlaughterMoney,ItemPools.ItemPools[7].NumberOfTimesToSelectFromThisPool.BaseValueScale,8,1.000000,1.5"
+    }
+  ]
