@@ -59,4 +59,7 @@ Details
   those will get fixed up eventually.
   ([GBX Post](https://borderlands.com/en-US/news/2019-10-14-borderlands-3-show-me-the-eridium/),
   [Local Post Archive](gbx_info_archive/2019-10-14-anniversary_3.md))
+* **2019-10-17**: Fifth announced hotfixes
+  ([GBX Post](https://borderlands.com/en-US/news/2019-10-17-borderlands-3-hotfixes-oct-17/),
+  [Local Post Archive](gbx_info_archive/2019-10-17-hotfixes.md))
 
