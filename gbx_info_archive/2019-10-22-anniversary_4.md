@@ -21,3 +21,8 @@ As a reminder, Mayhem Mode can only be enabled once you've finished Borderlands 
 
 Mayhem on Twitch will run from October 22 to October 29 when the final week's theme begins. The Borderlands Anniversary Celebration calendar is below—and if you want to know what this month of Borderlands 3 bonuses is all about, you can catch up here.
 
+Week 4 (October 22-29): Mayhem on Twitch!
+Week 5 (October 29 - November 4): Spooky Surprise!
+
+Whether you spend this week braving Mayhem Mode yourself or enjoying the ECHOcast Extension on Twitch as a viewer, the Mayhem on Twitch event should deliver a bevy of white-knuckle battles against badass enemies. If you're an ECHOcast-enabled Twitch streamer yourself, stay vigilant—there's no telling how chaotic those badass encounters will get when your viewers start buffing these baddies without mercy.
+
