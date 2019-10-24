@@ -77,3 +77,5 @@ Details
   [Local Post Archive](gbx_info_archive/2019-10-24-patch_and_hotfixes.md),
   [Event Details GBX Post](https://borderlands.com/en-US/news/2019-10-21-bloody-harvest-trailer-info/),
   [Local Post Archive](gbx_info_archive/2019-10-21-bloody_harvest_trailer.md))
+  * A very small second hotfix update was applied a few hours later, related to
+    Twitch chest interactions (just one additional hotfix)
