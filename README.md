@@ -79,3 +79,7 @@ Details
   [Local Post Archive](gbx_info_archive/2019-10-21-bloody_harvest_trailer.md))
   * A very small second hotfix update was applied a few hours later, related to
     Twitch chest interactions (just one additional hotfix)
+* **2019-10-25**: Small hotfix update to tweak Captain Haunt slightly (increased
+  volume and better loot drops)
+  ([GBX Tweet](https://twitter.com/GearboxOfficial/status/1187898114935590913),
+  [Local Archive](gbx_info_archive/2019-10-25-captain_haunt_tweak.md))
