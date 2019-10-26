@@ -71,8 +71,9 @@ Details
   with "Mayhem on Twitch."
   ([GBX Post](https://borderlands.com/en-US/news/2019-10-22-borderlands-3-mayhem-on-twitch/),
   [Local Post Archive](gbx_info_archive/2019-10-22-anniversary_4.md))
-* **2019-10-24**: Sixth announced hotfixes, third patch, and activation of the Bloody Harvest
-  event
+* **2019-10-24**: Sixth announced hotfixes, third patch (build version
+  `OAK-PATCHDIESEL-45-CL-2038940`, reported version `1.0.3 CL 2038940`),
+  and activation of the Bloody Harvest event
   ([Day-of GBX Post](https://borderlands.com/en-US/news/2019-10-24-borderlands-3-patch-hotfixes-roadmap-oct-24/),
   [Local Post Archive](gbx_info_archive/2019-10-24-patch_and_hotfixes.md),
   [Event Details GBX Post](https://borderlands.com/en-US/news/2019-10-21-bloody-harvest-trailer-info/),
