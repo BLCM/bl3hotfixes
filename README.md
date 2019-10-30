@@ -84,3 +84,6 @@ Details
   volume and better loot drops)
   ([GBX Tweet](https://twitter.com/GearboxOfficial/status/1187898114935590913),
   [Local Archive](gbx_info_archive/2019-10-25-captain_haunt_tweak.md))
+* **2019-10-29**: Week 4 hotfixes were partially removed (namely Twitch
+  interaction and Mayhem XP buffs).  The rest of Week 4 is being left in as
+  permanent changes.
