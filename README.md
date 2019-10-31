@@ -87,3 +87,6 @@ Details
 * **2019-10-29**: Week 4 hotfixes were partially removed (namely Twitch
   interaction and Mayhem XP buffs).  The rest of Week 4 is being left in as
   permanent changes.
+* **2019-10-31**: Seventh announced hotfixes.
+  ([GBX Post](https://borderlands.com/en-US/news/2019-10-31-borderlands-3-hotfixes-oct-31/),
+  [Local Post Archive](gbx_info_archive/2019-10-31-hotfixes.md))
