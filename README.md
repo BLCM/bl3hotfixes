@@ -90,3 +90,5 @@ Details
 * **2019-10-31**: Seventh announced hotfixes.
   ([GBX Post](https://borderlands.com/en-US/news/2019-10-31-borderlands-3-hotfixes-oct-31/),
   [Local Post Archive](gbx_info_archive/2019-10-31-hotfixes.md))
+* **2019-11-01**: Halloween-specific hotfix to have 100% haunted enemies was
+  removed.
