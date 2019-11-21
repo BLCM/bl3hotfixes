@@ -100,4 +100,7 @@ Details
   [Local Post Archive](gbx_info_archive/2019-11-14-hotfixes.md))
   * An unannounced update a few hours after that got rid of a couple of
     hotfixes.
+* **2019-11-21**: Tenth official hotfix update, which removes nearly half of
+  the established hotfixes (presumably due to being baked into the forthcoming
+  Maliwan Takedown update).
 
