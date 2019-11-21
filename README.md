@@ -103,7 +103,7 @@ Details
 * **2019-11-21**: Tenth announced hotfixes, fourth official patch, and release of
   Takedown at Maliwan's Blacksite.  Nearly half of the previously-established
   hotfixes have been removed, presumably because they're now baked into the game
-  data.
+  data.  A few hours later, some newer hotfixes were added to the mix.
   ([GBX Post](https://borderlands.com/en-US/news/2019-11-21-borderlands-3-patch-hotfixes-nov-21/),
   [Local Post Archive](gbx_info_archive/2019-11-21-patch_and_hotfixes.md))
 
