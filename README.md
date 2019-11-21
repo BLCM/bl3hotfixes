@@ -100,7 +100,10 @@ Details
   [Local Post Archive](gbx_info_archive/2019-11-14-hotfixes.md))
   * An unannounced update a few hours after that got rid of a couple of
     hotfixes.
-* **2019-11-21**: Tenth official hotfix update, which removes nearly half of
-  the established hotfixes (presumably due to being baked into the forthcoming
-  Maliwan Takedown update).
+* **2019-11-21**: Tenth announced hotfixes, fourth official patch, and release of
+  Takedown at Maliwan's Blacksite.  Nearly half of the previously-established
+  hotfixes have been removed, presumably because they're now baked into the game
+  data.
+  ([GBX Post](https://borderlands.com/en-US/news/2019-11-21-borderlands-3-patch-hotfixes-nov-21/),
+  [Local Post Archive](gbx_info_archive/2019-11-21-patch_and_hotfixes.md))
 
