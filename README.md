@@ -106,4 +106,8 @@ Details
   data.  A few hours later, some newer hotfixes were added to the mix.
   ([GBX Post](https://borderlands.com/en-US/news/2019-11-21-borderlands-3-patch-hotfixes-nov-21/),
   [Local Post Archive](gbx_info_archive/2019-11-21-patch_and_hotfixes.md))
+* **2019-11-22**: Small hotfix update to revert a change to Megavore which was
+  having unintended consequences.  Also seems to buff sniper rifles a bit.
+  ([GBX Tweet](https://twitter.com/GearboxOfficial/status/1198014507991224320),
+  [Local Archive](gbx_info_archive/2019-11-22-megavore_revert.md))
 
