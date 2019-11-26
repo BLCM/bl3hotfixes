@@ -111,4 +111,7 @@ Details
   which had been removed with yesterday's update.
   ([GBX Tweet](https://twitter.com/GearboxOfficial/status/1198014507991224320),
   [Local Archive](gbx_info_archive/2019-11-22-megavore_revert.md))
+* **2019-11-26**: Eleventh announced hotfixes, just a quick fix to the Butcher.
+  ([GBX Post](https://borderlands.com/en-US/news/2019-11-26-borderlands-3-hotfixes-nov-26/),
+  [Local Archive](gbx_info_archive/2019-11-26-hotfixes.md))
 
