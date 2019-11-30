@@ -100,10 +100,12 @@ Details
   [Local Post Archive](gbx_info_archive/2019-11-14-hotfixes.md))
   * An unannounced update a few hours after that got rid of a couple of
     hotfixes.
-* **2019-11-21**: Tenth announced hotfixes, fourth official patch, and release of
-  Takedown at Maliwan's Blacksite.  Nearly half of the previously-established
-  hotfixes have been removed, presumably because they're now baked into the game
-  data.  A few hours later, some newer hotfixes were added to the mix.
+* **2019-11-21**: Tenth announced hotfixes, fourth official patch (build
+  version `OAK-PATCHDIESEL-71-CL2060134`, reported version `1.0.4 CL 2060134`),
+  and release of Takedown at Maliwan's Blacksite.  Nearly half of the
+  previously-established hotfixes have been removed, presumably because
+  they're now baked into the game data.  A few hours later, some newer
+  hotfixes were added to the mix.
   ([GBX Post](https://borderlands.com/en-US/news/2019-11-21-borderlands-3-patch-hotfixes-nov-21/),
   [Local Post Archive](gbx_info_archive/2019-11-21-patch_and_hotfixes.md))
 * **2019-11-22**: Small hotfix update to revert a change to Megavore which was
