@@ -116,4 +116,8 @@ Details
 * **2019-11-26**: Eleventh announced hotfixes, just a quick fix to the Butcher.
   ([GBX Post](https://borderlands.com/en-US/news/2019-11-26-borderlands-3-hotfixes-nov-26/),
   [Local Archive](gbx_info_archive/2019-11-26-hotfixes.md))
+* **2019-12-05**: Twelfth announced hotfixes, including disabling the Bloody
+  Harvest event.
+  ([GBX Post](https://borderlands.com/en-US/news/2019-12-05-borderlands-3-hotfixes-dec-5/),
+  [Local Archive](gbx_info_archive/2019-12-05-hotfixes.md))
 
