@@ -120,4 +120,7 @@ Details
   Harvest event.
   ([GBX Post](https://borderlands.com/en-US/news/2019-12-05-borderlands-3-hotfixes-dec-5/),
   [Local Archive](gbx_info_archive/2019-12-05-hotfixes.md))
+* **2019-12-11**: Unannounced patch to the game EXE, it seems (build version
+  seems to have remained `OAK-PATCHDIESEL-71-CL2060134`, but the reported
+  version is now `1.0.4 CL 2060135`)
 
