@@ -120,7 +120,17 @@ Details
   Harvest event.
   ([GBX Post](https://borderlands.com/en-US/news/2019-12-05-borderlands-3-hotfixes-dec-5/),
   [Local Archive](gbx_info_archive/2019-12-05-hotfixes.md))
-* **2019-12-11**: Unannounced patch to the game EXE, it seems (build version
+* **2019-12-10**: Unannounced patch to the game EXE, it seems (build version
   seems to have remained `OAK-PATCHDIESEL-71-CL2060134`, but the reported
   version is now `1.0.4 CL 2060135`)
+* **2019-12-12**: Fifth official patch (build version `OAK-PATCHDIESEL-97-CL2077505`,
+  reported version `1.0.5 CL 2077505`), fixing various bugs in the engine and laying
+  the groundwork for the upcoming Moxxi Heist DLC.  Two smallish rounds of hotfix
+  cleanup, as well, though nothing significant there.
+  ([GBX Post](https://borderlands.com/en-US/news/2019-12-12-borderlands-3-patch-dec-12/),
+  [Local Archive](gbx_info_archive/2019-12-12-patch.md))
+  Additionally, GBX may have buffed the droprates of rare spawns, trial bosses, and
+  slaughter bosses, though that's unconfirmed yet (was not done via hotfixes, at least).
+  ([GBX Tweet](https://twitter.com/Borderlands/status/1205217625959096320),
+  [Local Archive](gbx_info_archive/2019-12-12-tweet.md))
 
