@@ -11,6 +11,7 @@ import datetime
 
 hotfix_url = 'https://discovery.services.gearboxsoftware.com/v2/client/epic/pc/oak/verification'
 output_dir = '/home/pez/git/b2patching/bl3hotfixes'
+point_in_time_dir = os.path.join(output_dir, 'point_in_time')
 cumulative_file = 'hotfixes_current.json'
 
 # Get our cache dir, and create if it doesn't exist
@@ -70,7 +71,7 @@ if do_write:
     now = datetime.datetime.utcnow()
     hotfix_filename = now.strftime('hotfixes_%Y_%m_%d_-_%H_%M_%S.json')
     print('Writing new hotfixes to {}'.format(hotfix_filename))
-    with open(os.path.join(output_dir, hotfix_filename), 'w') as df:
+    with open(os.path.join(point_in_time_dir, hotfix_filename), 'w') as df:
         df.write(hotfixes)
 
     # Now write to our cumulative file

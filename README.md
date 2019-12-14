@@ -8,7 +8,8 @@ October 1, 2019, this project was created to check the hotfix data every
 hour and write out the hotfixes automatically.
 
 The hotfixes are written twice: once to a brand-new file which includes
-a datestamp, and once to `hotfixes_current.json`.
+a datestamp, stored in the `point_in_time` directory, and once to
+`hotfixes_current.json`.
 
 The script which does this is written in Python 3, and should run anywhere
 Python does, though you'll need to edit `output_dir` inside the script
