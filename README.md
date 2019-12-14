@@ -134,4 +134,8 @@ Details
   of rare spawns, trial bosses, and slaughter bosses.
   ([GBX Tweet](https://twitter.com/Borderlands/status/1205217625959096320),
   [Local Archive](gbx_info_archive/2019-12-12-tweet.md))
+* **2019-12-13**: Small hotfix update which tweaks the R4kk P4ck COM, and fixes
+  Zane's barrier in a couple of situations.
+  ([GBX Tweet](https://twitter.com/Borderlands/status/1205669994807250944),
+  [Local Archive](gbx_info_archive/2019-12-13-tweet.md))
 
