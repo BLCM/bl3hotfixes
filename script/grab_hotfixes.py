@@ -11,7 +11,8 @@ import datetime
 
 hotfix_url = 'https://discovery.services.gearboxsoftware.com/v2/client/epic/pc/oak/verification'
 output_dir = '/home/pez/git/b2patching/bl3hotfixes'
-point_in_time_dir = os.path.join(output_dir, 'point_in_time')
+point_in_time_base = 'point_in_time'
+point_in_time_dir = os.path.join(output_dir, point_in_time_base)
 cumulative_file = 'hotfixes_current.json'
 
 # Get our cache dir, and create if it doesn't exist
@@ -83,7 +84,7 @@ if do_write:
     print('Pushing to git')
     repo = git.Repo(output_dir)
     repo.git.pull()
-    repo.git.add('--', hotfix_filename)
+    repo.git.add('--', os.path.join(point_in_time_base, hotfix_filename))
     repo.git.add('--', cumulative_file)
     repo.git.commit('-a', '-m', now.strftime('Auto-update with new hotfixes - %Y-%m-%d %H:%M:%S'))
     repo.git.push()
