@@ -139,6 +139,7 @@ Details
   ([GBX Tweet](https://twitter.com/Borderlands/status/1205669994807250944),
   [Local Archive](gbx_info_archive/2019-12-13-tweet.md))
 * **2019-12-19**: Release of DLC1 (Moxxi's Heist of the Handsome Jackpot), minor
-  patch (reported version `1.0.5 CL 2079527`), and some updated hotfix tweaks.
+  patch (build version `OAK-PATCHDIESEL-99-CL2079527`, reported version `1.0.5 CL 2079527`),
+  and some updated hotfix tweaks.
   ([GBX Post](https://borderlands.com/en-US/news/2019-12-19-borderlands-3-hotfixes-dec-19/),
   [Local Archive](gbx_info_archive/2019-12-19-hotfixes_and_dlc1.md))
