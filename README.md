@@ -16,6 +16,10 @@ Python does, though you'll need to edit `output_dir` inside the script
 itself to have it save out files properly.  Check `requirements.txt` inside
 the script dir for the extra Python modules needed for it to run.
 
+All code in this project is is licensed under the
+[New/Modified (3-Clause) BSD License](https://opensource.org/licenses/BSD-3-Clause).
+A copy can be found in [COPYING.txt](COPYING.txt).
+
 I've also put up a Google Sheets page which has the *all* of the hotfixes
 which have been used by GBX (including ones which are no longer active)
 up here: [Combined Hotfixes](https://drive.google.com/open?id=1kfkC2hJs0hZSr12bvrQlY0GyEH4S_KAI_xIAqnGmKnQ).  That sheet has all the fields split out
