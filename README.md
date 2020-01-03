@@ -147,3 +147,4 @@ Details
   and some updated hotfix tweaks.
   ([GBX Post](https://borderlands.com/en-US/news/2019-12-19-borderlands-3-hotfixes-dec-19/),
   [Local Archive](gbx_info_archive/2019-12-19-hotfixes_and_dlc1.md))
+* **2020-01-02**: Hotfixes updated to remove Christmas-themed main menu.
