@@ -28,6 +28,13 @@ properly into columns, which can make hotfix investigation a lot easier.
 Details
 =======
 
+(I'm numbering hotfixes and patches here based on what's officially announced
+in the "News" section at borderlands.com, though there have been plenty of
+smaller hotfixes/patches which haven't been announced in that area.  Often
+it'll just be a tweet, or in a few cases a silent update without any
+announcement at all.  A bit silly to keep numbering them, really, but I suppose
+I'll continue regardless...)
+
 * **2019-09-13**: Borderlands 3 Initial Release (build version `
   OAK-PADDIESEL1-39-CL-2005984`, reported version `1.0.0 CL 2005984` -
   *confirmation needed for reported version*)
@@ -148,3 +155,7 @@ Details
   ([GBX Post](https://borderlands.com/en-US/news/2019-12-19-borderlands-3-hotfixes-dec-19/),
   [Local Archive](gbx_info_archive/2019-12-19-hotfixes_and_dlc1.md))
 * **2020-01-02**: Hotfixes updated to remove Christmas-themed main menu.
+* **2020-01-09**: Fourteenth(ish) announced hotfixes, just tweaking a few minor things.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-01-09-borderlands-3-hotfixes-jan-9/),
+  [Local Archive](gbx_info_archive/2020-01-09-hotfixes.md))
+
