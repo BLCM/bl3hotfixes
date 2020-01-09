@@ -151,11 +151,11 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2019-12-13-tweet.md))
 * **2019-12-19**: Release of DLC1 (Moxxi's Heist of the Handsome Jackpot), minor
   patch (build version `OAK-PATCHDIESEL-99-CL2079527`, reported version `1.0.5 CL 2079527`),
-  and some updated hotfix tweaks.
+  and the thirteenth announced hotfix updates.
   ([GBX Post](https://borderlands.com/en-US/news/2019-12-19-borderlands-3-hotfixes-dec-19/),
   [Local Archive](gbx_info_archive/2019-12-19-hotfixes_and_dlc1.md))
 * **2020-01-02**: Hotfixes updated to remove Christmas-themed main menu.
-* **2020-01-09**: Fourteenth(ish) announced hotfixes, just tweaking a few minor things.
+* **2020-01-09**: Fourteenth announced hotfixes, just tweaking a few minor things.
   ([GBX Post](https://borderlands.com/en-US/news/2020-01-09-borderlands-3-hotfixes-jan-9/),
   [Local Archive](gbx_info_archive/2020-01-09-hotfixes.md))
 
