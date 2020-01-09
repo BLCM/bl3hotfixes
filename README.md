@@ -137,7 +137,8 @@ I'll continue regardless...)
   version is now `1.0.4 CL 2060135`)
 * **2019-12-12**: Fifth official patch (build version `OAK-PATCHDIESEL-97-CL2077505`,
   reported version `1.0.5 CL 2077505`), fixing various bugs in the engine and laying
-  the groundwork for the upcoming Moxxi Heist DLC.
+  the groundwork for the upcoming Moxxi Heist DLC.  Also includes the welcome change
+  of having a main-menu notification for when hotfixes are loaded!
   ([GBX Post](https://borderlands.com/en-US/news/2019-12-12-borderlands-3-patch-dec-12/),
   [Local Archive](gbx_info_archive/2019-12-12-patch.md))
   Additionally, there were three smallish hotfix updates throughout the day, which
