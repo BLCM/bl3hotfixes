@@ -159,4 +159,10 @@ I'll continue regardless...)
 * **2020-01-09**: Fourteenth announced hotfixes, just tweaking a few minor things.
   ([GBX Post](https://borderlands.com/en-US/news/2020-01-09-borderlands-3-hotfixes-jan-9/),
   [Local Archive](gbx_info_archive/2020-01-09-hotfixes.md))
+* **2020-01-16**: Fifteen announced hotfixes, including the Farming Frenzy event
+  and temporary scaling changes to the Maliwan Takedown.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-01-16-borderlands-3-hotfixes-jan-16/),
+  [Local Archive](gbx_info_archive/2020-01-16-hotfixes.md) -
+  [Farming Frenzy Post](https://borderlands.com/en-US/news/2020-01-15-borderlands-3-farming-frenzy/),
+  [Local Archive](gbx_info_archive/2020-01-15-farming_frenzy.md))
 
