@@ -160,9 +160,15 @@ I'll continue regardless...)
   ([GBX Post](https://borderlands.com/en-US/news/2020-01-09-borderlands-3-hotfixes-jan-9/),
   [Local Archive](gbx_info_archive/2020-01-09-hotfixes.md))
 * **2020-01-16**: Fifteenth announced hotfixes, including the Farming Frenzy
-  event and temporary scaling changes to the Maliwan Takedown.
+  event and temporary scaling changes to the Maliwan Takedown.  A minor
+  hotfix update later in the day cleaned up some duplicate statements.
   ([GBX Post](https://borderlands.com/en-US/news/2020-01-16-borderlands-3-hotfixes-jan-16/),
   [Local Archive](gbx_info_archive/2020-01-16-hotfixes.md) -
   [Farming Frenzy Post](https://borderlands.com/en-US/news/2020-01-15-borderlands-3-farming-frenzy/),
   [Local Archive](gbx_info_archive/2020-01-15-farming_frenzy.md))
+* **2020-01-17**: A small hotfix update to tweak Urist Enforcer's drop rate
+  a bit, though the tweet from GBX implies that it was supposed to have
+  buffed a bunch of other enemy drops as well.
+  ([GBX Tweet](https://twitter.com/GearboxOfficial/status/1218233115296124936),
+  [Local Archive](gbx_info_archive/2020-01-17-tweet.md))
 
