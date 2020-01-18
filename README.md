@@ -167,8 +167,9 @@ I'll continue regardless...)
   [Farming Frenzy Post](https://borderlands.com/en-US/news/2020-01-15-borderlands-3-farming-frenzy/),
   [Local Archive](gbx_info_archive/2020-01-15-farming_frenzy.md))
 * **2020-01-17**: A small hotfix update to tweak Urist Enforcer's drop rate
-  a bit, though the tweet from GBX implies that it was supposed to have
-  buffed a bunch of other enemy drops as well.
+  a bit, though earlier hotfixes still in the file might mean the buff isn't
+  applying.  Also the tweet from GBX implies that it was supposed to have
+  buffed a bunch of other enemy drops as well, which it doesn't actually do.
   ([GBX Tweet](https://twitter.com/GearboxOfficial/status/1218233115296124936),
   [Local Archive](gbx_info_archive/2020-01-17-tweet.md))
 
