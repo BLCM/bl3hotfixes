@@ -172,4 +172,8 @@ I'll continue regardless...)
   buffed a bunch of other enemy drops as well, which it doesn't actually do.
   ([GBX Tweet](https://twitter.com/GearboxOfficial/status/1218233115296124936),
   [Local Archive](gbx_info_archive/2020-01-17-tweet.md))
+* **2020-01-23**: Sixteenth announced hofixes, just various bugfixes and
+  balance changes.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-01-23-borderlands-3-hotfixes-jan-23/),
+  [Local Archive](gbx_info_archive/2020-01-23-hotfixes.md))
 
