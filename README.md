@@ -176,4 +176,8 @@ I'll continue regardless...)
   balance changes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-01-23-borderlands-3-hotfixes-jan-23/),
   [Local Archive](gbx_info_archive/2020-01-23-hotfixes.md))
+* **2020-01-30**: Seventeenth announced hotfixes, and introduction of Rare Chest
+  Riches event.  Farming Frenzy event will apparently remain active permanently.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-01-30-borderlands-3-hotfixes-jan-30/),
+  [Local Archive](gbx_info_archive/2020-01-30-rare_chest_riches.md))
 
