@@ -182,4 +182,6 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-01-30-rare_chest_riches.md))
 * **2020-01-04**: A small unannounced hotfix update which tweaks Cistern of
   Slaughter, presumably just bugfixes.
+* **2020-01-05**: Another small unannounced hotfix which nerfs some of the 40% drop rates
+  introduced in the Farming Frenzy event down to 30%.
 
