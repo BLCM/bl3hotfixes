@@ -184,4 +184,9 @@ I'll continue regardless...)
   Slaughter, presumably just bugfixes.
 * **2020-01-05**: Another small unannounced hotfix which nerfs some of the 40% drop rates
   introduced in the Farming Frenzy event down to 30%.
+* **2020-01-13**: Sixth official patch (build version `OAK-PATCHDIESEL0-45-CL2109921`,
+  reported version `1.0.6 CL 2109921`), eighteenth announced hotfixes, and introduction of
+  Broken Hearts timed content update.  Level cap increase to 53, among other changes.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-02-13-borderlands-3-patch-hotfixes-feb-13/),
+  [Local Archive](gbx_info_archive/2020-02-13-patch_hotfixes_broken_hearts.md))
 
