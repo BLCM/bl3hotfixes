@@ -189,4 +189,5 @@ I'll continue regardless...)
   Broken Hearts timed content update.  Level cap increase to 53, among other changes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-02-13-borderlands-3-patch-hotfixes-feb-13/),
   [Local Archive](gbx_info_archive/2020-02-13-patch_hotfixes_broken_hearts.md))
+  * A small hotfix update a few hours later disabled the Rare Chest Riches event.
 
