@@ -180,14 +180,18 @@ I'll continue regardless...)
   Riches event.  Farming Frenzy event will apparently remain active permanently.
   ([GBX Post](https://borderlands.com/en-US/news/2020-01-30-borderlands-3-hotfixes-jan-30/),
   [Local Archive](gbx_info_archive/2020-01-30-rare_chest_riches.md))
-* **2020-01-04**: A small unannounced hotfix update which tweaks Cistern of
+* **2020-02-04**: A small unannounced hotfix update which tweaks Cistern of
   Slaughter, presumably just bugfixes.
-* **2020-01-05**: Another small unannounced hotfix which nerfs some of the 40% drop rates
+* **2020-02-05**: Another small unannounced hotfix which nerfs some of the 40% drop rates
   introduced in the Farming Frenzy event down to 30%.
-* **2020-01-13**: Sixth official patch (build version `OAK-PATCHDIESEL0-45-CL2109921`,
+* **2020-02-13**: Sixth official patch (build version `OAK-PATCHDIESEL0-45-CL2109921`,
   reported version `1.0.6 CL 2109921`), eighteenth announced hotfixes, and introduction of
   Broken Hearts timed content update.  Level cap increase to 53, among other changes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-02-13-borderlands-3-patch-hotfixes-feb-13/),
   [Local Archive](gbx_info_archive/2020-02-13-patch_hotfixes_broken_hearts.md))
   * A small hotfix update a few hours later disabled the Rare Chest Riches event.
+* **2020-02-20**: Nineteenth announced hotfixes, and deactivation of Broken Hearts
+  event.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-02-20-borderlands-3-hotfixes-feb-20/),
+  [Local Archive](gbx_info_archive/2020-02-20-hotfixes.md))
 
