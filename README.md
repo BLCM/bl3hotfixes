@@ -194,4 +194,6 @@ I'll continue regardless...)
   event.
   ([GBX Post](https://borderlands.com/en-US/news/2020-02-20-borderlands-3-hotfixes-feb-20/),
   [Local Archive](gbx_info_archive/2020-02-20-hotfixes.md))
+  * A small hotfix update afterwards removed a few Broken Hearts-specific balance changes
+    which were missed on the initial update.
 

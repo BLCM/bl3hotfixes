@@ -10,7 +10,7 @@ from bl3hotfix.bl3hotfix import Hotfix, HotfixTypeNotSupported
 
 hf_dir = '../point_in_time'
 filename_combined = 'hotfixes_combined.csv'
-filename_latest = 'hotfixes_latest.csv'
+#filename_latest = 'hotfixes_latest.csv'
 
 class HotfixFile(object):
 
@@ -165,11 +165,13 @@ with open(filename_combined, 'w') as odf:
 print('')
         
 # Write out *just* our most recent set of hotfixes, too.  Easier to import
-# into our nicer spreadsheet versions that way.
-with open(filename_latest, 'w') as odf:
-    writer = csv.writer(odf)
-    for hf in files[-1].hotfixes.values():
-        write_row(writer, hf)
+# into our nicer spreadsheet versions that way.  (Actually, don't bother.
+# Haven't done it that way for awhile, ever since we started keeping track
+# of which hotfixes are active and which ones aren't.)
+#with open(filename_latest, 'w') as odf:
+#    writer = csv.writer(odf)
+#    for hf in files[-1].hotfixes.values():
+#        write_row(writer, hf)
 
 # Reports
 if True:
@@ -178,11 +180,11 @@ if True:
         pluralize('hotfix', 'es', len(global_hotfixes)),
         filename_combined,
         ))
-    print('{} {} written to {}'.format(
-        len(files[-1].hotfixes),
-        pluralize('hotfix', 'es', len(files[-1].hotfixes)),
-        filename_latest,
-        ))
+    #print('{} {} written to {}'.format(
+    #    len(files[-1].hotfixes),
+    #    pluralize('hotfix', 'es', len(files[-1].hotfixes)),
+    #    filename_latest,
+    #    ))
     print('')
 
 if True:
