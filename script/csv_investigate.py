@@ -43,10 +43,21 @@ with open('hotfixes_combined.csv', 'rt') as df:
                         print(row['object'])
 
             # Find challenge components
-            if True:
+            if False:
                 if 'CrewChallengeComponent' in row['object']:
                     print('{} - {} - {}'.format(
                         row['object'],
                         row['attr'],
                         row['package'],
                         ))
+
+            # Looking into type 6 data
+
+        elif row['type'] == '6':
+
+            if True:
+                print(row['from'])
+                data = row['from'][1:-1]
+                for idx, triple in enumerate(data.split('|')):
+                    nums = [float(n) for n in triple.split(',')]
+
