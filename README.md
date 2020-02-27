@@ -196,4 +196,7 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-02-20-hotfixes.md))
   * A small hotfix update afterwards removed a few Broken Hearts-specific balance changes
     which were missed on the initial update.
+* **2020-02-27**: Twentieth announced hotfixes - various bugfixes and weapon buffs.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-02-27-borderlands-3-hotfixes-feb-27/),
+  [Local Archive](gbx_info_archive/2020-02-27-hotfixes.md))
 
