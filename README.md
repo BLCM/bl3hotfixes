@@ -199,4 +199,5 @@ I'll continue regardless...)
 * **2020-02-27**: Twentieth announced hotfixes - various bugfixes and weapon buffs.
   ([GBX Post](https://borderlands.com/en-US/news/2020-02-27-borderlands-3-hotfixes-feb-27/),
   [Local Archive](gbx_info_archive/2020-02-27-hotfixes.md))
+  * A small update a little while later added one more buff to the Lob.
 
