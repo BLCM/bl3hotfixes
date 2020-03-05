@@ -200,4 +200,9 @@ I'll continue regardless...)
   ([GBX Post](https://borderlands.com/en-US/news/2020-02-27-borderlands-3-hotfixes-feb-27/),
   [Local Archive](gbx_info_archive/2020-02-27-hotfixes.md))
   * A small update a little while later added one more buff to the Lob.
+* **2020-03-05**: 21st announced hotfixes - various weapon buffs, mostly.  A small update
+  prior to the official update also changed the hotfix service identifier to be cross-play
+  compatible, presumably in preparation for the BL3 Steam release.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-03-05-borderlands-3-hotfixes-mar-5/),
+  [Local Archive](gbx_info_archive/2020-03-05-hotfixes.md))
 
