@@ -205,4 +205,9 @@ I'll continue regardless...)
   compatible, presumably in preparation for the BL3 Steam release.
   ([GBX Post](https://borderlands.com/en-US/news/2020-03-05-borderlands-3-hotfixes-mar-5/),
   [Local Archive](gbx_info_archive/2020-03-05-hotfixes.md))
+* **2020-03-12**: 22nd announced hotfixes - various announced changes, though the only ones
+  which are actually active in today's hotfix are weapon buffs.  The rest will apparently
+  be rolled out over the next day.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-03-12-borderlands-3-hotfixes-mar-12/),
+  [Local Archive](gbx_info_archive/2020-03-12-hotfixes.md))
 
