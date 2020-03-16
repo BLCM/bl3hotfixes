@@ -211,5 +211,6 @@ I'll continue regardless...)
   ([GBX Post](https://borderlands.com/en-US/news/2020-03-12-borderlands-3-hotfixes-mar-12/),
   [Local Archive](gbx_info_archive/2020-03-12-hotfixes.md))
 * **2020-03-13**: A couple more hotfix updates throughout the day completed the implementation
-  of the announced hotfix updates from the previous day.
+  of the announced hotfix updates from the previous day.  Also the first release on Steam
+  (version `OAK-PATCHWIN64-49-CL2141850`).
 
