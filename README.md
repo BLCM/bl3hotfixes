@@ -212,6 +212,9 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-03-12-hotfixes.md))
 * **2020-03-13**: A couple more hotfix updates throughout the day completed the implementation
   of the announced hotfix updates from the previous day.  Also the first release on Steam
-  (version `OAK-PATCHWIN64-49-CL2141850`), and a patch to the EGS version, to presumably
-  finish up cross-play between EGS and Steam (reported version `1.0.6 CL 2141850`)
+  (version `OAK-PATCHWIN64-49-CL2141850`), and a patch to the EGS version, to finish up
+  cross-play between EGS and Steam, with a few other minor tweaks (reported version
+  `1.0.6 CL 2141850`)
+  ([GBX Post](https://borderlands.com/en-US/news/2020-03-12-borderlands-3-epic-patch-mar-13/),
+  [Local Archive](gbx_info_archive/2020-03-13-patch_xplay.md))
 
