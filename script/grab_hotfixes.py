@@ -158,7 +158,7 @@ for (other_store, other_hotfixes, other_do_write) in hotfixes[1:]:
                 df.write(other_hotfixes)
         else:
             other_filename = now.strftime('hotfixes_%Y_%m_%d_-_%H_%M_%S_-_{}.txt'.format(other_store))
-            print('Writing new {} hotfixes to {}'.format(other_store, other_filename))
+            print('Writing {} no-change notification to {}'.format(other_store, other_filename))
             with open(os.path.join(point_in_time_dir, other_filename), 'w') as df:
                 print('{} hotfixes have not changed since the last update, though'.format(other_store), file=df)
                 print('they now differ from the {} hotfixes'.format(main_store), file=df)
