@@ -230,4 +230,7 @@ I'll continue regardless...)
   and 24th announced hotfixes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-03-26-borderlands-3-patch-hotfixes-mar-26/),
   [Local Archive](gbx_info_archive/2020-03-26-hotfixes_and_dlc2.md))
+  * DLC2 rolled out in stages for Epic -- a pre-patch first, then the DLC
+    itself.  Steam users got the pre-patch and DLC all in one go.
+  * A small additional hotfix shortly after (re-?)added in some Lob buffs.
 
