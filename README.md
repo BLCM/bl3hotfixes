@@ -232,5 +232,8 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-03-26-hotfixes_and_dlc2.md))
   * DLC2 rolled out in stages for Epic -- a pre-patch first, then the DLC
     itself.  Steam users got the pre-patch and DLC all in one go.
-  * A small additional hotfix shortly after (re-?)added in some Lob buffs.
+  * A few smaller hotfix updates trickled in throughout the day:
+    * The first re-added some Lob buffs which were taken out incorrectly
+    * The next rearranged those in the hotfix list
+    * The next re-added in a bunch of other hotfixes which had been taken out incorrectly
 
