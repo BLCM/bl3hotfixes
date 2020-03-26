@@ -225,7 +225,8 @@ I'll continue regardless...)
   ([GBX Post](https://borderlands.com/en-US/news/2020-03-24-takedown-shakedown/),
   [Local Archive](gbx_info_archive/2020-03-24-takedown_shakedown.md))
 * **2020-03-26**: Release of DLC2 (Hibiscus - Guns, Love, and Tentacles), seventh announced
-  patch, and 24th announced hotfixes.
+  patch (EGS build version `OAK-PATCHDIESEL1-102-CL2149333`, EGS reported version
+  `1.0.7_CL_2149333_Borderlands_3`), and 24th announced hotfixes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-03-26-borderlands-3-patch-hotfixes-mar-26/),
   [Local Archive](gbx_info_archive/2020-03-26-hotfixes_and_dlc2.md))
 
