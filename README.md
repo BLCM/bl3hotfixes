@@ -236,4 +236,7 @@ I'll continue regardless...)
     * The first re-added some Lob buffs which were taken out incorrectly
     * The next rearranged those in the hotfix list
     * The next re-added in a bunch of other hotfixes which had been taken out incorrectly
+* **2020-03-27**: As-yet unannounced hotfix update which vastly increases
+  quality of gear found in vending machines (including basically guaranteed
+  legendaries).
 
