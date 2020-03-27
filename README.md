@@ -236,7 +236,8 @@ I'll continue regardless...)
     * The first re-added some Lob buffs which were taken out incorrectly
     * The next rearranged those in the hotfix list
     * The next re-added in a bunch of other hotfixes which had been taken out incorrectly
-* **2020-03-27**: As-yet unannounced hotfix update which vastly increases
-  quality of gear found in vending machines (including basically guaranteed
-  legendaries).
+* **2020-03-27**: "Door Busters" mini event, which guarantees legendary items in
+  vending machines.  Will run through April 2.
+  ([GBX Tweet](https://twitter.com/Borderlands/status/1243588733061890048),
+  [Local Archive](gbx_info_archive/2020-03-27-door_busters_mini_event.md))
 
