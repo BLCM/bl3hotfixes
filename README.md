@@ -240,4 +240,8 @@ I'll continue regardless...)
   vending machines.  Will run through April 2.
   ([GBX Tweet](https://twitter.com/Borderlands/status/1243588733061890048),
   [Local Archive](gbx_info_archive/2020-03-27-door_busters_mini_event.md))
+  * Another hotfix later in the day added the "Co-op Loot Drop" event, running concurrently
+    with "Door Busters."  This one's only active through the weekend.
+    ([GBX Post](https://borderlands.com/en-US/news/2020-03-27-co-op-loot-drop/),
+    [Local Archive](gbx_info_archive/2020-03-27-co-op_loot_drop.md))
 
