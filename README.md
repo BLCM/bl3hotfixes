@@ -244,4 +244,6 @@ I'll continue regardless...)
     with "Door Busters."  This one's only active through the weekend.
     ([GBX Post](https://borderlands.com/en-US/news/2020-03-27-co-op-loot-drop/),
     [Local Archive](gbx_info_archive/2020-03-27-co-op_loot_drop.md))
+* **2020-04-01**: April Fool's surprise update which makes characters, pets, and clones
+  tiny.
 
