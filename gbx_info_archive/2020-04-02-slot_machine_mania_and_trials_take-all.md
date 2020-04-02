@@ -28,7 +28,6 @@ We have been taking a closer at Moze the last few weeks. Here at the first set o
 - Reduced the cooldown time for Iron Bear
 - Increased the amount of fuel for Iron Bear
 - Increased the bonus on “Behind the Iron Curtain” skill
-- Increased the bonus on “Security Bear” skill
 - Increased the bonus on “Experimental Munitions” skill
 
 Weapon Balance:
@@ -60,4 +59,6 @@ Weapon Balance:
 **Good Juju**
 
 - Non-critical hits now increase Critical Damage Bonus by 20%. This bonus stacks 25 times and is removed upon manual reload.
+
+*[An earlier version of these notes incorrectly listed a change to the Security Bear skill. This has been corrected.]*
 

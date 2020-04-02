@@ -246,4 +246,8 @@ I'll continue regardless...)
     [Local Archive](gbx_info_archive/2020-03-27-co-op_loot_drop.md))
 * **2020-04-01**: April Fool's surprise update which makes characters, pets, and clones
   tiny.
-
+* **2020-04-02**: 25th announced hotfixes, with various balance tweaks.  Removal of April
+  Fool's updates, Takedown Shakedown, Door Busters event, and Co-op Loot Drop event.
+  Addition of Slot Machine Mania and Trials Take-All events.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-04-02-borderlands-3-hotfixes-apr-2/),
+  [Local Archive](gbx_info_archive/2020-04-02-slot_machine_mania_and_trials_take-all.md))
