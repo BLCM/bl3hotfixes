@@ -251,3 +251,11 @@ I'll continue regardless...)
   Addition of Slot Machine Mania and Trials Take-All events.
   ([GBX Post](https://borderlands.com/en-US/news/2020-04-02-borderlands-3-hotfixes-apr-2/),
   [Local Archive](gbx_info_archive/2020-04-02-slot_machine_mania_and_trials_take-all.md))
+  * One of the hotfix values was tweaked a bit later in the day, as well.
+* **2020-04-03**: Tweak to the R4kk P4k COM, to address some crashes.
+  ([GBX Post](https://forums.gearboxsoftware.com/t/borderlands-3-hotfix-04-02-20/4463884),
+  [Local Archive](gbx_info_archive/2020-04-03-r4kk_p4k_fix.md))
+* **2020-04-07**: Activation of Citizen Science event.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-04-07-borderlands-science/),
+  [Local Archive](gbx_info_archive/2020-04-07-citizen_science.md))
+
