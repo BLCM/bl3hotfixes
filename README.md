@@ -258,4 +258,9 @@ I'll continue regardless...)
 * **2020-04-07**: Activation of Citizen Science event.
   ([GBX Post](https://borderlands.com/en-US/news/2020-04-07-borderlands-science/),
   [Local Archive](gbx_info_archive/2020-04-07-citizen_science.md))
+* **2020-04-09**: 26th announced hotfixes, with various buffs to Moze.  Also added Rare
+  Chest Riches and Loot Monster Mayhem events, and removed Slot Machine Mania and Trials
+  Take-All events.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-04-09-borderlands-3-hotfixes-apr-9/),
+  [Local Archive](gbx_info_archive/2020-04-09-rare_chest_riches_and_loot_monster_mayhem.md))
 
