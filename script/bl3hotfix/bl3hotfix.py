@@ -158,6 +158,8 @@ class Hotfix(object):
         # If we have a sort-of "ordinary" hotfix, continue processing
         if process_rest:
 
+            if hf_from_len == '':
+                hf_from_len = '0'
             hf_from_len = int(hf_from_len)
             # Weird bit of manual finagling we have to do here, to account
             # for some string quotes

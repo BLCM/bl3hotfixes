@@ -263,4 +263,8 @@ I'll continue regardless...)
   Take-All events.
   ([GBX Post](https://borderlands.com/en-US/news/2020-04-09-borderlands-3-hotfixes-apr-9/),
   [Local Archive](gbx_info_archive/2020-04-09-rare_chest_riches_and_loot_monster_mayhem.md))
+* **2020-04-16**: 27th announced hotfixes.  Introduction of Slaughter Onslaught and
+  Making It Rain events, and removal of Rare Chest Riches and Loot Monster Mayhem.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-04-16-borderlands-3-hotfixes-apr-16/),
+  [Local Archive](gbx_info_archive/2020-04-16-slaughter_onslaught_and_making_it_rain.md))
 
