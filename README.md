@@ -268,7 +268,8 @@ I'll continue regardless...)
   ([GBX Post](https://borderlands.com/en-US/news/2020-04-16-borderlands-3-hotfixes-apr-16/),
   [Local Archive](gbx_info_archive/2020-04-16-slaughter_onslaught_and_making_it_rain.md))
 * **2020-04-23**: Eighth announced patch (EGS build version `OAK-PATCHDIESEL-178-CL2173119`,
-  EGS reported version `1.0.8_CL_2173119_Borderlands_3`), and 28th announced hotfixes.
+  EGS reported version `1.0.8_CL_2173119_Borderlands_3`, Steam build version
+  `OAK-PATCHWIN64-79-CL2173119`), and 28th announced hotfixes.
   Introduction of Mayhem 2.0, which replaces the old Mayhem Mode, and start of Revenge of
   the Cartels event.  Also the start of the first Loot the Universe mini-event, on Pandora.
   Disabling of Slaughter Onslaught and Making It Rain events.
