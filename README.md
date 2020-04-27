@@ -275,8 +275,12 @@ I'll continue regardless...)
   Disabling of Slaughter Onslaught and Making It Rain events.
   ([GBX Post](https://borderlands.com/en-US/news/2020-04-23-borderlands-3-patch-hotfixes-apr-23/),
   [Local Archive](gbx_info_archive/2020-04-23-patch_mayhem2_and_cartels.md))
-* **2020-04-24**: Small update to disable a Mayhem 2.0 modifier which was
-  causing audio problems.
+* **2020-04-24**: Small update to disable the Boundary Issues Mayhem 2.0 modifier,
+  which was causing audio problems.
   ([GBX Tweet](https://twitter.com/Borderlands/status/1253788264743358464),
   [Local Archive](gbx_info_archive/2020-04-24-tweet.md))
+* **2020-04-27**: Small update to disable the Drone Ranger Mayhem 2.0 modifier,
+  which was causing audio problems.
+  ([GBX Tweet](https://twitter.com/Borderlands/status/1254831343457808385),
+  [Local Archive](gbx_info_archive/2020-04-27-tweet.md))
 
