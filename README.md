@@ -288,4 +288,8 @@ I'll continue regardless...)
   Various bugfixes and tweaks, as well.
   ([GBX Post](https://borderlands.com/en-US/news/2020-04-30-borderlands-3-hotfixes-apr-30/),
   [Local Archive](gbx_info_archive/2020-04-30-loot_the_universe_promethea.md))
+  * A small update later in the day fixed Anointment droprates for shields,
+    when in Mayhem modes.
+    ([GBX Tweet](https://twitter.com/GearboxOfficial/status/1255999366680248320),
+    [Local Archive](gbx_info_archive/2020-04-30-tweet.md))
 
