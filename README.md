@@ -292,4 +292,8 @@ I'll continue regardless...)
     when in Mayhem modes.
     ([GBX Tweet](https://twitter.com/GearboxOfficial/status/1255999366680248320),
     [Local Archive](gbx_info_archive/2020-04-30-tweet.md))
+* **2020-05-07**: 30th announced hotfixes.  Moving Loot the Universe mini-event
+  from Promethea/Athenas to Eden-6, and a few Mayhem 2.0 drop fixes.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-05-07-borderlands-3-hotfixes-may-7/),
+  [Local Archive](gbx_info_archive/2020-05-07-loot_the_universe_eden6.md))
 
