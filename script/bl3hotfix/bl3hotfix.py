@@ -19,7 +19,7 @@ class HotfixTypeNotSupported(Exception):
 
 class Hotfix(object):
 
-    def __init__(self, key, value, filename):
+    def __init__(self, key, value, filename, incorporated=False):
 
         global package_re
         global digits
@@ -30,6 +30,7 @@ class Hotfix(object):
         self.active = True
         self.first_seen = None
         self.last_seen = None
+        self.incorporated = incorporated
 
         # Get key info
         self.set_key_values(key, filename)
@@ -169,21 +170,27 @@ class Hotfix(object):
             self.to_val = rest_hotfix[hf_from_len+1:]
 
     @staticmethod
-    def from_json_obj(json_struct, filename):
-        return Hotfix(json_struct['key'], json_struct['value'], filename)
+    def from_json_obj(json_struct, filename, incorporated=False):
+        return Hotfix(json_struct['key'], json_struct['value'], filename, incorporated)
 
     def set_key_values(self, key, filename):
         """
         Given the specified key, strip out the information contained therein.
         """
         global key_re
-        match = key_re.match(key)
-        if not match:
-            raise Exception('Unknown key "{}" in {}'.format(key, filename))
-        self.key = key
-        self.key_operation = match.group(1)
-        self.key_num = match.group(2)
-        self.key_extra = match.group(4)
+        if key is None:
+            self.key = '-'
+            self.key_operation = '-'
+            self.key_num = 0
+            self.key_extra = None
+        else:
+            match = key_re.match(key)
+            if not match:
+                raise Exception('Unknown key "{}" in {}'.format(key, filename))
+            self.key = key
+            self.key_operation = match.group(1)
+            self.key_num = match.group(2)
+            self.key_extra = match.group(4)
 
     def clear_from(self):
         """

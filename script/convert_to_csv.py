@@ -10,11 +10,18 @@ from bl3hotfix.bl3hotfix import Hotfix, HotfixTypeNotSupported
 
 hf_dir = '../point_in_time'
 filename_combined = 'hotfixes_combined.csv'
-#filename_latest = 'hotfixes_latest.csv'
+filename_fixups = 'hotfixes_fixups.csv'
+
+# Grab a hand-compiled list of hotfixes which have been directly incorporated
+# into the binary
+incorporated_hotfixes = set()
+with open('fixup_hotfixes.txt') as df:
+    for line in df:
+        incorporated_hotfixes.add(line.strip())
 
 class HotfixFile(object):
 
-    def __init__(self, filename, global_hotfixes):
+    def __init__(self, filename, global_hotfixes, incorporated_hotfixes):
 
         # The dict where we'll store our data.  Remember the order they came in.
         self.hotfixes = collections.OrderedDict()
@@ -67,7 +74,12 @@ class HotfixFile(object):
 
                     # Parse the hotfix
                     try:
-                        hf = Hotfix.from_json_obj(hotfix, filename)
+                        if hotfix['value'] in incorporated_hotfixes:
+                            incorporated = True
+                            incorporated_hotfixes.remove(hotfix['value'])
+                        else:
+                            incorporated = False
+                        hf = Hotfix.from_json_obj(hotfix, filename, incorporated)
                         self.hotfixes[hotfix['value']] = hf
                         global_hotfixes[hotfix['value']] = hf
                         hf.first_seen = self.timestamp
@@ -103,7 +115,7 @@ global_hotfixes = collections.OrderedDict()
 for filename in sorted(os.listdir(hf_dir)):
     if filename.endswith('.json') and filename != 'hotfixes_current.json':
         full_filename = os.path.join(hf_dir, filename)
-        hf_file = HotfixFile(full_filename, global_hotfixes)
+        hf_file = HotfixFile(full_filename, global_hotfixes, incorporated_hotfixes)
         files.append(hf_file)
 
         print('{}: {} {} added'.format(
@@ -111,27 +123,6 @@ for filename in sorted(os.listdir(hf_dir)):
             len(hf_file.hotfixes),
             pluralize('hotfix', 'es', len(hf_file.hotfixes)),
             ))
-
-def write_row(writer, hf, last_seen_file=None):
-    if last_seen_file and hf.last_seen == last_seen_file.timestamp:
-        last_seen = ''
-    else:
-        last_seen = hf.last_seen
-    writer.writerow([
-        hf.key_operation,
-        hf.key,
-        hf.active,
-        hf.subtype,
-        hf.notify,
-        hf.pkg_name,
-        hf.obj,
-        hf.extra,
-        hf.attr,
-        hf.from_val,
-        hf.to_val,
-        hf.first_seen,
-        last_seen,
-        ])
 
 # Write out our combined CSV
 operations = set()
@@ -152,6 +143,7 @@ with open(filename_combined, 'w') as odf:
         'to',
         'first_seen',
         'last_seen',
+        'incorporated',
         ])
 
     for hf in global_hotfixes.values():
@@ -160,18 +152,61 @@ with open(filename_combined, 'w') as odf:
         operations.add(hf.key_operation)
 
         # Do the writes
-        write_row(writer, hf, last_seen_file=files[-1])
+        if hf.last_seen == files[-1].timestamp:
+            last_seen = ''
+        else:
+            last_seen = hf.last_seen
+        # I kind of want the `incorporated` column to only have content when True
+        if hf.incorporated:
+            incorporated = 'True'
+        else:
+            incorporated = ''
+        writer.writerow([
+            hf.key_operation,
+            hf.key,
+            hf.active,
+            hf.subtype,
+            hf.notify,
+            hf.pkg_name,
+            hf.obj,
+            hf.extra,
+            hf.attr,
+            hf.from_val,
+            hf.to_val,
+            hf.first_seen,
+            last_seen,
+            incorporated,
+            ])
 
 print('')
-        
-# Write out *just* our most recent set of hotfixes, too.  Easier to import
-# into our nicer spreadsheet versions that way.  (Actually, don't bother.
-# Haven't done it that way for awhile, ever since we started keeping track
-# of which hotfixes are active and which ones aren't.)
-#with open(filename_latest, 'w') as odf:
-#    writer = csv.writer(odf)
-#    for hf in files[-1].hotfixes.values():
-#        write_row(writer, hf)
+
+# Write out a CSV of "fixup" hotfixes which haven't been seen yet
+with open(filename_fixups, 'w') as odf:
+
+    writer = csv.writer(odf)
+    writer.writerow([
+        'type',
+        'notify',
+        'package',
+        'object',
+        'variable',
+        'attr',
+        'from',
+        'to',
+        ])
+
+    for hotfix_val in sorted(incorporated_hotfixes):
+        hf = Hotfix(None, hotfix_val, None)
+        writer.writerow([
+            hf.subtype,
+            hf.notify,
+            hf.pkg_name,
+            hf.obj,
+            hf.extra,
+            hf.attr,
+            hf.from_val,
+            hf.to_val,
+            ])
 
 # Reports
 if True:
@@ -180,11 +215,11 @@ if True:
         pluralize('hotfix', 'es', len(global_hotfixes)),
         filename_combined,
         ))
-    #print('{} {} written to {}'.format(
-    #    len(files[-1].hotfixes),
-    #    pluralize('hotfix', 'es', len(files[-1].hotfixes)),
-    #    filename_latest,
-    #    ))
+    print('{} {} written to {}'.format(
+        len(incorporated_hotfixes),
+        pluralize('hotfix', 'es', len(incorporated_hotfixes)),
+        filename_fixups,
+        ))
     print('')
 
 if True:
