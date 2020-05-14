@@ -296,4 +296,8 @@ I'll continue regardless...)
   from Promethea/Athenas to Eden-6, and a few Mayhem 2.0 drop fixes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-05-07-borderlands-3-hotfixes-may-7/),
   [Local Archive](gbx_info_archive/2020-05-07-loot_the_universe_eden6.md))
+* **2020-05-14**: 31st announced hotfixes.  Moving Loot the Universe mini-event
+  from Eden-6 to Nekrotafeyo/Trials.  Also a few bugfixes and loot drop changes.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-05-14-borderlands-3-hotfixes-may-14/),
+  [Local Archive](gbx_info_archive/2020-05-14-loot_the_universe_nekrotafeyo.md))
 
