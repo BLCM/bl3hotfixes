@@ -300,4 +300,8 @@ I'll continue regardless...)
   from Eden-6 to Nekrotafeyo/Trials.  Also a few bugfixes and loot drop changes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-05-14-borderlands-3-hotfixes-may-14/),
   [Local Archive](gbx_info_archive/2020-05-14-loot_the_universe_nekrotafeyo.md))
+* **2020-05-21**: 32nd announced hotfixes.  Loot the Universe Mini-Event is over,
+  plus a couple of bugfixes.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-05-21-borderlands-3-hotfixes-may-21/),
+  [Local Archive](gbx_info_archive/2020-05-21-hotfixes.md))
 
