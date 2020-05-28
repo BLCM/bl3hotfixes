@@ -304,4 +304,7 @@ I'll continue regardless...)
   plus a couple of bugfixes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-05-21-borderlands-3-hotfixes-may-21/),
   [Local Archive](gbx_info_archive/2020-05-21-hotfixes.md))
+* **2020-05-28**: 33rd announced hotfixes.  Just a single bugfix.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-05-28-borderlands-3-hotfixes-may-28/),
+  [Local Archive](gbx_info_archive/2020-05-28-hotfixes.md))
 
