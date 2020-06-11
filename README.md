@@ -307,4 +307,11 @@ I'll continue regardless...)
 * **2020-05-28**: 33rd announced hotfixes.  Just a single bugfix.
   ([GBX Post](https://borderlands.com/en-US/news/2020-05-28-borderlands-3-hotfixes-may-28/),
   [Local Archive](gbx_info_archive/2020-05-28-hotfixes.md))
+* **2020-06-11**: Ninth announced patch (EGS build version `OAK-PATCHDIESEL1-137-CL2205777`,
+  EGS reported version `1.0.9_Borderlands_3`, Steam build version
+  `OAK-PATCHWIN641-63-CL2205777`), and 28th announced hotfixes.
+  Addition of Guardian Takedown event, and closure of Revenge of the Cartels.  Lots of various
+  bugfixes and tweaks, as well.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-06-11-borderlands-3-patch-hotfixes-june-11/),
+  [Local Archive](gbx_info_archive/2020-06-11-guardian_takedown.md))
 
