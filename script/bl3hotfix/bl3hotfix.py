@@ -55,7 +55,7 @@ class Hotfix(object):
                 ))
 
         # Make sure we know how to process the subtype.
-        if self.subtype not in {1, 2, 4, 5, 6, 7, 11}:
+        if self.subtype not in {1, 2, 4, 5, 6, 7, 8, 11}:
             raise Exception('Unknown subtype {} for key "{}"'.format(
                 self.subtype,
                 key,
@@ -73,6 +73,7 @@ class Hotfix(object):
         self.five_unknown_int_2 = ''
         self.five_unknown_int_3 = ''
         self.five_unknown_obj = ''
+        self.eight_unknown_1 = ''
         if self.subtype == 1:
 
             # Subtype of 1 means we don't have an extra field
@@ -141,6 +142,17 @@ class Hotfix(object):
                     self.seven_unknown_3,
                     self.seven_unknown_4,
                     )
+
+        elif self.subtype == 8:
+
+            # Material Interface alterations, not really sure but these
+            # are pretty straightforward.
+            process_rest = False
+            self.attr = ''
+            (self.obj,
+                    self.eight_unknown_1,
+                    self.from_val,
+                    self.to_val) = rest_hotfix.split(',', 3)
 
         elif self.subtype == 11:
 
@@ -255,6 +267,14 @@ class Hotfix(object):
                     self.attr,
                     self.seven_unknown_3,
                     self.seven_unknown_4,
+                    self.from_val,
+                    self.to_val,
+                    )
+
+        elif self.subtype == 8:
+
+            suffix = '{},{},{},{}'.format(
+                    self.eight_unknown_1,
                     self.from_val,
                     self.to_val,
                     )
