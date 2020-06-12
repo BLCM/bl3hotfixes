@@ -195,7 +195,7 @@ with open(filename_fixups, 'w') as odf:
         'to',
         ])
 
-    for hotfix_val in sorted(incorporated_hotfixes):
+    for hotfix_val in incorporated_hotfixes:
         hf = Hotfix(None, hotfix_val, None)
         writer.writerow([
             hf.subtype,

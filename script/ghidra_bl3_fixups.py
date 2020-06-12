@@ -138,7 +138,7 @@ for filename in os.listdir(output_dir):
                 if line.startswith('L"(') and line.endswith('"'):
                     output_hotfixes.append(line[2:-1].replace('\\"', '"').replace('\\\'', '\''))
 with open(os.path.join(output_dir, hotfix_file), 'w') as odf:
-    for hotfix in sorted(output_hotfixes):
+    for hotfix in output_hotfixes:
         print(hotfix, file=odf)
 
 # Done!
