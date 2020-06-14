@@ -227,7 +227,7 @@ I'll continue regardless...)
 * **2020-03-26**: Release of DLC2 (Hibiscus - Guns, Love, and Tentacles), seventh announced
   patch (EGS build version `OAK-PATCHDIESEL1-102-CL2149333`, EGS reported version
   `1.0.7_CL_2149333_Borderlands_3`, Steam build version `OAK-PATCHWIN641-32-CL2149333`),
-  and 24th announced hotfixes.
+  level cap increase to 57, and 24th announced hotfixes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-03-26-borderlands-3-patch-hotfixes-mar-26/),
   [Local Archive](gbx_info_archive/2020-03-26-hotfixes_and_dlc2.md))
   * DLC2 rolled out in stages for Epic -- a pre-patch first, then the DLC
