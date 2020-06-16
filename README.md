@@ -314,4 +314,8 @@ I'll continue regardless...)
   bugfixes and tweaks, as well.
   ([GBX Post](https://borderlands.com/en-US/news/2020-06-11-borderlands-3-patch-hotfixes-june-11/),
   [Local Archive](gbx_info_archive/2020-06-11-guardian_takedown.md))
+* **2020-06-16**: Small hotfix to nerf the Guardian Takedown health values, to about half
+  of their previous values.
+  ([GBX Tweet](https://twitter.com/GearboxOfficial/status/1272985801341747201),
+  [Local Archive](gbx_info_archive/2020-06-16-tweet_-_guardian_takedown_nerf.md))
 
