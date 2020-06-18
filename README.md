@@ -318,4 +318,8 @@ I'll continue regardless...)
   of their previous values.
   ([GBX Tweet](https://twitter.com/GearboxOfficial/status/1272985801341747201),
   [Local Archive](gbx_info_archive/2020-06-16-tweet_-_guardian_takedown_nerf.md))
+* **2020-06-18**: 34th announced hotfixes, buffing up the Web Slinger, and fixing some
+  grammatical errors.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-06-18-borderlands-3-hotfixes-june-18/),
+  [Local Archive](gbx_info_archive/2020-06-18-hotfixes.md))
 
