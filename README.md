@@ -322,10 +322,12 @@ I'll continue regardless...)
   grammatical errors.
   ([GBX Post](https://borderlands.com/en-US/news/2020-06-18-borderlands-3-hotfixes-june-18/),
   [Local Archive](gbx_info_archive/2020-06-18-hotfixes.md))
-* **2020-06-25**: 10th announced patch (EGS reported version `1.0.10_CL_2234726_Borderlands_3`
-  (other version info forthcoming)), 35th announced hotfixes, release of DLC3 (Bounty of
-  Blood), and Mayhem 2.0 Tweaks Phase 2.  The patch and the rollout of DLC3 were probably
-  separated by a bit of time, but they happened within an hour or two of each other.
+* **2020-06-25**: 10th announced patch (EGS build version `OAK-PATCHDIESEL0-103-CL2234726`,
+  EGS reported version `1.0.10_CL_2234726_Borderlands_3`, Steam build version
+  `OAK-PATCHWIN640-59-CL2234726`), 35th announced hotfixes, release of DLC3 (Bounty of
+  Blood), Mayhem 2.0 Tweaks Phase 2, and level cap increase to 60.  The patch and the
+  rollout of DLC3 were probably separated by a bit of time, but they happened within
+  an hour or two of each other.
   ([GBX Post](https://borderlands.com/en-US/news/2020-06-25-borderlands-3-patch-hotfixes-june-25/),
   [Local Archive](gbx_info_archive/2020-06-25-hotfixes_and_dlc3.md))
   * A separate hotfix a little while later fixed some issues with Zane's Digi-Clones and Moze's
