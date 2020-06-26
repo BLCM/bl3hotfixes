@@ -332,4 +332,6 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-06-25-hotfixes_and_dlc3.md))
   * A separate hotfix a little while later fixed some issues with Zane's Digi-Clones and Moze's
     Iron Bear.
+* **2020-06-26**: A small unannounced hotfix update made some balance tweaks
+  to a few Operative skills.
 
