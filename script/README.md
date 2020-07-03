@@ -39,7 +39,35 @@ of the other incorporated hotfixes, though, they didn't just move it in
 wholesale.  Rather, they had some code to go alter the related DataTable
 entries directly.
 
+## `grab_builtin_hotfixes.py`
+
+Looks through the Mac BL3 Executable for widechar strings which look like
+hotfixes, as an attempt to catalog all the hotfixes which have been hardcoded
+straight into the game.  My `convert_to_csv.py` will then use that to try and
+associate those to hotfixes which were previously being sent over the wire, so
+we know which ones have been directly incorporated into the game binary.
+
+As I mentioned before, the *absence* of a hotfix in this generated list
+doesn't necessarily mean that a hotfix *hasn't* been pulled into the
+binary.  Those sniper rifle buffs, for instance, were just done by GBX
+via code, rather than hardcoding the hotfix itself.
+
+Note that this is now the preferred method, instead of using the fancier
+Ghidra script (below).  Ghidra turns out to have a hardcoded maximum string
+length that it'll display, in decompilations, and we end up losing quite a
+few hotfixes because of it.  This method is far more crude, and could
+potentially be prone to false positives, but at the moment it's a better
+solution.
+
 ## `ghidra_bl3_fixups.py`
+
+**NOTE:** Ghidra turns out to have a maximum string length that it'll display
+when doing decompilations, so this method ends up *losing* various hotfixes
+(since the logic in here won't consider those to be hotfixes, thanks to how
+they're formatted by Ghidra).  This method is fancy and is theoretically the
+better way to go, if you're interested in pulling this information "correctly,"
+but for now the more-crude method of `grab_builtin_hotfixes.py` is the way
+to go.
 
 A Ghidra script to loop through the BL3 executable and pull out hardcoded
 hotfixes from the various `Fixup*` routines found in there.  This probably

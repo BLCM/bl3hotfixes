@@ -27,6 +27,14 @@ hotfix_file = 'fixup_hotfixes.txt'
 
 func_re = re.compile(r'[a-zA-Z0-9]\(\);$')
 
+def truncate_warning():
+    """
+    Turns out Ghidra truncates longer strings, and it looks like that's
+    pretty well hardcoded at the moment.  Display a warning to that
+    effect (used at both start and end, which is why it's function'd).
+    """
+    print('WARNING: Ghidra truncates long strings, so this will NOT actually give you all hotfixes...')
+
 def decompile_func(di, func):
     """
     Given the DecompInterface `di` and the Function `func`, decompile it,
@@ -71,6 +79,7 @@ def decompile_func(di, func):
 
 # Report on start
 print('Starting on: {}'.format(datetime.datetime.now()))
+truncate_warning()
 
 # Create our output dir if it doesn't already exist
 if not os.path.exists(output_dir):
@@ -143,4 +152,5 @@ with open(os.path.join(output_dir, hotfix_file), 'w') as odf:
 
 # Done!
 print('Done!')
+truncate_warning()
 
