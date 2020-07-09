@@ -334,4 +334,11 @@ I'll continue regardless...)
     Iron Bear.
 * **2020-06-26**: Two small unannounced hotfix updates made some balance tweaks
   to a few Operative and Gunner skills.
+* **2020-07-02**: 36th announced hotfixes, re-enabling the two previously-disabled Mayhem 2.0
+  Modifiers (Boundary Issues and Drone Ranger), along with a few other bugfixes.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-07-02-borderlands-3-hotfixes-july-2/),
+  [Local Archive](gbx_info_archive/2020-07-02-hotfixes.md))
+* **2020-07-09**: 37th announced hotfixes, mostly just some bugfixes for Lucky 7.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-07-09-borderlands-3-hotfixes-july-9/),
+  [Local Archive](gbx_info_archive/2020-07-09-hotfixes.md))
 
