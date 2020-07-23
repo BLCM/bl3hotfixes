@@ -341,4 +341,11 @@ I'll continue regardless...)
 * **2020-07-09**: 37th announced hotfixes, mostly just some bugfixes for Lucky 7.
   ([GBX Post](https://borderlands.com/en-US/news/2020-07-09-borderlands-3-hotfixes-july-9/),
   [Local Archive](gbx_info_archive/2020-07-09-hotfixes.md))
+* **2020-07-23**: 11th announced patch (EGS build version `OAK-PATCHDIESEL-222-CL2256815`,
+  EGS reported version `1.0.11_CL_2256815_Borderlands_3`, Steam build version
+  `OAK-PATCHWIN64-123-CL2256815`), and 38th announced hotfixes.  Various tweaks
+  and bugfixes all around, and a redistribution of unique drops (which also enabled
+  respawning of a number of named enemies who would previously only spawn once per playthough).
+  ([GBX Post](https://borderlands.com/en-US/news/2020-07-23-borderlands-3-patch-hotfixes-july-23/),
+  [Local Archive](gbx_info_archive/2020-07-23-patch_and_hotfixes.md))
 
