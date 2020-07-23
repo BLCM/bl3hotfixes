@@ -348,4 +348,6 @@ I'll continue regardless...)
   respawning of a number of named enemies who would previously only spawn once per playthough).
   ([GBX Post](https://borderlands.com/en-US/news/2020-07-23-borderlands-3-patch-hotfixes-july-23/),
   [Local Archive](gbx_info_archive/2020-07-23-patch_and_hotfixes.md))
+  * A second, smaller hotfix update happened an hour or two later, to disable
+    the various anointments they'd mentioned in the initial update.
 
