@@ -350,4 +350,10 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-07-23-patch_and_hotfixes.md))
   * A second, smaller hotfix update happened an hour or two later, to disable
     the various anointments they'd mentioned in the initial update.
+* **2020-07-30**: 39th announced hotfixes, and start of the first BL3 Anniversary Celebration
+  event: ECHOcast Overload.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-07-30-borderlands-3-hotfixes-july-30/),
+  [Local Archive](gbx_info_archive/2020-07-30-anniversary_1_echocast_overload.md))
+  * A second small hotfix update an hour or so later contained one fix to a red chest, in
+    relation to the event.
 
