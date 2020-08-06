@@ -361,4 +361,5 @@ I'll continue regardless...)
   ([GBX Post](https://borderlands.com/en-US/news/2020-08-06-borderlands-3-hotfixes-aug-6/),
   [Local Archive](gbx_info_archive/2020-08-06-anniversary_2_bonus_boss_loot.md))
   * A second minor hotfix update added in the Beastmaster fix listed there.
+  * A third update later in the day added in some missed bosses for the event.
 
