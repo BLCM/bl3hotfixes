@@ -356,4 +356,8 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-07-30-anniversary_1_echocast_overload.md))
   * A second small hotfix update an hour or so later contained one fix to a red chest, in
     relation to the event.
+* **2020-08-06**: 40th announced hotfixes, end of the "ECHOcast Overload" event, and start
+  of the Bonus Boss Loot event.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-08-06-borderlands-3-hotfixes-aug-6/),
+  [Local Archive](gbx_info_archive/2020-08-06-anniversary_2_bonus_boss_loot.md))
 
