@@ -362,4 +362,8 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-08-06-anniversary_2_bonus_boss_loot.md))
   * A second minor hotfix update added in the Beastmaster fix listed there.
   * A third update later in the day added in some missed bosses for the event.
+* **2020-08-13**: 41st announced hotfixes, end of the Bonus Boss Loot event, and start of
+  the Loot Monster Mayhem event.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-08-13-borderlands-3-hotfixes-aug-13/),
+  [Local Archive](gbx_info_archive/2020-08-13-anniversary_3_loot_monster_mayhem.md))
 
