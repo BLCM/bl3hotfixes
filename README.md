@@ -366,4 +366,6 @@ I'll continue regardless...)
   the Loot Monster Mayhem event.
   ([GBX Post](https://borderlands.com/en-US/news/2020-08-13-borderlands-3-hotfixes-aug-13/),
   [Local Archive](gbx_info_archive/2020-08-13-anniversary_3_loot_monster_mayhem.md))
+  * A second hotfix update a few hours later *actually* removed the Bonus
+    Boss Loot event; for awhile the two events were running at the same time.
 
