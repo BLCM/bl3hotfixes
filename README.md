@@ -368,4 +368,8 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-08-13-anniversary_3_loot_monster_mayhem.md))
   * A second hotfix update a few hours later *actually* removed the Bonus
     Boss Loot event; for awhile the two events were running at the same time.
+  * A third small update temporarily disabled the Chain Gang mayhem modifier for the
+    duration of the event.
+    ([GBX Tweet](https://twitter.com/Borderlands/status/1294056405624737792),
+    [Local Archive](gbx_info_archive/2020-08-13-tweet_-_chain_gang_temp_disable.md))
 
