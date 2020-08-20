@@ -372,4 +372,9 @@ I'll continue regardless...)
     duration of the event.
     ([GBX Tweet](https://twitter.com/Borderlands/status/1294056405624737792),
     [Local Archive](gbx_info_archive/2020-08-13-tweet_-_chain_gang_temp_disable.md))
+* **2020-08-20**: 42nd announced hotfixes, end of the Loot Monster Mayhem event, and
+  start of the Show Me The Eridium event.  Also a tweak to Guardian Takedown drops,
+  buffs to some specific gear, and a few NPC tweaks from DLC3.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-08-20-borderlands-3-hotfixes-aug-20/),
+  [Local Archive](gbx_info_archive/2020-08-20-anniversary_4_show_me_the_eridium.md))
 
