@@ -377,4 +377,8 @@ I'll continue regardless...)
   buffs to some specific gear, and a few NPC tweaks from DLC3.
   ([GBX Post](https://borderlands.com/en-US/news/2020-08-20-borderlands-3-hotfixes-aug-20/),
   [Local Archive](gbx_info_archive/2020-08-20-anniversary_4_show_me_the_eridium.md))
+* **2020-08-21**: Various weapon-buff hotfixes were updated to "Early Level" hotfixes, which
+  apparently makes the buffs survive quits to the main menu a bit better.
+  ([GBX Tweet](https://twitter.com/Borderlands/status/1296954688105877504),
+  [Local Archive](gbx_info_archive/2020-08-21-tweet.md))
 
