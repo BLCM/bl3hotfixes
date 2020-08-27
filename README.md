@@ -381,4 +381,8 @@ I'll continue regardless...)
   apparently makes the buffs survive quits to the main menu a bit better.
   ([GBX Tweet](https://twitter.com/Borderlands/status/1296954688105877504),
   [Local Archive](gbx_info_archive/2020-08-21-tweet.md))
+* **2020-08-27**: 43rd announced hotfixes, end of the Show Me The Eridium event, and
+  start of the Mayhem Made Mild Event.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-08-27-borderlands-3-hotfixes-aug-27/),
+  [Local Archive](gbx_info_archive/2020-08-27-anniversary_5_mayhem_made_mild.md))
 
