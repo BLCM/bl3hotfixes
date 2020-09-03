@@ -385,4 +385,8 @@ I'll continue regardless...)
   start of the Mayhem Made Mild Event.
   ([GBX Post](https://borderlands.com/en-US/news/2020-08-27-borderlands-3-hotfixes-aug-27/),
   [Local Archive](gbx_info_archive/2020-08-27-anniversary_5_mayhem_made_mild.md))
+* **2020-09-03**: 44th announced hotfixes, end of the Mayhem Made Mild event, and
+  start of the Making It Rain event.  Also a few weapon buffs and drop rate adjustments.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-09-03-borderlands-3-hotfixes-sept-3/),
+  [Local Archive](gbx_info_archive/2020-09-03-anniversary_6_making_it_rain.md))
 
