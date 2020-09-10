@@ -391,4 +391,10 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-09-03-anniversary_6_making_it_rain.md))
   * A minor update a few hours later tweaked the Hellwalker buff to survive
     main-menu reloads.
+* **2020-09-10**: Release of DLC4 (Psycho Krieg and the Fantastic Fustercluck), 45th announced 
+  hotfixes, and 12th announced patch (EGS reported version `1.0.12_CL_2267649_Borderlands_3`,
+  build versions forthcoming).  A minor hotfix update shortly after release disabled the
+  Making It Rain anniversary event.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-09-10-borderlands-3-patch-hotfixes-sept-10/),
+  [Local Archive](gbx_info_archive/2020-09-10-hotfixes_and_dlc4.md))
 
