@@ -394,8 +394,11 @@ I'll continue regardless...)
 * **2020-09-10**: Release of DLC4 (Psycho Krieg and the Fantastic Fustercluck), 45th announced 
   hotfixes, and 12th announced patch (EGS build version `OAK-PATCHDIESEL1-191-CL2267649`,
   EGS reported version `1.0.12_CL_2267649_Borderlands_3`, Steam build version
-  `OAK-PATCHWIN641-118-CL2267649`).  A minor hotfix update shortly after release disabled the
-  Making It Rain anniversary event.
+  `OAK-PATCHWIN641-118-CL2267649`).
   ([GBX Post](https://borderlands.com/en-US/news/2020-09-10-borderlands-3-patch-hotfixes-sept-10/),
   [Local Archive](gbx_info_archive/2020-09-10-hotfixes_and_dlc4.md))
+  * A minor hotfix update shortly after release disabled the Making It Rain anniversary
+    event.
+  * Another update a few hours later added in some bugfixes for some issues that were
+    affecting players in the new DLC.
 
