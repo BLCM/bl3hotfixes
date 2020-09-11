@@ -401,4 +401,5 @@ I'll continue regardless...)
     event.
   * Another update a few hours later added in some bugfixes for some issues that were
     affecting players in the new DLC.
+* **2020-09-11**: Minor unannounced hotifx with a couple more bugfixes for DLC4
 
