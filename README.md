@@ -402,4 +402,9 @@ I'll continue regardless...)
   * Another update a few hours later added in some bugfixes for some issues that were
     affecting players in the new DLC.
 * **2020-09-11**: Minor unannounced hotifx with a couple more bugfixes for DLC4
+* **2020-09-17**: 46th announced hotfixes, just some fixes to spawns in Guardian Takedown.
+  Announcement that hotfix release cadence will be slowing down in the future, so expect
+  fewer of these updates!
+  ([GBX Post](https://borderlands.com/en-US/news/2020-09-17-borderlands-3-hotfixes-sept-17/),
+  [Local Archive](gbx_info_archive/2020-09-17-hotfixes.md))
 
