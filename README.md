@@ -407,4 +407,9 @@ I'll continue regardless...)
   fewer of these updates!
   ([GBX Post](https://borderlands.com/en-US/news/2020-09-17-borderlands-3-hotfixes-sept-17/),
   [Local Archive](gbx_info_archive/2020-09-17-hotfixes.md))
+* **2020-10-08**: 47th announced hotfixes, and the re-launch of Bloody Harvest event for
+  2020.  Also includes several tweaks to Haunted anointments, buffs to gear, buffs to
+  various Operative skills and COMs, and some general bugfixes.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-10-08-borderlands-3-hotfixes-oct-8/),
+  [Local Archive](gbx_info_archive/2020-10-08-bloody_harvest_2020.md))
 
