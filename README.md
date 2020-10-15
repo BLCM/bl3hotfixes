@@ -414,4 +414,8 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-10-08-bloody_harvest_2020.md))
   * The first hotfix actually just contained the tweaks, buffs, and bugfixes.  A second
     hotfix update a little after *actually* enabled the Bloody Harvest event again.
+* **2020-10-15**: 48th announced hotfixes, bringing some tweaks to Bloody
+  Harvest, some bugfixes, and some buffs for various weapons and grenades.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-10-15-borderlands-3-hotfixes-oct-15/),
+  [Local Archive](gbx_info_archive/2020-10-15-hotfixes.md))
 
