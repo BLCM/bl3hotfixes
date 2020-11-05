@@ -420,4 +420,5 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-10-15-hotfixes.md))
   * A couple of updates throughout the day fixed a few issues with the
     original batch of hotfixes, too.
+* **2020-11-05**: Disabled the Bloody Harvest 2020 event.
 
