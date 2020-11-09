@@ -421,4 +421,9 @@ I'll continue regardless...)
   * A couple of updates throughout the day fixed a few issues with the
     original batch of hotfixes, too.
 * **2020-11-05**: Disabled the Bloody Harvest 2020 event.
+* **2020-11-09**: Release of the Designer's Cut DLC (fourth Skill Trees, Arms Race, and
+  Mayhem 11), 13th announced patch (Steam build version `OAK-PATCHWIN640-149-CL2297688`, EGS
+  versions forthcoming), and 49th announced hotfixes.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-11-09-borderlands-3-patch-hotfixes-nov-9/),
+  [Local Archive](gbx_info_archive/2020-11-09-designers_cut.md))
 
