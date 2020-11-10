@@ -428,4 +428,10 @@ I'll continue regardless...)
   hotfixes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-11-09-borderlands-3-patch-hotfixes-nov-9/),
   [Local Archive](gbx_info_archive/2020-11-09-designers_cut.md))
+  * A small hotfix tweak was released a few hours later which removed a couple of
+    hotfixes.
+  * A second, unannounced patch (and data update) was released about twelve hours
+    afterwards, presumably containing various bugfixes.  (EGS build version
+    `OAK-PATCHDIESEL-226-CL2318486`, EGS reported version `1.0.14_CL_2318486_Borderlands3`,
+    Steam build version `OAK-PATCHWIN64-127-CL2318486`)
 
