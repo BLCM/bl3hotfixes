@@ -434,4 +434,8 @@ I'll continue regardless...)
     afterwards, presumably containing various bugfixes.  (EGS build version
     `OAK-PATCHDIESEL-226-CL2318486`, EGS reported version `1.0.14_CL_2318486_Borderlands3`,
     Steam build version `OAK-PATCHWIN64-127-CL2318486`)
+* **2020-11-19**: 50th announced hotfixes, with a couple bugfixes and activation of the
+  "Golden Path" event.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-11-19-borderlands-3-hotfixes-nov-19/),
+  [Local Archive](gbx_info_archive/2020-11-19-golden_path.md))
 
