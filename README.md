@@ -438,4 +438,6 @@ I'll continue regardless...)
   "Golden Path" event.
   ([GBX Post](https://borderlands.com/en-US/news/2020-11-19-borderlands-3-hotfixes-nov-19/),
   [Local Archive](gbx_info_archive/2020-11-19-golden_path.md))
+* **2020-12-03**: Golden Path event was deactivated (no official announcement of such, though
+  this was the scheduled end date for it).
 
