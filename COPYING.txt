@@ -1,5 +1,5 @@
-Python Starbound Mapper (pystarboundmap)
-Copyright (c) 2018, CJ Kucera
+Borderlands 3 Hotfix Collector, and Related Scripts
+Copyright (c) 2019-2020, CJ Kucera
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
