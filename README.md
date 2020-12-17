@@ -440,4 +440,7 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2020-11-19-golden_path.md))
 * **2020-12-03**: Golden Path event was deactivated (no official announcement of such, though
   this was the scheduled end date for it).
+* **2020-12-17**: 51st announced hotfixes, enabling a new Co-op Loot Drop Event.
+  ([GBX Post](https://borderlands.com/en-US/news/2020-12-15-co-op-loot-drop-december/),
+  [Local Archive](gbx_info_archive/2020-12-17-co-op_loot_drop.md))
 
