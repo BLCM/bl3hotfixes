@@ -444,4 +444,5 @@ I'll continue regardless...)
   buffing a bunch of weapons, and a few bugfixes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-12-17-borderlands-3-hotfixes-dec-17/),
   [Local Archive](gbx_info_archive/2020-12-17-co-op_loot_drop.md))
+* **2020-12-31**: A small unannounced hotfix change turned off the holiday-themed main menu.
 
