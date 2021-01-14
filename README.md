@@ -445,4 +445,8 @@ I'll continue regardless...)
   ([GBX Post](https://borderlands.com/en-US/news/2020-12-17-borderlands-3-hotfixes-dec-17/),
   [Local Archive](gbx_info_archive/2020-12-17-co-op_loot_drop.md))
 * **2020-12-31**: A small unannounced hotfix change turned off the holiday-themed main menu.
+* **2021-01-14**: 52nd announced hotfixes, enabling a new Supercharged Crystals event,
+  along with some gear buffs.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-01-14-borderlands-3-hotfixes-jan-14/),
+  [Local Archive](gbx_info_archive/2021-01-14-supercharged_crystals.md))
 
