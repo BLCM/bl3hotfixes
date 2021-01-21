@@ -424,7 +424,7 @@ I'll continue regardless...)
 * **2020-11-09**: Release of the Designer's Cut DLC (fourth Skill Trees, Arms Race),
   13th announced patch (EGS build version `OAK-PATCHDIESEL0-200-CL2297688`,
   EGS reported version `1.0.13_CL_2297688_Borderlands_3`, Steam build version
-  `OAK-PATCHWIN640-149-CL2297688`, EGS versions forthcoming), Mayhem 11, and 49th announced
+  `OAK-PATCHWIN640-149-CL2297688`), Mayhem 11, and 49th announced
   hotfixes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-11-09-borderlands-3-patch-hotfixes-nov-9/),
   [Local Archive](gbx_info_archive/2020-11-09-designers_cut.md))
@@ -449,4 +449,10 @@ I'll continue regardless...)
   along with some gear buffs.
   ([GBX Post](https://borderlands.com/en-US/news/2021-01-14-borderlands-3-hotfixes-jan-14/),
   [Local Archive](gbx_info_archive/2021-01-14-supercharged_crystals.md))
+* **2021-01-21**: 14th announced patch (EGS build version `OAK-PATCHDIESEL0-224-CL2341468`,
+  EGS reported version `1.0.15_CL_2341468_Borderlands_3`, Steam build version
+  `OAK-PATCHWIN640-172-CL2341468`), 53rd announced hotfixes, end of Supercharged Crystals
+  event, and start of Clear Skies event.  A few more gear buffs, as well.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-01-21-borderlands-3-update-hotfixes-jan-21/),
+  [Local Archive](gbx_info_archive/2021-01-21-clear_skies.md))
 
