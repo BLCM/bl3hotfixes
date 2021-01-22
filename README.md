@@ -459,4 +459,7 @@ I'll continue regardless...)
   scaling issues.
   ([GBX Tweet](https://twitter.com/Borderlands/status/1352664415724662787),
   [Local Archive](gbx_info_archive/2021-01-22-tweet.md))
+  * An unannounced hotfix update a few hours later removed an older hotfix
+    relating to Guardian Takedown pads, probably remnants of the Supercharged
+    Crystals event.
 
