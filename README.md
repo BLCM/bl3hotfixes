@@ -455,4 +455,8 @@ I'll continue regardless...)
   event, and start of Clear Skies event.  A few more gear buffs, as well.
   ([GBX Post](https://borderlands.com/en-US/news/2021-01-21-borderlands-3-update-hotfixes-jan-21/),
   [Local Archive](gbx_info_archive/2021-01-21-clear_skies.md))
+* **2021-01-22**: A small hotfix update was pushed to fix some Iron Cub
+  scaling issues.
+  ([GBX Tweet](https://twitter.com/Borderlands/status/1352664415724662787),
+  [Local Archive](gbx_info_archive/2021-01-22-tweet.md))
 
