@@ -462,4 +462,8 @@ I'll continue regardless...)
   * An unannounced hotfix update a few hours later removed an older hotfix
     relating to Guardian Takedown pads, probably remnants of the Supercharged
     Crystals event.
+* **2021-01-28**: 54th announced hotfixes, end of the Clear Skies event, and start of the
+  Extra Extra Extraction event.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-01-28-borderlands-3-hotfixes-jan-28/),
+  [Local Archive](gbx_info_archive/2021-01-28-extra_extra_extraction.md))
 
