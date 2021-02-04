@@ -466,4 +466,8 @@ I'll continue regardless...)
   Extra Extra Extraction event.
   ([GBX Post](https://borderlands.com/en-US/news/2021-01-28-borderlands-3-hotfixes-jan-28/),
   [Local Archive](gbx_info_archive/2021-01-28-extra_extra_extraction.md))
+* **2021-02-04**: 55th announced hotfixes, end of the Extra Extra Extraction event,
+  and s4tart of the Gear Rush event.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-02-04-borderlands-3-hotfixes-feb-4/),
+  [Local Archive](gbx_info_archive/2021-02-04-gear_rush.md))
 
