@@ -476,4 +476,7 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2021-02-11-broken_hearts.md))
   * A small update a little while after correctly added in the Kaoson buff,
     which was omitted from the original hotfix update.
+  * A third update happened later in the day which only changed an internal
+    version number -- no actual hotfix changes were present in the third
+    update today.
 
