@@ -474,4 +474,6 @@ I'll continue regardless...)
   Broken Hearts 2021.  Also some more gear buffs.
   ([GBX Post](https://borderlands.com/en-US/news/2021-02-11-borderlands-3-hotfixes-feb-11/),
   [Local Archive](gbx_info_archive/2021-02-11-broken_hearts.md))
+  * A small update a little while after correctly added in the Kaoson buff,
+    which was omitted from the original hotfix update.
 
