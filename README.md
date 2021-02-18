@@ -470,7 +470,7 @@ I'll continue regardless...)
   and s4tart of the Gear Rush event.
   ([GBX Post](https://borderlands.com/en-US/news/2021-02-04-borderlands-3-hotfixes-feb-4/),
   [Local Archive](gbx_info_archive/2021-02-04-gear_rush.md))
-* **2021-02-11**: 56th announced hotfixes, end of the Gear Rush event, and beginning of
+* **2021-02-11**: 56th announced hotfixes, and beginning of
   Broken Hearts 2021.  Also some more gear buffs.
   ([GBX Post](https://borderlands.com/en-US/news/2021-02-11-borderlands-3-hotfixes-feb-11/),
   [Local Archive](gbx_info_archive/2021-02-11-broken_hearts.md))
@@ -479,4 +479,6 @@ I'll continue regardless...)
   * A third update happened later in the day which only changed an internal
     version number -- no actual hotfix changes were present in the third
     update today.
+* **2021-02-18**: Unannounced hotfix update which disabled the Gear Rush
+  event (which was originally supposed to have been disabled last week).
 
