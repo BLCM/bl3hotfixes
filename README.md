@@ -481,4 +481,9 @@ I'll continue regardless...)
     update today.
 * **2021-02-18**: Unannounced hotfix update which disabled the Gear Rush
   event (which was originally supposed to have been disabled last week).
+* **2021-02-23**: Tweaked the Broken Hearts event slightly to remove the level
+  restriction on Polyaimorous and Wedding Invitation, and make those items
+  droppable from hearts, rather than just as heart-killing rewards.
+  ([GBX Tweet](https://twitter.com/Borderlands/status/1364291664500588549),
+  [Local Archive](gbx_info_archive/2021-02-23-broken_hearts_tweak_tweet.md))
 
