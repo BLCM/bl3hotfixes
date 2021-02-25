@@ -486,4 +486,5 @@ I'll continue regardless...)
   droppable from hearts, rather than just as heart-killing rewards.
   ([GBX Tweet](https://twitter.com/Borderlands/status/1364291664500588549),
   [Local Archive](gbx_info_archive/2021-02-23-broken_hearts_tweak_tweet.md))
+* **2021-02-25**: End of the Broken Hearts event -- no other hotfix updates.
 
