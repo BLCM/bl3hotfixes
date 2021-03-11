@@ -487,4 +487,9 @@ I'll continue regardless...)
   ([GBX Tweet](https://twitter.com/Borderlands/status/1364291664500588549),
   [Local Archive](gbx_info_archive/2021-02-23-broken_hearts_tweak_tweet.md))
 * **2021-02-25**: End of the Broken Hearts event -- no other hotfix updates.
+* **2021-03-11**: 57th announced hotfixes, with some more gear buffs,
+  nerfs to the Siren's Remnant skill, and adding loot sources for R.Y.N.A.H.
+  and Firestorm grenade mod.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-03-11-borderlands-3-hotfixes-mar-11/),
+  [Local Archive](gbx_info_archive/2021-03-11-hotfixes.md))
 
