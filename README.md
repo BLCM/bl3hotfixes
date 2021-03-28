@@ -114,10 +114,10 @@ I'll continue regardless...)
     hotfixes.
 * **2019-11-21**: Tenth announced hotfixes, fourth official patch (build
   version `OAK-PATCHDIESEL-71-CL2060134`, reported version `1.0.4 CL 2060134`),
-  and release of Takedown at Maliwan's Blacksite.  Nearly half of the
-  previously-established hotfixes have been removed, presumably because
-  they're now baked into the game data.  A few hours later, some newer
-  hotfixes were added to the mix.
+  and release of Takedown at Maliwan's Blacksite, and introduction of
+  Mayhem 4.  Nearly half of the previously-established hotfixes have been
+  removed, presumably because they're now baked into the game data.  A few
+  hours later, some newer hotfixes were added to the mix.
   ([GBX Post](https://borderlands.com/en-US/news/2019-11-21-borderlands-3-patch-hotfixes-nov-21/),
   [Local Post Archive](gbx_info_archive/2019-11-21-patch_and_hotfixes.md))
 * **2019-11-22**: Small hotfix update to revert a change to Megavore which was
@@ -424,7 +424,7 @@ I'll continue regardless...)
 * **2020-11-09**: Release of the Designer's Cut DLC (fourth Skill Trees, Arms Race),
   13th announced patch (EGS build version `OAK-PATCHDIESEL0-200-CL2297688`,
   EGS reported version `1.0.13_CL_2297688_Borderlands_3`, Steam build version
-  `OAK-PATCHWIN640-149-CL2297688`), Mayhem 11, and 49th announced
+  `OAK-PATCHWIN640-149-CL2297688`), Mayhem 11, level cap increase to 65, and 49th announced
   hotfixes.
   ([GBX Post](https://borderlands.com/en-US/news/2020-11-09-borderlands-3-patch-hotfixes-nov-9/),
   [Local Archive](gbx_info_archive/2020-11-09-designers_cut.md))
