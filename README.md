@@ -492,8 +492,10 @@ I'll continue regardless...)
   and Firestorm grenade mod.
   ([GBX Post](https://borderlands.com/en-US/news/2021-03-11-borderlands-3-hotfixes-mar-11/),
   [Local Archive](gbx_info_archive/2021-03-11-hotfixes.md))
-- **2021-04-01**: 58th announced hotfixes: re-launch of Show Me The Eridium
+* **2021-04-01**: 58th announced hotfixes: re-launch of Show Me The Eridium
   event, some character balancing, weapon buffs, and other smaller fixes
   ([GBX Post](https://borderlands.com/en-US/news/2021-04-01-borderlands-3-hotfixes-apr-1/),
   [Local Archive](gbx_info_archive/2021-04-01-show_me_the_eridium.md))
+  * A small update an hour or two later fixed an issue with their Try-Bolt buff
+
 
