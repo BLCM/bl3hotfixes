@@ -79,7 +79,13 @@ class HotfixFile(object):
                             incorporated_hotfixes.remove(hotfix['value'])
                         else:
                             incorporated = False
-                        hf = Hotfix.from_json_obj(hotfix, filename, incorporated)
+                        try:
+                            hf = Hotfix.from_json_obj(hotfix, filename, incorporated)
+                        except ValueError as e:
+                            print('ERROR: Invalid hotfix detected -- skipping it!')
+                            print('  key: {}'.format(hotfix['key']))
+                            print('  value: {}'.format(hotfix['value']))
+                            continue
                         self.hotfixes[hotfix['value']] = hf
                         global_hotfixes[hotfix['value']] = hf
                         hf.first_seen = self.timestamp

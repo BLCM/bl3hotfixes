@@ -500,4 +500,8 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2021-04-01-show_me_the_eridium.md))
   * A small update an hour or two later fixed an issue with their Try-Bolt buff
 * **2021-04-02**: Removal of the April Fool's joke from yesterday.
+* **2021-04-08**: 15th announced patch (versions forthcoming), 59th announced hotfixes,
+  launch of DLC6 (Director's Cut) and all its associated additions to the game.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-04-08-borderlands-3-update-hotfixes-apr-8/),
+  [Local Archive](gbx_info_archive/2021-04-08-directors_cut.md))
 
