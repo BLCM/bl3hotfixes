@@ -508,4 +508,8 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2021-04-08-directors_cut.md))
   * Two unannounced hotfix updates happened during the day after the patch
     was released, presumably fixing some bugs.
+* **2021-04-15**: 60th announced hotfixes, with various bugfixes and some
+  drop rate tweaks.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-04-15-borderlands-3-hotfixes-apr-15/),
+  [Local Archive](gbx_info_archive/2021-04-15-hotfixes.md))
 
