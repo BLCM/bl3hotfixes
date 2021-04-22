@@ -512,4 +512,9 @@ I'll continue regardless...)
   drop rate tweaks.
   ([GBX Post](https://borderlands.com/en-US/news/2021-04-15-borderlands-3-hotfixes-apr-15/),
   [Local Archive](gbx_info_archive/2021-04-15-hotfixes.md))
+* **2021-04-22**: 61st announced hotfixes, with tweaks to drop rates,
+  addition of some DLC3 drop sources, and increased eridium rewards from
+  various sources.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-04-22-borderlands-3-hotfixes-apr-22/),
+  [Local Archive](gbx_info_archive/2021-04-22-hotfixes.md))
 
