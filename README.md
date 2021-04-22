@@ -517,4 +517,6 @@ I'll continue regardless...)
   various sources.
   ([GBX Post](https://borderlands.com/en-US/news/2021-04-22-borderlands-3-hotfixes-apr-22/),
   [Local Archive](gbx_info_archive/2021-04-22-hotfixes.md))
+  * Another update a few hours later removed some old Trials-chest hotfixes
+    which were no longer appropriate with today's updates.
 
