@@ -519,4 +519,7 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2021-04-22-hotfixes.md))
   * Another update a few hours later removed some old Trials-chest hotfixes
     which were no longer appropriate with today's updates.
+* **2021-04-29**: 62nd announced hotfixes, mostly with some gear buffs.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-04-29-borderlands-3-hotfixes-apr-29/),
+  [Local Archive](gbx_info_archive/2021-04-29-hotfixes.md))
 
