@@ -524,4 +524,5 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2021-04-29-hotfixes.md))
 * **2021-04-30**: A small unannounced hotfix update removed some old gear
   balance hotfixes which were obsoleted by yesterday's update.
+  * A second update an hour or so later did a little more of the same.
 
