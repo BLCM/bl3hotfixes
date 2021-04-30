@@ -522,4 +522,6 @@ I'll continue regardless...)
 * **2021-04-29**: 62nd announced hotfixes, mostly with some gear buffs.
   ([GBX Post](https://borderlands.com/en-US/news/2021-04-29-borderlands-3-hotfixes-apr-29/),
   [Local Archive](gbx_info_archive/2021-04-29-hotfixes.md))
+* **2021-04-30**: A small unannounced hotfix update removed some old gear
+  balance hotfixes which were obsoleted by yesterday's update.
 
