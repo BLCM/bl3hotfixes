@@ -525,4 +525,5 @@ I'll continue regardless...)
 * **2021-04-30**: A small unannounced hotfix update removed some old gear
   balance hotfixes which were obsoleted by yesterday's update.
   * A second update an hour or so later did a little more of the same.
+  * A third update shortly after *that* tweaked Crader's EM-P5 some more.
 
