@@ -532,4 +532,5 @@ I'll continue regardless...)
   Survival event, and buffing a bunch more weapons.
   ([GBX Post](https://borderlands.com/en-US/news/2021-05-13-borderlands-3-hotfixes-may-13/),
   [Local Archive](gbx_info_archive/2021-05-13-true_trial_of_survival.md))
+  * A minor update a few hours later added in a missing Bekah buff.
 
