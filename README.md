@@ -528,4 +528,8 @@ I'll continue regardless...)
   * A third update shortly after *that* tweaked Crader's EM-P5 some more.
 * **2021-05-06**: A small unannounced hotfix update which handles the now-usual
   migration of Maurice's Black Market Vending Machine.
+* **2021-05-13**: 63rd announced hotfixes, activating the True Trial of
+  Survival event, and buffing a bunch more weapons.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-05-13-borderlands-3-hotfixes-may-13/),
+  [Local Archive](gbx_info_archive/2021-05-13-true_trial_of_survival.md))
 
