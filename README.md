@@ -533,4 +533,8 @@ I'll continue regardless...)
   ([GBX Post](https://borderlands.com/en-US/news/2021-05-13-borderlands-3-hotfixes-may-13/),
   [Local Archive](gbx_info_archive/2021-05-13-true_trial_of_survival.md))
   * A minor update a few hours later added in a missing Bekah buff.
+* **2021-05-20**: 64th announced hotfixes, activating the True Trial of
+  Cunning, and disabling the True Trial of Survival.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-05-20-borderlands-3-hotfixes-may-20/),
+  [Local Archive](gbx_info_archive/2021-05-20-true_trial_of_cunning.md))
 
