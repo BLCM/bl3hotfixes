@@ -537,4 +537,11 @@ I'll continue regardless...)
   Cunning, and disabling the True Trial of Survival.
   ([GBX Post](https://borderlands.com/en-US/news/2021-05-20-borderlands-3-hotfixes-may-20/),
   [Local Archive](gbx_info_archive/2021-05-20-true_trial_of_cunning.md))
+* **2021-05-27**: A small unannounced hotfix update occurred about an
+  hour before the usual hotfix time which didn't really change much;
+  presumably just a publication error.
+  * Then at the usual time, the 65th announced hotfixes dropped, activating
+  the True Trial of Discipline, and disabling the True Trial of Cunning.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-05-27-borderlands-3-hotfixes-may-27/),
+  [Local Archive](gbx_info_archive/2021-05-27-true_trial_of_discipline.md))
 
