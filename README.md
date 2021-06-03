@@ -544,4 +544,10 @@ I'll continue regardless...)
   the True Trial of Discipline, and disabling the True Trial of Cunning.
   ([GBX Post](https://borderlands.com/en-US/news/2021-05-27-borderlands-3-hotfixes-may-27/),
   [Local Archive](gbx_info_archive/2021-05-27-true_trial_of_discipline.md))
+* **2021-05-28**: A small unnanounced hotfix update fixed an issue with
+  the weekly Trial drops.
+* **2021-06-03**: 66th announced hotfixes, activating the True Trial of
+  Fervor, and disabling the True Trial of Cunning.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-06-03-borderlands-3-hotfixes-june-3/),
+  [Local Archive](gbx_info_archive/2021-06-03-true_trial_of_fervor.md))
 
