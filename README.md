@@ -553,4 +553,7 @@ I'll continue regardless...)
 * **2021-06-04**: A small, unannounced update removed a couple of what
   look like balance fix hotfixes.  Perhaps stuff that's been folded into
   the game already, or maybe they were already incorporated into data?
+  * Another small unannounced update an hour or two later reduced the
+    buffs that the Hag of Fervor was getting as part of the current True
+    Trial event.
 
