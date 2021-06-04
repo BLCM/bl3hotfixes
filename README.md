@@ -550,4 +550,7 @@ I'll continue regardless...)
   Fervor, and disabling the True Trial of Cunning.
   ([GBX Post](https://borderlands.com/en-US/news/2021-06-03-borderlands-3-hotfixes-june-3/),
   [Local Archive](gbx_info_archive/2021-06-03-true_trial_of_fervor.md))
+* **2021-06-04**: A small, unannounced update removed a couple of what
+  look like balance fix hotfixes.  Perhaps stuff that's been folded into
+  the game already, or maybe they were already incorporated into data?
 
