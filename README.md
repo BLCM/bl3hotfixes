@@ -556,4 +556,9 @@ I'll continue regardless...)
   * Another small unannounced update an hour or two later reduced the
     buffs that the Hag of Fervor was getting as part of the current True
     Trial event.
+* **2021-06-10**: 67th announced hotfixes, activating the True Trial of
+  Instinct, and disabling the True Trial of Fervor.  Also includes some
+  more gear buffs.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-06-10-borderlands-3-hotfixes-june-10/),
+  [Local Archive](gbx_info_archive/2021-06-10-true_trial_of_instinct.md))
 
