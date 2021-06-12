@@ -561,4 +561,7 @@ I'll continue regardless...)
   more gear buffs.
   ([GBX Post](https://borderlands.com/en-US/news/2021-06-10-borderlands-3-hotfixes-june-10/),
   [Local Archive](gbx_info_archive/2021-06-10-true_trial_of_instinct.md))
+* **2021-06-11**: Small, unannounced update removed a couple of old buffs
+  which didn't apply anymore (and might have been preventing yesterday's
+  Lucian's Call and King's/Queen's Call buffs from working properly)
 
