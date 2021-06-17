@@ -564,4 +564,8 @@ I'll continue regardless...)
 * **2021-06-11**: Small, unannounced update removed a couple of old buffs
   which didn't apply anymore (and might have been preventing yesterday's
   Lucian's Call and King's/Queen's Call buffs from working properly)
+* **2021-06-17**: 68th announced hotfixes, activating the True Trial of
+  Supermacy, and disabling the True Trial of Instinct.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-06-17-borderlands-3-hotfixes-june-17/),
+  [Local Archive](gbx_info_archive/2021-06-17-true_trial_of_supremacy.md))
 
