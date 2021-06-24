@@ -568,4 +568,12 @@ I'll continue regardless...)
   Supermacy, and disabling the True Trial of Instinct.
   ([GBX Post](https://borderlands.com/en-US/news/2021-06-17-borderlands-3-hotfixes-june-17/),
   [Local Archive](gbx_info_archive/2021-06-17-true_trial_of_supremacy.md))
+* **2021-06-24**: 16th announced patch (Steam build version
+  `OAK-PATCHWIN640-226-CL2495386`, EGS versions forthcoming), and 69th
+  announced hotfixes.  Activation of Revengeance of the Cartels event,
+  level cap increase to 72, ability to toggle all events on/off at the
+  main menu, crossplay between consoles/Stadia/PC, and activation of all
+  True Trial events at once (through July 1).
+  ([GBX Post](https://borderlands.com/en-US/news/2021-06-24-borderlands-3-update-hotfixes-june-24/),
+  [Local Archive](gbx_info_archive/2021-06-24-cartels_crossplay_true_trials.md))
 
