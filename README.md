@@ -576,4 +576,6 @@ I'll continue regardless...)
   True Trial events at once (through July 1).
   ([GBX Post](https://borderlands.com/en-US/news/2021-06-24-borderlands-3-update-hotfixes-june-24/),
   [Local Archive](gbx_info_archive/2021-06-24-cartels_crossplay_true_trials.md))
+* **2021-07-01**: Unannounced hotfix update which disabled the True Trials
+  events.
 
