@@ -581,4 +581,6 @@ I'll continue regardless...)
 * **2021-07-07**: Unannounced hotfix update which disabled the current
   Black Market vendor location.  Presumably a mis-click somewhere on GBX's
   side?
+  * Another update a few hours later fixed the Black Market machine.
+    Mis-clicked no longer!
 
