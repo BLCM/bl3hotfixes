@@ -578,4 +578,7 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2021-06-24-cartels_crossplay_true_trials.md))
 * **2021-07-01**: Unannounced hotfix update which disabled the True Trials
   events.
+* **2021-07-07**: Unannounced hotfix update which disabled the current
+  Black Market vendor location.  Presumably a mis-click somewhere on GBX's
+  side?
 
