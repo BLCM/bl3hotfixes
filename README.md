@@ -583,4 +583,8 @@ I'll continue regardless...)
   side?
   * Another update a few hours later fixed the Black Market machine.
     Mis-clicked no longer!
+* **2021-07-08**: An unannounced hotfix update removed some hotfixes probably
+  related to the True Trials events earlier.
+  * An hour or so later, the weekly update to the Black Market vendor location
+    happened, as well.
 
