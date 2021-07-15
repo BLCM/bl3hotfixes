@@ -503,7 +503,7 @@ I'll continue regardless...)
 * **2021-04-08**: 15th announced patch (Steam build version
   `OAK-PATCHWIN641-227-CL2425795`, EGS versions forthcoming), 59th announced
   hotfixes, launch of DLC6 (Director's Cut) and all its associated additions
-  to the game.
+  to the game.  Start of weekly Black Market machine location hotfixes.
   ([GBX Post](https://borderlands.com/en-US/news/2021-04-08-borderlands-3-update-hotfixes-apr-8/),
   [Local Archive](gbx_info_archive/2021-04-08-directors_cut.md))
   * Two unannounced hotfix updates happened during the day after the patch
@@ -587,4 +587,6 @@ I'll continue regardless...)
   related to the True Trials events earlier.
   * An hour or so later, the weekly update to the Black Market vendor location
     happened, as well.
+* **2021-07-15**: An unannounced hotfix update just did the weekly Black Market
+  location change.
 
