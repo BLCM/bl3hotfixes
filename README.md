@@ -591,4 +591,6 @@ I'll continue regardless...)
   location change.
 * **2021-07-22**: An unannounced hotfix update just did the weekly Black Market
   location change.
+* **2021-07-29**: An unannounced hotfix update just did the weekly Black Market
+  location change.
 
