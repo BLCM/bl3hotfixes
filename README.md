@@ -593,4 +593,10 @@ I'll continue regardless...)
   location change.
 * **2021-07-29**: An unannounced hotfix update just did the weekly Black Market
   location change.
+* **2021-08-05**: 17th announced patch (Steam build version
+  `OAK-PATCHWIN641-270-CL2528316`, EGS versions forthcoming), and 70th
+  announced hotfixes.  Addition of Vault Card #2, more Bank SDUs, some bugfixes,
+  and some more gear buffs.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-08-05-borderlands-3-update-hotfixes-aug-5/),
+  [Local Archive](gbx_info_archive/2021-08-05-vault_card_2.md))
 
