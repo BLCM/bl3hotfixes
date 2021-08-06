@@ -598,6 +598,10 @@ I'll continue regardless...)
   announced hotfixes.  Addition of Vault Card #2, more Bank SDUs, some bugfixes,
   and some more gear buffs.
   ([GBX Post](https://borderlands.com/en-US/news/2021-08-05-borderlands-3-update-hotfixes-aug-5/),
-  [Local Archive](gbx_info_archive/2021-08-05-vault_card_2.md))
+  [Local Archive](gbx_info_archive/2021-08-05-01-vault_card_2.md))
   * A minor update a few hours later tweaked Tankman's Shield
+  * Another small update later in the evening tweaked some gear based on
+    feedback from the community.
+    ([GBX Tweet](https://twitter.com/Borderlands/status/1423439076519071744),
+    [Local Archive](gbx_info_archive/2021-08-05-02-tweet.md))
 
