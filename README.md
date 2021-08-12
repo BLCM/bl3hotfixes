@@ -604,4 +604,10 @@ I'll continue regardless...)
     feedback from the community.
     ([GBX Tweet](https://twitter.com/Borderlands/status/1423439076519071744),
     [Local Archive](gbx_info_archive/2021-08-05-02-tweet.md))
+* **2021-08-12**: 71st announced hotfixes, activation of Loot The Universe:
+  Pandora event, the usual Black Market machine move, and a couple of bugfixes.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-08-12-borderlands-3-hotfixes-aug-12/),
+  [Local Archive](gbx_info_archive/2021-08-12-loot_the_universe_pandora.md))
+  * Shortly after, another small update fixed some earlier balance tweaks
+    from last week's hotfixes.
 
