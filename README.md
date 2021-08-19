@@ -610,4 +610,8 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2021-08-12-loot_the_universe_pandora.md))
   * Shortly after, another small update fixed some earlier balance tweaks
     from last week's hotfixes.
+* **2021-08-19**: 72nd announced hotfixes, activattion of Loot The Universe:
+  Promethea, disabling of Loot the Universe: Pandora, and a few bugfixes.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-08-19-borderlands-3-hotfixes-aug-19/),
+  [Local Archive](gbx_info_archive/2021-08-19-loot_the_universe_promethea.md))
 
