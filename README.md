@@ -618,4 +618,8 @@ I'll continue regardless...)
   Eden-6, and disabling of Loot the Universe: Promethea.
   ([GBX Post](https://borderlands.com/en-US/news/2021-08-26-borderlands-3-hotfixes-aug-26/),
   [Local Archive](gbx_info_archive/2021-08-26-loot_the_universe_eden_6.md))
+* **2021-09-02**: 74th announced hotfixes, activation of Loot the Universe:
+  Nekrotafeyo, and disabling of Loot the Universe: Eden-6.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-09-02-borderlands-3-hotfixes-sept-2/),
+  [Local Archive](gbx_info_archive/2021-09-02-loot_the_universe_nekrotafeyo.md))
 
