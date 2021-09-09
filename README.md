@@ -628,8 +628,6 @@ I'll continue regardless...)
   ([GBX Post](https://borderlands.com/en-US/news/2021-09-09-borderlands-3-hotfixes-sept-9/),
   [Local Archive](gbx_info_archive/2021-09-09-mayhem_made_mild_and_show_me_the_eridium.md))
   * A second update an hour later removed a bunch of other hotfixes, possibly
-    things which had been since folded into the main binary
-    * A second update an hour later removed a bunch of other hotfixes, possibly
-      hotfixes which had been since folded into the main game data but never
-      removed from the active hotfix list.
+    hotfixes which had been since folded into the main game data but never
+    removed from the active hotfix list.
 
