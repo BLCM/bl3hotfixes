@@ -622,4 +622,14 @@ I'll continue regardless...)
   Nekrotafeyo, and disabling of Loot the Universe: Eden-6.
   ([GBX Post](https://borderlands.com/en-US/news/2021-09-02-borderlands-3-hotfixes-sept-2/),
   [Local Archive](gbx_info_archive/2021-09-02-loot_the_universe_nekrotafeyo.md))
+* **2021-09-09**: 75th announced hotfixes, activation of Eridium Made Mild
+  and Show Me The Eridium events, and disabling of Loot the Universe:
+  Nekrotafeyo.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-09-09-borderlands-3-hotfixes-sept-9/),
+  [Local Archive](gbx_info_archive/2021-09-09-mayhem_made_mild_and_show_me_the_eridium.md))
+  * A second update an hour later removed a bunch of other hotfixes, possibly
+    things which had been since folded into the main binary
+    * A second update an hour later removed a bunch of other hotfixes, possibly
+      hotfixes which had been since folded into the main game data but never
+      removed from the active hotfix list.
 
