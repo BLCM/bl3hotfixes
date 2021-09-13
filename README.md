@@ -630,4 +630,9 @@ I'll continue regardless...)
   * A second update an hour later removed a bunch of other hotfixes, possibly
     hotfixes which had been since folded into the main game data but never
     removed from the active hotfix list.
+* **2021-09-13**: 76th announced hotfixes to coincide with BL3's two-year
+  anniversary: activation of Loot Monster Mayhem, plus a few loot pool
+  additions to the Black Market vending machine.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-09-13-borderlands-3-second-birthday/),
+  [Local Archive](gbx_info_archive/2021-09-13-loot_monster_mayhem.md))
 
