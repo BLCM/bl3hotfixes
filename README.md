@@ -624,7 +624,9 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2021-09-02-loot_the_universe_nekrotafeyo.md))
 * **2021-09-09**: 75th announced hotfixes, activation of Eridium Made Mild
   and Show Me The Eridium events, and disabling of Loot the Universe:
-  Nekrotafeyo.
+  Nekrotafeyo.  Also a minor unannounced patch (Steam build version
+  `OAK-PATCHWIN64-177-CL2547518`, EGS versions forthcoming) which mostly
+  just adds in some ads for Wonderlands.
   ([GBX Post](https://borderlands.com/en-US/news/2021-09-09-borderlands-3-hotfixes-sept-9/),
   [Local Archive](gbx_info_archive/2021-09-09-mayhem_made_mild_and_show_me_the_eridium.md))
   * A second update an hour later removed a bunch of other hotfixes, possibly
