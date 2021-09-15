@@ -637,4 +637,7 @@ I'll continue regardless...)
   additions to the Black Market vending machine.
   ([GBX Post](https://borderlands.com/en-US/news/2021-09-13-borderlands-3-second-birthday/),
   [Local Archive](gbx_info_archive/2021-09-13-loot_monster_mayhem.md))
+* **2021-09-15**: Disabling of the Loot Monster Mayhem two-day event (no
+  announcement specifically about it, though it was mentioned in the Monday
+  update).
 
