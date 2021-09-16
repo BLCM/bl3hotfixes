@@ -640,4 +640,7 @@ I'll continue regardless...)
 * **2021-09-15**: Disabling of the Loot Monster Mayhem two-day event (no
   announcement specifically about it, though it was mentioned in the Monday
   update).
+* **2021-09-16**: Unannounced hotfix update to disable the Eridium Made Mild and
+  Show Me The Eridium events, and also do the usual weekly Black Market Machine
+  rotation.
 
