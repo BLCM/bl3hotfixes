@@ -643,4 +643,10 @@ I'll continue regardless...)
 * **2021-09-16**: Unannounced hotfix update to disable the Eridium Made Mild and
   Show Me The Eridium events, and also do the usual weekly Black Market Machine
   rotation.
+* **2021-09-23**: A small hotfix update only announced over Twitter (so
+  I'm not including it in the officially-announced numbering scheme) fixed
+  a bug with Freddie, and did the usual weekly Black Market Machine
+  rotation.
+  ([GBX Tweet](https://twitter.com/Borderlands/status/1441039668359819266),
+  [Local Archive](gbx_info_archive/2021-09-23-tweet.md))
 
