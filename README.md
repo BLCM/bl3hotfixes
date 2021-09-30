@@ -649,4 +649,6 @@ I'll continue regardless...)
   rotation.
   ([GBX Tweet](https://twitter.com/Borderlands/status/1441039668359819266),
   [Local Archive](gbx_info_archive/2021-09-23-tweet.md))
+* **2021-09-30**: An unannounced hotfix update just did the weekly Black Market
+  location change.
 
