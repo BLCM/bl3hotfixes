@@ -651,4 +651,6 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2021-09-23-tweet.md))
 * **2021-09-30**: An unannounced hotfix update just did the weekly Black Market
   location change.
+* **2021-10-07**: An unannounced hotfix update just did the weekly Black Market
+  location change.
 
