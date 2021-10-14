@@ -653,4 +653,9 @@ I'll continue regardless...)
   location change.
 * **2021-10-07**: An unannounced hotfix update just did the weekly Black Market
   location change.
+* **2021-10-14**: 77th announced hotfixes: activation of the first of
+  Maurice's Community Carnage Challenges (Traunt's Bloodied Bloodline),
+  and the Door Buster mini-event.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-10-14-borderlands-3-hotfixes-oct-14/),
+  [Local Archive](gbx_info_archive/2021-10-14-traunts_bloodied_bloodline_and_door_buster.md))
 
