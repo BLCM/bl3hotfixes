@@ -658,4 +658,10 @@ I'll continue regardless...)
   and the Door Buster mini-event.
   ([GBX Post](https://borderlands.com/en-US/news/2021-10-14-borderlands-3-hotfixes-oct-14/),
   [Local Archive](gbx_info_archive/2021-10-14-traunts_bloodied_bloodline_and_door_buster.md))
+* **2021-10-21**: 78th announced hotfixes: activation of the second Maurice's
+  Community Carnage Challenge (Long-Distance Relations), and disabling the
+  previous (Traunt's Bloodied Bloodline).  Also boosts to sniper rifle damage
+  (unsure if that's permanent or not).
+  ([GBX Post](https://borderlands.com/en-US/news/2021-10-21-borderlands-3-hotfixes-oct-21/),
+  [Local Archive](gbx_info_archive/2021-10-21-long-distance_relations.md))
 
