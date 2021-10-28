@@ -664,4 +664,10 @@ I'll continue regardless...)
   (unsure if that's permanent or not).
   ([GBX Post](https://borderlands.com/en-US/news/2021-10-21-borderlands-3-hotfixes-oct-21/),
   [Local Archive](gbx_info_archive/2021-10-21-long-distance_relations.md))
+* **2021-10-28**: 79th announced hotfixes: activation of Traunt Family
+  Revenge (though there might be some issues w/ the health hotfixes), and
+  some buffs to the Bloody Harvest loot pools.  Long-Distance Relations is
+  still active.
+  ([GBX Post](https://borderlands.com/en-US/news/2021-10-28-borderlands-3-hotfixes-oct-28/),
+  [Local Archive](gbx_info_archive/2021-10-28-traunt_family_revenge.md))
 
