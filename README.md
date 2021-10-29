@@ -670,4 +670,6 @@ I'll continue regardless...)
   still active.
   ([GBX Post](https://borderlands.com/en-US/news/2021-10-28-borderlands-3-hotfixes-oct-28/),
   [Local Archive](gbx_info_archive/2021-10-28-traunt_family_revenge.md))
+* **2021-10-29**: Unannounced hotfix which fixes up Captain Haunt's health
+  pool to actually behave like they intended.
 
