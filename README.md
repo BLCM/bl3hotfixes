@@ -672,4 +672,8 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2021-10-28-traunt_family_revenge.md))
 * **2021-10-29**: Unannounced hotfix which fixes up Captain Haunt's health
   pool to actually behave like they intended.
+* **2021-11-04**: Unnanounced hotfix update which just deactivates Traunt
+  Family Revenge and does the usual weekly Black Market machine move.
+  Current Maurice's Community Challenge is now "Totally Takedowns," though
+  there are no associated hotfixes.
 
