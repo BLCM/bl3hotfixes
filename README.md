@@ -676,4 +676,6 @@ I'll continue regardless...)
   Family Revenge and does the usual weekly Black Market machine move.
   Current Maurice's Community Challenge is now "Totally Takedowns," though
   there are no associated hotfixes.
+* **2021-11-11**: Unannounced hotfix update which just does the usual weekly
+  Black Market machine move.  "Totally Takedowns" event is still active.
 
