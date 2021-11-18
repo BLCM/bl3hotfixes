@@ -680,8 +680,9 @@ I'll continue regardless...)
   Black Market machine move.  "Totally Takedowns" event is still active.
 * **2021-11-18**: 18th anounced patch (Steam build version
   `OAK-PATCHWIN640-293-CL2629535`, EGS versions forthcoming), and 80th
-  announced hotfixes.  Addition of Vault Card #3, incorporation of a number
-  of hotfixes into the base game, plus some other tweaks and bugfixes.  Current
-  Maurice's Community Challeng is now "Mayhem 10 Massacre," though there are no 
-  related hotfixes for that.
+  announced hotfixes.  Addition of Vault Card #3, updated Black Market machine
+  rotation to not require hotfixes, activation of Co-Op Loot Drop event,
+  incorporation of a number of hotfixes into the base game, plus some other
+  tweaks and bugfixes.  Current Maurice's Community Challenge is now "Mayhem
+  10 Massacre," though there are no related hotfixes for that.
 
