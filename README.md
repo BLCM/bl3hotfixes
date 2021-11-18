@@ -678,4 +678,10 @@ I'll continue regardless...)
   there are no associated hotfixes.
 * **2021-11-11**: Unannounced hotfix update which just does the usual weekly
   Black Market machine move.  "Totally Takedowns" event is still active.
+* **2021-11-18**: 18th anounced patch (Steam build version
+  `OAK-PATCHWIN640-293-CL2629535`, EGS versions forthcoming), and 80th
+  announced hotfixes.  Addition of Vault Card #3, incorporation of a number
+  of hotfixes into the base game, plus some other tweaks and bugfixes.  Current
+  Maurice's Community Challeng is now "Mayhem 10 Massacre," though there are no 
+  related hotfixes for that.
 
