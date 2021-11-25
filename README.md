@@ -685,4 +685,6 @@ I'll continue regardless...)
   incorporation of a number of hotfixes into the base game, plus some other
   tweaks and bugfixes.  Current Maurice's Community Challenge is now "Mayhem
   10 Massacre," though there are no related hotfixes for that.
+* **2021-11-25**: Unannounced hotfix update which just disables the Co-op
+  Loot Drop event.
 
