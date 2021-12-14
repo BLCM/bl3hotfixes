@@ -687,4 +687,8 @@ I'll continue regardless...)
   10 Massacre," though there are no related hotfixes for that.
 * **2021-11-25**: Unannounced hotfix update which just disables the Co-op
   Loot Drop event.
+* **2021-12-14**: 80th(ish) announced hotfixes, though seemingly only announced
+  via Twitter: activation of Clear Skies and ECHOCast Overload mini-events.
+  ([GBX Tweet](https://twitter.com/Borderlands/status/1470800794220130304),
+  [Local Archive](gbx_info_archive/2021-12-14-tweet-clear_skies_echocast_overload.md))
 
