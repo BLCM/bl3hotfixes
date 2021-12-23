@@ -691,4 +691,6 @@ I'll continue regardless...)
   via Twitter: activation of Clear Skies and ECHOCast Overload mini-events.
   ([GBX Tweet](https://twitter.com/Borderlands/status/1470800794220130304),
   [Local Archive](gbx_info_archive/2021-12-14-tweet-clear_skies_echocast_overload.md))
+* **2021-12-23**: Unannounced hotfix update which disabled the Clear Skies
+  and ECHOCast Overload mini-events.
 
