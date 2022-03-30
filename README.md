@@ -693,4 +693,7 @@ I'll continue regardless...)
   [Local Archive](gbx_info_archive/2021-12-14-tweet-clear_skies_echocast_overload.md))
 * **2021-12-23**: Unannounced hotfix update which disabled the Clear Skies
   and ECHOCast Overload mini-events.
+* **2022-03-30**: Unannounced hotfix update which adds TNTina to Anathema the
+  Relentless's drops.  (Technically this was announced at some point prior, but
+  was unannounced on the actual day.)
 
