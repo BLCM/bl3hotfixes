@@ -696,4 +696,14 @@ I'll continue regardless...)
 * **2022-03-30**: Unannounced hotfix update which adds TNTina to Anathema the
   Relentless's drops.  (Technically this was announced at some point prior, but
   was unannounced on the actual day.)
+* **2022-05-04**: Gearbox announces the Maliwan May Mayhem events, and updated
+  the version number of the published hotfixes (though with no changes).
+  ([GBX Post](https://borderlands.com/en-US/news/2022-05-04-maliwan-may-mayhem/),
+  [Local Archive](gbx_info_archive/2022-05-04-maliwan_may_mayhem_announcement.md))
+* **2022-05-05**: Activation of the first of the Maliwan May Mayhem events:
+  Attack the Mind.  No specific post for this update, since it was announced
+  the day prior.
+* **2022-05-12**: Activation of the second of the Maliwan May Mayhem events:
+  Balling Out.  No specific post for this update; the original announcement post
+  was updated instead.
 
