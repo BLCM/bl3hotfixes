@@ -706,4 +706,7 @@ I'll continue regardless...)
 * **2022-05-12**: Activation of the second of the Maliwan May Mayhem events:
   Balling Out.  No specific post for this update; the original announcement post
   was updated instead.
+* **2022-05-19**: Activation of the third of the Maliwan May Mayhem events:
+  Executive Bleed-ership.  No specific post for this update; the original
+  announcement post was updated instead.
 

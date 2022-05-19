@@ -25,3 +25,12 @@ Challenge 2 -  Balling Out
 
 No matter how many times it's defeated, this boss just keeps on rolling across Skywell-27 orbiting the planet Promethea. That's right: the second of this month's community challenges is to beat the Katagawa Ball a collective total of 50,000 times. For the duration of this challenge, Katagawa Ball has an increased chance to drop the Legendary Maliwan Shotgun Trevonator.
 
+Here are your well-earned rewards: the Protagonist Punk Vault Hunter Head and Finger on a Ring Weapon Trinket. Redeem the SHiFT code below then check your in-game mailbox:
+
+WSCBT-R5BB3-66KX9-F3JBT-ZW3JK
+
+Challenge 3 -  Executive Bleed-ership
+-------------------------------------
+
+As Maliwan's Head of Mergers and Acquisitions, Katagawa Jr. is used to getting his own way, but that's about to change. To complete the third of this month's community challenges, find Katagawa Jr. in the Atlas HQ on Promethea and defeat him a collective total of 50,000 times. For the duration of this challenge, he has an increased chance to drop the Legendary Maliwan Submachine Gun D.N.A.
+
