@@ -34,3 +34,12 @@ Challenge 3 -  Executive Bleed-ership
 
 As Maliwan's Head of Mergers and Acquisitions, Katagawa Jr. is used to getting his own way, but that's about to change. To complete the third of this month's community challenges, find Katagawa Jr. in the Atlas HQ on Promethea and defeat him a collective total of 50,000 times. For the duration of this challenge, he has an increased chance to drop the Legendary Maliwan Submachine Gun D.N.A.
 
+Here are your well-earned rewards: the Super Mecha Vault Hunter Head and Saurian Skull Weapon Trinket. Redeem the SHiFT code below then check your in-game mailbox:
+
+KSK33-S5T33-XX5FS-R3BTB-WSXRC
+
+Challenge 4 - Maliwan Meltdown
+------------------------------
+
+Rounding out our month of Maliwan-themed Mayhem is a community challenge that's sure to put your skills (and perhaps any gear you've collected during previous challenges) to the test. You guessed it—it's time to complete the Takedown at the Maliwan Blacksite. A total of 50,000 successful missions will complete this challenge, during which the final boss Wotan the Invincible will have an increased chance to drop a wide range of Legendary weapons manufactured by Maliwan!
+

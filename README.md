@@ -709,4 +709,7 @@ I'll continue regardless...)
 * **2022-05-19**: Activation of the third of the Maliwan May Mayhem events:
   Executive Bleed-ership.  No specific post for this update; the original
   announcement post was updated instead.
+* **2022-05-26**: Activation of the fourth of the Maliwan May Mayhem events:
+  Maliwan Meltdown.  No specific post for this update; the original
+  announcement post was updated instead.
 
