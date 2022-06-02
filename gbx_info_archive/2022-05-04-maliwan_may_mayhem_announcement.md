@@ -43,3 +43,6 @@ Challenge 4 - Maliwan Meltdown
 
 Rounding out our month of Maliwan-themed Mayhem is a community challenge that's sure to put your skills (and perhaps any gear you've collected during previous challenges) to the test. You guessed it—it's time to complete the Takedown at the Maliwan Blacksite. A total of 50,000 successful missions will complete this challenge, during which the final boss Wotan the Invincible will have an increased chance to drop a wide range of Legendary weapons manufactured by Maliwan!
 
+Here are your well-earned rewards: the Shrine Saint Vault Hunter Head and Ball and Loaded Crystal Weapon Trinket. Redeem the SHiFT code below then check your in-game mailbox:
+
+KSWJJ-J6TTJ-FRCF9-X333J-5Z6KJ
