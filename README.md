@@ -715,5 +715,7 @@ I'll continue regardless...)
 * **2022-06-01**: 19th announced patch (Steam build version
   `OAK-PATCHWIN640-320-CL2799063`, EGS versions forthcoming).  Addition of
   Playstation Crossplay, and a few other minor tweaks.
+  ([GBX Post](https://borderlands.com/en-US/news/2022-06-01-borderlands-3-update-june-1/),
+  [Local Archive](gbx_info_archive/2022-06-01-playstation_crossplay_patch.md))
 * **2022-06-02**: Deactivation of the last of the Maliwan May Mayhem events.
 
