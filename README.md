@@ -718,4 +718,7 @@ I'll continue regardless...)
   ([GBX Post](https://borderlands.com/en-US/news/2022-06-01-borderlands-3-update-june-1/),
   [Local Archive](gbx_info_archive/2022-06-01-playstation_crossplay_patch.md))
 * **2022-06-02**: Deactivation of the last of the Maliwan May Mayhem events.
+* **2022-08-18**: A minor (and unannounced) patch to improve some Steam
+  Deck compatibility issues (Steam build version `OAK-PATCHWIN640-328-CL2860060`,
+  EGS versions forthcoming).  No associated hotfix updates.
 
