@@ -721,4 +721,9 @@ I'll continue regardless...)
 * **2022-08-18**: A minor (and unannounced) patch to improve some Steam
   Deck compatibility issues (Steam build version `OAK-PATCHWIN640-328-CL2860060`,
   EGS versions forthcoming).  No associated hotfix updates.
+* **2023-08-31**: A small patch was released which added some new cosmetics
+  which get automatically added to your profile, including some older cosmetics
+  which had become impossible to legitimately acquire otherwise.
+  ([GBX Post](https://twitter.com/Borderlands/status/1697297286097940953),
+  [Local Archive](gbx_info_archive/2023-08-31-tweet-customization_patch.md))
 
