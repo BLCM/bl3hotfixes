@@ -724,6 +724,6 @@ I'll continue regardless...)
 * **2023-08-31**: A small patch was released which added some new cosmetics
   which get automatically added to your profile, including some older cosmetics
   which had become impossible to legitimately acquire otherwise.
-  ([GBX Post](https://twitter.com/Borderlands/status/1697297286097940953),
-  [Local Archive](gbx_info_archive/2023-08-31-tweet-customization_patch.md))
+  ([Steam Update Notes](https://store.steampowered.com/news/app/397540/view/3669925177412540382),
+  [Local Archive](gbx_info_archive/2023-08-31-steam_update_notes.md))
 
