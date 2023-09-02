@@ -501,7 +501,7 @@ I'll continue regardless...)
   * A small update an hour or two later fixed an issue with their Try-Bolt buff
 * **2021-04-02**: Removal of the April Fool's joke from yesterday.
 * **2021-04-08**: 15th announced patch (Steam build version
-  `OAK-PATCHWIN641-227-CL2425795`, EGS versions forthcoming), 59th announced
+  `OAK-PATCHWIN641-227-CL2425795`), 59th announced
   hotfixes, launch of DLC6 (Director's Cut) and all its associated additions
   to the game.  Start of weekly Black Market machine location hotfixes.
   ([GBX Post](https://borderlands.com/en-US/news/2021-04-08-borderlands-3-update-hotfixes-apr-8/),
@@ -569,7 +569,7 @@ I'll continue regardless...)
   ([GBX Post](https://borderlands.com/en-US/news/2021-06-17-borderlands-3-hotfixes-june-17/),
   [Local Archive](gbx_info_archive/2021-06-17-true_trial_of_supremacy.md))
 * **2021-06-24**: 16th announced patch (Steam build version
-  `OAK-PATCHWIN640-226-CL2495386`, EGS versions forthcoming), and 69th
+  `OAK-PATCHWIN640-226-CL2495386`), and 69th
   announced hotfixes.  Activation of Revengeance of the Cartels event,
   level cap increase to 72, ability to toggle all events on/off at the
   main menu, crossplay between consoles/Stadia/PC, and activation of all
@@ -594,7 +594,7 @@ I'll continue regardless...)
 * **2021-07-29**: An unannounced hotfix update just did the weekly Black Market
   location change.
 * **2021-08-05**: 17th announced patch (Steam build version
-  `OAK-PATCHWIN641-270-CL2528316`, EGS versions forthcoming), and 70th
+  `OAK-PATCHWIN641-270-CL2528316`), and 70th
   announced hotfixes.  Addition of Vault Card #2, more Bank SDUs, some bugfixes,
   and some more gear buffs.
   ([GBX Post](https://borderlands.com/en-US/news/2021-08-05-borderlands-3-update-hotfixes-aug-5/),
@@ -625,7 +625,7 @@ I'll continue regardless...)
 * **2021-09-09**: 75th announced hotfixes, activation of Eridium Made Mild
   and Show Me The Eridium events, and disabling of Loot the Universe:
   Nekrotafeyo.  Also a minor unannounced patch (Steam build version
-  `OAK-PATCHWIN64-177-CL2547518`, EGS versions forthcoming) which mostly
+  `OAK-PATCHWIN64-177-CL2547518`) which mostly
   just adds in some ads for Wonderlands.
   ([GBX Post](https://borderlands.com/en-US/news/2021-09-09-borderlands-3-hotfixes-sept-9/),
   [Local Archive](gbx_info_archive/2021-09-09-mayhem_made_mild_and_show_me_the_eridium.md))
@@ -679,7 +679,7 @@ I'll continue regardless...)
 * **2021-11-11**: Unannounced hotfix update which just does the usual weekly
   Black Market machine move.  "Totally Takedowns" event is still active.
 * **2021-11-18**: 18th anounced patch (Steam build version
-  `OAK-PATCHWIN640-293-CL2629535`, EGS versions forthcoming), and 80th
+  `OAK-PATCHWIN640-293-CL2629535`), and 80th
   announced hotfixes.  Addition of Vault Card #3, updated Black Market machine
   rotation to not require hotfixes, activation of Co-Op Loot Drop event,
   incorporation of a number of hotfixes into the base game, plus some other
@@ -713,15 +713,16 @@ I'll continue regardless...)
   Maliwan Meltdown.  No specific post for this update; the original
   announcement post was updated instead.
 * **2022-06-01**: 19th announced patch (Steam build version
-  `OAK-PATCHWIN640-320-CL2799063`, EGS versions forthcoming).  Addition of
+  `OAK-PATCHWIN640-320-CL2799063`).  Addition of
   Playstation Crossplay, and a few other minor tweaks.
   ([GBX Post](https://borderlands.com/en-US/news/2022-06-01-borderlands-3-update-june-1/),
   [Local Archive](gbx_info_archive/2022-06-01-playstation_crossplay_patch.md))
 * **2022-06-02**: Deactivation of the last of the Maliwan May Mayhem events.
 * **2022-08-18**: A minor (and unannounced) patch to improve some Steam
-  Deck compatibility issues (Steam build version `OAK-PATCHWIN640-328-CL2860060`,
-  EGS versions forthcoming).  No associated hotfix updates.
-* **2023-08-31**: A small patch was released which added some new cosmetics
+  Deck compatibility issues (Steam build version `OAK-PATCHWIN640-328-CL2860060`).
+  No associated hotfix updates.
+* **2023-08-31**: A small patch was released (Steam build version
+  `OAK-PATCHWIN64-209-CL3240126`) which added some new cosmetics
   which get automatically added to your profile, including some older cosmetics
   which had become impossible to legitimately acquire otherwise.
   ([Steam Update Notes](https://store.steampowered.com/news/app/397540/view/3669925177412540382),
