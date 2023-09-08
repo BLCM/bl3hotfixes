@@ -727,4 +727,7 @@ I'll continue regardless...)
   which had become impossible to legitimately acquire otherwise.
   ([Steam Update Notes](https://store.steampowered.com/news/app/397540/view/3669925177412540382),
   [Local Archive](gbx_info_archive/2023-08-31-steam_update_notes.md))
+* **2023-09-07**: Gearbox activated the first of their "Loot the Universe Remix"
+  events, focusing on Eden-6 and Gehenna. ([GBX Post](https://borderlands.2k.com/news/month-of-mayhem/),
+  [Local Archive](2023-09-07-loot_the_universe_remix.md))
 
