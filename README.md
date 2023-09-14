@@ -730,4 +730,6 @@ I'll continue regardless...)
 * **2023-09-07**: Gearbox activated the first of their "Loot the Universe Remix"
   events, focusing on Eden-6 and Gehenna. ([GBX Post](https://borderlands.2k.com/news/month-of-mayhem/),
   [Local Archive](2023-09-07-loot_the_universe_remix.md))
+* **2023-09-14**: Activation of the next of the "Loot the Universe Remix"
+  events, focusing on Promethea and The Handsome Jackpot.
 
