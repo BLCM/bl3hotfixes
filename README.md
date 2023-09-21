@@ -732,4 +732,6 @@ I'll continue regardless...)
   [Local Archive](2023-09-07-loot_the_universe_remix.md))
 * **2023-09-14**: Activation of the next of the "Loot the Universe Remix"
   events, focusing on Promethea and The Handsome Jackpot.
+* **2023-09-21**: Activation of the next of the "Loot the Universe Remix"
+  events, focusing on Pandora and Xylourgos.
 
