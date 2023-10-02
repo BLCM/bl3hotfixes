@@ -734,7 +734,10 @@ I'll continue regardless...)
   events, focusing on Promethea and The Handsome Jackpot.
 * **2023-09-21**: Activation of the next of the "Loot the Universe Remix"
   events, focusing on Pandora and Xylourgos.
-* **2023-09-29**: Activation of the final "Loot the Universe Remix" event,
-  focusing on Nekrotafeyo and Krieg's Mind.  It looks like the EGS hotfixes
-  initially omitted the event, but that should be sorted out soon.
+* **2023-09-28**: Activation of the final "Loot the Universe Remix" event,
+  focusing on Nekrotafeyo and Krieg's Mind.  The EGS hotfixes were bugged
+  and did *not* include the new event -- for about 28 hours, only Steam
+  users were receiving the event.
+* **2023-09-29**: Hotfixes for the final Loot the Universe Remix event were
+  fixed for EGS users.
 
