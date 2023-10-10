@@ -740,4 +740,6 @@ I'll continue regardless...)
   users were receiving the event.
 * **2023-09-29**: Hotfixes for the final Loot the Universe Remix event were
   fixed for EGS users.
+* **2023-10-05**: Disabled the "Loot the Universe Remix" hotfixes, since the
+  event is now over.
 
