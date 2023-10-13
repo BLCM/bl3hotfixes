@@ -742,4 +742,6 @@ I'll continue regardless...)
   fixed for EGS users.
 * **2023-10-05**: Disabled the "Loot the Universe Remix" hotfixes, since the
   event is now over.
+* **2023-10-12**: Gearbox apparently re-activated the Loot The Universe Remix
+  Week 2 event (Promethea and Handsome Jackpot) but only for Steam users.
 
