@@ -159,7 +159,8 @@ for (other_store, other_hotfixes, other_do_write) in hotfixes[1:]:
             do_git = True
         else:
             # Really stupid check against writing repeated hotfix-diversion notifications out there.  GBX
-            # seems to be doing it a lot lately and we end up with hourly notifications
+            # seems to be doing it a lot lately and we end up with hourly notifications.  This check would
+            # fall apart if we ever have more than just egs + steam to check.
             last_dirent = list(sorted(os.scandir(point_in_time_dir), key=lambda d: d.stat().st_mtime))[-1]
             if re.match(f'^hotfixes_\d+_\d+_\d+_-_\d+_\d+_\d+_-_{other_store}(.*_difference_notice)?.txt$', last_dirent.name):
                 # Actually, I don't even want to get notified about it
