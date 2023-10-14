@@ -147,16 +147,16 @@ extra_files = []
 for (other_store, other_hotfixes, other_do_write) in hotfixes[1:]:
     if main_hotfixes != other_hotfixes:
 
-        # Hotfixes differ!  We'll write out a point-in-time for this,
-        # though in the event that this store hasn't changed, we'll
-        # write out a text file instead of JSON.
-        do_git = True
-
         if other_do_write:
             other_filename = now.strftime('hotfixes_%Y_%m_%d_-_%H_%M_%S_-_{}.json'.format(other_store))
             print('Writing new {} hotfixes to {}'.format(other_store, other_filename))
             with open(os.path.join(point_in_time_dir, other_filename), 'w') as df:
                 df.write(other_hotfixes)
+
+            # Hotfixes differ!  We'll write out a point-in-time for this,
+            # though in the event that this store hasn't changed, we'll
+            # write out a text file instead of JSON.
+            do_git = True
         else:
             # Really stupid check against writing repeated hotfix-diversion notifications out there.  GBX
             # seems to be doing it a lot lately and we end up with hourly notifications
@@ -171,6 +171,11 @@ for (other_store, other_hotfixes, other_do_write) in hotfixes[1:]:
                 with open(os.path.join(point_in_time_dir, other_filename), 'w') as df:
                     print('{} hotfixes have not changed since the last update, though'.format(other_store), file=df)
                     print('they now differ from the {} hotfixes'.format(main_store), file=df)
+
+                # Hotfixes differ!  We'll write out a point-in-time for this,
+                # though in the event that this store hasn't changed, we'll
+                # write out a text file instead of JSON.
+                do_git = True
 
         # Add this to our list of files
         extra_files.append(other_filename)
