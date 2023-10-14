@@ -27,6 +27,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 import os
+import re
 import sys
 import git
 import json
@@ -157,11 +158,19 @@ for (other_store, other_hotfixes, other_do_write) in hotfixes[1:]:
             with open(os.path.join(point_in_time_dir, other_filename), 'w') as df:
                 df.write(other_hotfixes)
         else:
-            other_filename = now.strftime('hotfixes_%Y_%m_%d_-_%H_%M_%S_-_{}.txt'.format(other_store))
-            print('Writing {} no-change notification to {}'.format(other_store, other_filename))
-            with open(os.path.join(point_in_time_dir, other_filename), 'w') as df:
-                print('{} hotfixes have not changed since the last update, though'.format(other_store), file=df)
-                print('they now differ from the {} hotfixes'.format(main_store), file=df)
+            # Really stupid check against writing repeated hotfix-diversion notifications out there.  GBX
+            # seems to be doing it a lot lately and we end up with hourly notifications
+            last_dirent = list(sorted(os.scandir(point_in_time_dir), key=lambda d: d.stat().st_mtime))[-1]
+            if re.match(f'^hotfixes_\d+_\d+_\d+_-_\d+_\d+_\d+_-_{other_store}(.*_difference_notice)?.txt$', last_dirent.name):
+                # Actually, I don't even want to get notified about it
+                #print(f'Found a previous {other_store} no-change notification, not writing out another')
+                pass
+            else:
+                other_filename = now.strftime('hotfixes_%Y_%m_%d_-_%H_%M_%S_-_{}.txt'.format(other_store))
+                print('Writing {} no-change notification to {}'.format(other_store, other_filename))
+                with open(os.path.join(point_in_time_dir, other_filename), 'w') as df:
+                    print('{} hotfixes have not changed since the last update, though'.format(other_store), file=df)
+                    print('they now differ from the {} hotfixes'.format(main_store), file=df)
 
         # Add this to our list of files
         extra_files.append(other_filename)
