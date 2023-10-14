@@ -164,7 +164,7 @@ for (other_store, other_hotfixes, other_do_write) in hotfixes[1:]:
             if re.match(f'^hotfixes_\d+_\d+_\d+_-_\d+_\d+_\d+_-_{other_store}(.*_difference_notice)?.txt$', last_dirent.name):
                 # Actually, I don't even want to get notified about it
                 #print(f'Found a previous {other_store} no-change notification, not writing out another')
-                pass
+                continue
             else:
                 other_filename = now.strftime('hotfixes_%Y_%m_%d_-_%H_%M_%S_-_{}.txt'.format(other_store))
                 print('Writing {} no-change notification to {}'.format(other_store, other_filename))
