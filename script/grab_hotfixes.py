@@ -35,6 +35,10 @@ import appdirs
 import requests
 import datetime
 
+# A couple of console URLs to hotfixes, for reference:
+# https://discovery.services.gearboxsoftware.com/v2/client/xboxlive/xboxseriesx/oak/verification
+# https://discovery.services.gearboxsoftware.com/v2/client/psn/ps4/oak/verification
+
 # The format marker in here will be filled in by `stores`, below
 hotfix_url = 'https://discovery.services.gearboxsoftware.com/v2/client/{}/pc/oak/verification'
 cache_base_file = 'hotfixes-{}.json'
