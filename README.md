@@ -744,4 +744,5 @@ I'll continue regardless...)
   event is now over.
 * **2023-10-12**: Gearbox apparently re-activated the Loot The Universe Remix
   Week 2 event (Promethea and Handsome Jackpot) but only for Steam users.
+* **2023-10-19**: Loot The Universe Remix properly deactivated for Steam, again.
 
