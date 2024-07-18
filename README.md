@@ -745,4 +745,20 @@ I'll continue regardless...)
 * **2023-10-12**: Gearbox apparently re-activated the Loot The Universe Remix
   Week 2 event (Promethea and Handsome Jackpot) but only for Steam users.
 * **2023-10-19**: Loot The Universe Remix properly deactivated for Steam, again.
+* **2023-11-16**: An unknown-purpose hotfix was added which enabled the
+  `UnlockWarchestVillains` CVar.  We actually don't know what this did, and
+  there doesn't seem to have been any announcement about anything (though
+  I'm writing this eight months after the fact, so if it was only announced
+  on Twitter or something, no clue how I'd find it).
+* **2023-12-11** through **2024-01-17**: A few very slight organizational
+  hotfix updates were technically pushed out, but without any actual hotfix
+  changes.  This is mentioned here only for completeness' sake, for anyone
+  who might be looking at file histories.
+* **2024-07-18**: A small patch was released (Steam build version
+  `OAK-PATCHWIN640-345-CL3248593`) which added some new cosmetics
+  related to the upcoming Borderlands movie release.  This also sets
+  the `UnlockWarchestHeroes` CVar, similar to a CVar set on the 2023-11-16
+  hotfix update, so it seems those could be related somehow.
+  ([Steam Update Notes](https://steamcommunity.com/games/397540/announcements/detail/7066794002037801544),
+  [Local Archive](gbx_info_archive/2024-07-18-steam_update_notes.md))
 
