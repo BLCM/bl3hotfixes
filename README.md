@@ -746,10 +746,8 @@ I'll continue regardless...)
   Week 2 event (Promethea and Handsome Jackpot) but only for Steam users.
 * **2023-10-19**: Loot The Universe Remix properly deactivated for Steam, again.
 * **2023-11-16**: An unknown-purpose hotfix was added which enabled the
-  `UnlockWarchestVillains` CVar.  We actually don't know what this did, and
-  there doesn't seem to have been any announcement about anything (though
-  I'm writing this eight months after the fact, so if it was only announced
-  on Twitter or something, no clue how I'd find it).
+  `UnlockWarchestVillains` CVar.  This is presumably related to the cosmetics
+  added on the August 31 patch, though it's unclear what actual effect it has.
 * **2023-12-11** through **2024-01-17**: A few very slight organizational
   hotfix updates were technically pushed out, but without any actual hotfix
   changes.  This is mentioned here only for completeness' sake, for anyone
