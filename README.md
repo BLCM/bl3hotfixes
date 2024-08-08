@@ -759,4 +759,9 @@ I'll continue regardless...)
   hotfix update, so it seems those could be related somehow.
   ([Steam Update Notes](https://steamcommunity.com/games/397540/announcements/detail/7066794002037801544),
   [Local Archive](gbx_info_archive/2024-07-18-steam_update_notes.md))
+* **2024-08-08**: A small patch was released (Steam build version
+  `OAK-PATCHAWSWIN64-434-CL3758051`) which introduces a few minor QOL
+  fixes.  No hotfix updates associated with this patch!
+  ([Local Archive](gbx_info_archive/2024-08-08-qol_updates.md) of
+  release notes; hasn't yet been posted somewhere that has a permalink.)
 
